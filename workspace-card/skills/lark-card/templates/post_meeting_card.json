@@ -1,0 +1,174 @@
+{
+    "body": {
+        "elements": [
+            {
+                "columns": [
+                    {
+                        "elements": [
+                            {
+                                "content": "**🕒 会议时间**\n{{meeting_time_block}}",
+                                "tag": "markdown"
+                            }
+                        ],
+                        "tag": "column",
+                        "weight": 1,
+                        "width": "weighted"
+                    },
+                    {
+                        "elements": [
+                            {
+                                "content": "**👤 参会人员**\n{{participants_block}}",
+                                "tag": "markdown"
+                            }
+                        ],
+                        "tag": "column",
+                        "weight": 1,
+                        "width": "weighted"
+                    }
+                ],
+                "flex_mode": "stretch",
+                "horizontal_spacing": "12px",
+                "margin": "0px",
+                "tag": "column_set"
+            },
+            {
+                "columns": [
+                    {
+                        "elements": [
+                            {
+                                "content": "**🔢 会议 ID**\n{{meeting_id}}",
+                                "tag": "markdown"
+                            }
+                        ],
+                        "tag": "column",
+                        "weight": 1,
+                        "width": "weighted"
+                    },
+                    {
+                        "elements": [
+                            {
+                                "content": "**⏱ 时长**\n{{duration_minutes}}",
+                                "tag": "markdown"
+                            }
+                        ],
+                        "tag": "column",
+                        "weight": 1,
+                        "width": "weighted"
+                    }
+                ],
+                "flex_mode": "stretch",
+                "horizontal_spacing": "12px",
+                "margin": "0px",
+                "tag": "column_set"
+            },
+            {
+                "columns": [
+                    {
+                        "background_style": "blue-50",
+                        "elements": [
+                            {
+                                "content": "**<font color='blue'>🎯 核心结论</font>**",
+                                "tag": "markdown"
+                            },
+                            {
+                                "content": "{{core_conclusions}}",
+                                "tag": "markdown"
+                            }
+                        ],
+                        "padding": "12px",
+                        "tag": "column",
+                        "vertical_spacing": "4px",
+                        "weight": 1,
+                        "width": "weighted"
+                    }
+                ],
+                "flex_mode": "stretch",
+                "horizontal_spacing": "12px",
+                "margin": "0px",
+                "tag": "column_set"
+            },
+            {
+                "columns": [
+                    {
+                        "background_style": "violet-50",
+                        "elements": [
+                            {
+                                "content": "**<font color='violet'>📋 决策事项</font>**",
+                                "tag": "markdown"
+                            },
+                            {
+                                "content": "{{decisions}}",
+                                "tag": "markdown"
+                            }
+                        ],
+                        "padding": "12px",
+                        "tag": "column",
+                        "vertical_spacing": "4px",
+                        "weight": 1,
+                        "width": "weighted"
+                    }
+                ],
+                "flex_mode": "stretch",
+                "horizontal_spacing": "12px",
+                "margin": "0px",
+                "tag": "column_set"
+            },
+            {
+                "columns": [
+                    {
+                        "data_type": "text",
+                        "display_name": "序号",
+                        "horizontal_align": "center",
+                        "name": "id",
+                        "width": "auto"
+                    },
+                    {
+                        "data_type": "text",
+                        "display_name": "负责人",
+                        "name": "assignee",
+                        "width": "auto"
+                    },
+                    {
+                        "data_type": "text",
+                        "display_name": "待办事项",
+                        "name": "task",
+                        "width": "auto"
+                    }
+                ],
+                "element_id": "custom_id",
+                "header_style": {
+                    "background_style": "none",
+                    "bold": true,
+                    "text_color": "grey-600"
+                },
+                "margin": "0px",
+                "rows": "{{action_items_rows}}",
+                "tag": "table"
+            },
+            {
+                "content": "**🔗 相关资源**\n{{related_links}}",
+                "margin": "0px",
+                "tag": "markdown"
+            },
+            {
+                "content": "{{footer}}",
+                "margin": "0px",
+                "tag": "markdown"
+            }
+        ]
+    },
+    "header": {
+        "icon": {
+            "color": "blue",
+            "tag": "standard_icon",
+            "token": "document-text-outlined"
+        },
+        "padding": "12px 8px 12px 8px",
+        "template": "blue",
+        "title": {
+            "content": "📋 会后纪要",
+            "tag": "plain_text"
+        }
+    },
+    "schema": "2.0"
+}

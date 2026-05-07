@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-03T02:40:00Z",
+  "meeting": {
+    "title": "智能会议助手",
+    "scheduled_at": "2026-05-03 11:00–11:30 Asia/Shanghai",
+    "timezone": "Asia/Shanghai",
+    "participants_hint": "约 0 人（日历计数）",
+    "objectives_user": null,
+    "related_chat_ids": [],
+    "related_doc_urls_or_tokens": [
+      "https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d",
+      "https://jcneyh7qlo8i.feishu.cn/docx/QN7odhcP8oLNQix9LYscpjjInwd",
+      "https://jcneyh7qlo8i.feishu.cn/docx/ODOrdwQ7Jo4Y5Ex2laYcp7N7npg"
+    ]
+  },
+  "sources": {
+    "cloud_documents": [
+      {
+        "title": "会议全链路 Agent PRD v0.1",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d",
+        "retrieval_mode": "outline",
+        "summary": "会议全链路 Agent 产品需求文档，定义运行在飞书生态内的智能会议助手，在会议全生命周期中自动完成「会前资料准备 → 会后任务追踪」的闭环。",
+        "key_points": [
+          "会前工作流：事件接收与标准化 → 会议类型分类 → 多源知识检索 → 简报内容生成 → 卡片渲染与推送",
+          "会后流水线：会议结束检测 → 会议内容采集 → 结构化纪要与 Action Item 提取 → 待办落地与卡片推送 → 反馈闭环",
+          "支持会前正常推送、会前反馈、修改后重新推送、会后正常路径、会后待办编辑等场景"
+        ],
+        "open_questions_from_doc": []
+      },
+      {
+        "title": "会议全链路助手：会前简报实操报告",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/QN7odhcP8oLNQix9LYscpjjInwd",
+        "retrieval_mode": "outline",
+        "summary": "实验会议：智能知识助手方案推进会（4 月 27 日 14:00-15:00）的会前简报实操报告，包含完整的闭环流程、操作步骤与效果验证指标。",
+        "key_points": [
+          "实验目标：基于真实接口测试，整理出可复现的会议全链路自动化命令组合",
+          "闭环流程全景：Step 1 创建会议 → Step 2 Agent 感知 → Step 3 会议类型分类 → Step 4 多源检索 → Step 5 读取历史资料 → Step 6 整理简报并推送",
+          "效果验证指标包括比赛交付物"
+        ],
+        "open_questions_from_doc": []
+      },
+      {
+        "title": "智能纪要：测试会议知识助手构建与任务安排 2026 年 4 月 26 日",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/ODOrdwQ7Jo4Y5Ex2laYcp7N7npg",
+        "retrieval_mode": "full",
+        "summary": "4 月 26 日测试会议聚焦构建 openclaw + 飞书 CLI 的主动型知识助手，会前自动推送背景知识，会后自动抽取 action items 生成飞书任务并维护事项总表。",
+        "key_points": [
+          "项目目标：构建知识助手，结合 openclaw 和飞书 CLI 构建面向项目团队的主动型知识助手",
+          "测试任务：明天中午之前把 Github 代码仓、事故仓库的 Demo 框架构建出来",
+          "待办：框架构建任务已安排"
+        ],
+        "open_questions_from_doc": []
+      }
+    ],
+    "past_meetings": [
+      {
+        "meeting_id": "7633424953397185488",
+        "title": "飞书 CLI 开发及后续工作会议",
+        "start_time": "2026-04-27T21:15:00+08:00",
+        "notes_available": true,
+        "summary": "围绕飞书 CLI 开发、监听功能、demo 搭建、prompt 编写展开讨论。明确朱泽奇负责会前部分，杨天智负责会后部分，斯楷扬负责 prompt 编写。监听功能未打通，考虑 heartbeat 替代方案（每 30 分钟检查一次）。",
+        "carry_over_actions": [
+          "Prompt 调试：斯楷扬从 4 月 28 日开始调试三个 prompt（会议类型分类、纪要提取、简报内容生成）",
+          "监听录制：杨天智录制监听内容供斯楷扬进行 prompt 修改，搭建 demo 过程中与朱泽奇多联系",
+          "监听处理：朱泽奇和杨天智尽量在 4 月 28 日之前尝试打通监听功能，若无法打通则先按 heartbeat 方式"
+        ],
+        "decisions_recalled": [
+          "分工：朱泽奇负责会前，杨天智负责会后，核心技术保持沟通",
+          "采用 Multi agent 形式：主 agent 分发任务、子 agent 执行任务",
+          "尽快完成初步 demo，后续再进行功能优化"
+        ]
+      },
+      {
+        "meeting_id": "7632590177219021767",
+        "title": "项目方案、技术与分工会议",
+        "start_time": "2026-04-25T15:12:00+08:00",
+        "notes_available": true,
+        "summary": "确定以方案 b（会议全链路 agent）为主方向，融入方案 a 和 d 部分内容。分工：斯楷扬负责流程文档和会议纪要抽取，朱泽奇负责检索（尝试不同检索方式），杨天智负责后端接口整理和集成。",
+        "carry_over_actions": [
+          "斯楷扬：尽快将流程文档编写出来，搜索相关资料，负责会议纪要抽取",
+          "朱泽奇：按不用向量数据库的方式尝试检索，查看 skillhub 上的会议纪要抽取 skill",
+          "杨天智：查看 API 接口，整理与项目相关的内容，关注开源仓库中与飞书相关的代码"
+        ],
+        "decisions_recalled": [
+          "项目方向：以方案 b（会议全链路 agent）为主，考虑融入方案 a（周期性智能总结）和 d（待办进展对齐）",
+          "技术路线：先尝试不用向量数据库，按主题或关键字分层检索",
+          "沟通机制：通过飞书群随时沟通，每天进行工作进度碰面对接"
+        ]
+      }
+    ],
+    "chats": []
+  },
+  "synthesis": {
+    "background": "本项目旨在构建运行在飞书生态内的智能会议助手，实现会议全生命周期的自动化闭环：会前自动检索历史文档和背景知识并推送简报，会后自动提取会议纪要中的待办事项并生成飞书任务。项目采用 openclaw + 飞书 CLI 技术栈，由朱泽奇（会前）、杨天智（会后）、斯楷扬（prompt 与流程）三人协作开发。",
+    "current_status": [
+      "已完成会议全链路 Agent PRD v0.1 文档，明确会前/会后工作流和交互流程",
+      "已完成会前简报实操报告和会后闭环实操报告，验证了 CLI 命令组合的可行性",
+      "4 月 27 日会议明确分工：朱泽奇负责会前部分，杨天智负责会后部分，斯楷扬负责 prompt 编写",
+      "监听功能（WebSocket 长连接）尚未打通，考虑采用 heartbeat 兜底方案（每 30 分钟检查一次）",
+      "计划采用 Multi agent 架构：主 agent 分发任务，子 agent 执行任务"
+    ],
+    "risks_and_blockers": [
+      "监听功能未打通：WebSocket 长连接能连上但监听不到事件，可能是 bot 与用户身份接口不一致或版本问题",
+      "效果验证缺乏数据支持：对简报知识产物的准确性自证缺乏数据源",
+      "时间压力：需尽快完成初步 demo，但核心技术（监听、prompt 调试）仍在攻关"
+    ],
+    "stakeholder_concerns": [
+      "朱泽奇：担心 RAG 向量化工作量大，建议先尝试关键词分层检索；关注 bot 与用户身份权限差异",
+      "斯楷扬：希望优化卡片效果，需要编写三个 prompt（会议分类、纪要提取、简报生成）",
+      "杨天智：关注 API 接口集成和开源代码缝合，使用本地 IDE 进行开发"
+    ],
+    "open_questions_for_chair": [
+      "监听功能是否能在 4 月 28 日前打通？若不能，heartbeat 频率定为多久合适（30 分钟还是更长）？",
+      "是否需要接入向量数据库进行 RAG 检索，还是继续使用关键词分层检索？",
+      "demo 的优先级和验收标准是什么？哪些功能是 MVP 必须包含的？",
+      "会议助手的目标用户是谁？是否需要支持外部会议或仅限内部会议？"
+    ],
+    "proposed_agenda": [
+      {
+        "topic": "进度同步：各模块当前完成情况",
+        "objective": "确认朱泽奇（会前）、杨天智（会后）、斯楷扬（prompt）的进展",
+        "time_budget_min": 10
+      },
+      {
+        "topic": "技术难点攻关：监听功能状态与 heartbeat 方案",
+        "objective": "决定监听功能是否继续攻关还是直接采用 heartbeat 兜底",
+        "time_budget_min": 10
+      },
+      {
+        "topic": "Demo 整合计划：Multi agent 架构实现路径",
+        "objective": "明确主 agent 与子 agent 的协作方式、任务分发机制",
+        "time_budget_min": 10
+      }
+    ],
+    "recommended_reads": [
+      {
+        "title": "会议全链路 Agent PRD v0.1",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d",
+        "reason": "了解完整的产品需求、工作流设计和验收标准"
+      },
+      {
+        "title": "智能纪要：飞书 CLI 开发及后续工作会议 2026 年 4 月 27 日",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/ZLcsd90xBohpslxcdLycrHrEnVf",
+        "reason": "了解上次会议的技术讨论、分工安排和待办事项"
+      }
+    ]
+  },
+  "meta": {
+    "cli_identity": "user",
+    "assumptions": [
+      "本次会议是项目组的例行进度同步会议",
+      "参会人为朱泽奇、杨天智、斯楷扬三人（基于历史会议推断）",
+      "会议目标是对齐 demo 开发进度、解决技术难点、确定下一步计划"
+    ],
+    "errors": [
+      "lark-cli drive +search 不支持 --as 参数，改用 docs +search",
+      "部分历史会议（7634539368300825545, 7634389804159945692）无会议纪要可用"
+    ],
+    "coverage_gaps": [
+      "IM 群聊记录搜索返回 0 条结果，未能获取相关群聊讨论",
+      "未获取到当前会议的详细参会人列表（participant_count 为 0）",
+      "未读取会议全链路助手：会后闭环实操报告等补充文档的完整内容"
+    ]
+  }
+}

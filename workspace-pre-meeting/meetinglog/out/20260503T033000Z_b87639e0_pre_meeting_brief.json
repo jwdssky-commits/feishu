@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-03T03:02:00Z",
+  "meeting": {
+    "title": "智能会议助手讨论",
+    "scheduled_at": "2026-05-03T03:30:00Z (Asia/Shanghai)",
+    "timezone": "Asia/Shanghai",
+    "participants_hint": ["约 0 人（日历计数）"],
+    "objectives_user": null,
+    "related_chat_ids": ["oc_f857fb2030beb301a91e5f3772daacfd"],
+    "related_doc_urls_or_tokens": [
+      "https://jcneyh7qlo8i.feishu.cn/docx/ODOrdwQ7Jo4Y5Ex2laYcp7N7npg",
+      "https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d",
+      "https://jcneyh7qlo8i.feishu.cn/docx/QN7odhcP8oLNQix9LYscpjjInwd"
+    ]
+  },
+  "sources": {
+    "cloud_documents": [
+      {
+        "title": "智能纪要：测试会议知识助手构建与任务安排 2026 年 4 月 26 日",
+        "url_or_token": "ODOrdwQ7Jo4Y5Ex2laYcp7N7npg",
+        "retrieval_mode": "full",
+        "summary": "测试会议知识闭环助手，结合 openclaw 和飞书 CLI 构建主动型知识助手，会前自动推送背景知识，会后自动抽取 action items 生成飞书任务。",
+        "key_points": [
+          "构建知识助手：结合 openclaw 和飞书 CLI 构建面向项目团队的主动型知识助手",
+          "会前自动推送背景知识，会后自动抽取 action items 生成飞书任务",
+          "维护事项总表，周期性对账风险并主动预警",
+          "测试任务：在 Github 代码仓构建事故仓库的 Demo 框架"
+        ],
+        "open_questions_from_doc": []
+      },
+      {
+        "title": "会议全链路 Agent PRD v0.1",
+        "url_or_token": "KDpAwHZSAiIovMksoSsc92Qyn3d",
+        "retrieval_mode": "full",
+        "summary": "运行在飞书生态内的智能会议助手，在会议的全生命周期中自动完成「会前资料准备 → 会后任务追踪」的闭环。会前 25-30 分钟推送简报卡片，会后 10 分钟内推送纪要与待办卡片。",
+        "key_points": [
+          "触发条件：飞书日历创建/修改会议事件，定时扫描兜底",
+          "会前：参会人在会议开始前 25-30 分钟收到「会前简报」卡片消息",
+          "会后：会议结束后 10 分钟内收到「会议纪要与待办」卡片消息",
+          "会议类型分类：需求评审、技术方案、项目复盘、日常同步、客户沟通、其他",
+          "多源知识检索：文档检索、历史纪要检索、关联任务检索"
+        ],
+        "open_questions_from_doc": []
+      },
+      {
+        "title": "会议全链路助手：会前简报实操报告",
+        "url_or_token": "QN7odhcP8oLNQix9LYscpjjInwd",
+        "retrieval_mode": "full",
+        "summary": "基于真实接口调用的完整复盘，验证会前简报自动化流程。实验结论：全流程可行，会议已成功创建，会前简报已推送给全部 3 位参会人。",
+        "key_points": [
+          "全流程验证：感知会议事件 → 判断会议类型 → 多源检索资料 → AI 整理成简报 → 推送给参会人",
+          "消息送达率 100%（3/3 位参会人）",
+          "calendar +agenda 返回的 event_id 带有_0 后缀，vc +search 无法直接对应",
+          "收件人列表应从创建时的 attendee-ids 或额外调用 calendar +event-get 获取"
+        ],
+        "open_questions_from_doc": []
+      }
+    ],
+    "past_meetings": [
+      {
+        "meeting_id": "7633424953397185488",
+        "title": "飞书 CLI 开发及后续工作会议",
+        "start_time": "2026-04-27T21:15:00+08:00",
+        "notes_available": true,
+        "summary": "围绕飞书 CLI 开发、监听功能、demo 搭建、prompt 编写等内容展开讨论，明确了开发分工、沟通方式和后续工作计划。",
+        "carry_over_actions": [
+          "Prompt 调试：调试三个 prompt（会议类型分类、纪要提取、简报内容生成）",
+          "监听录制：录制监听内容，以便进行 prompt 修改",
+          "监听功能：尝试打通监听功能，若无法打通则先按 heartbeat 方式（每 30 分钟检查一次）"
+        ],
+        "decisions_recalled": [
+          "机器人与用户身份：操作文档时需以用户身份编写，项目中使用 BOT 即可",
+          "本地部署 open cloud 进行开发，IDE 使用 Cursor 或 VSCode",
+          "Multi-agent 形式：主 agent 分发任务、子 agent 执行任务",
+          "分工：朱泽奇负责会前部分，杨天智负责会后部分"
+        ]
+      },
+      {
+        "meeting_id": "7632590177219021767",
+        "title": "项目方案、技术与分工会议",
+        "start_time": "2026-04-25T15:12:00+08:00",
+        "notes_available": true,
+        "summary": "确定了以方案 b 为主的项目方向（会议全链路 agent），明确了各成员的分工，对技术实现方式进行了探讨。",
+        "carry_over_actions": [
+          "流程文档撰写：撰写关于多 agent 系统的流程方案",
+          "检索方式尝试：按主题或关键字分层检索，观察效果",
+          "会议纪要抽取：从开源仓库缝合相关代码"
+        ],
+        "decisions_recalled": [
+          "以方案 b 为主方向（会议全链路 agent），融入方案 a 和 d 的部分内容",
+          "RAG 可行性：先尝试不用向量数据库，按主题或关键字分层检索",
+          "分工：斯楷扬负责流程文档和会议纪要抽取，朱泽奇负责检索，杨天智负责后端接口整理"
+        ]
+      }
+    ],
+    "chats": [
+      {
+        "chat_id": "oc_f857fb2030beb301a91e5f3772daacfd",
+        "chat_name": "斯楷扬，朱泽奇，杨天智",
+        "time_range": {
+          "start": "2026-04-19T00:00:00Z",
+          "end": "2026-05-03T03:30:00Z"
+        },
+        "summary": "项目核心讨论群，包含多次测试会议纪要推送、任务分配通知、会前简报卡片示例。",
+        "themes": [
+          "测试会议纪要自动生成与推送",
+          "任务创建与分配",
+          "会前简报卡片效果验证"
+        ],
+        "notable_decisions_or_blockers": [
+          "会议助手测试会议 01（04-28）：测试 openclaw 是否会主动生成 todo 并监测",
+          "会前简报卡片已成功推送给参会人（04-30）",
+          "多个测试任务已创建并分配给朱泽奇"
+        ]
+      }
+    ]
+  },
+  "synthesis": {
+    "background": "本项目为飞书 AI 校园挑战赛方向 B（会议全链路伴侣），目标是构建运行在飞书生态内的智能会议助手，自动完成「会前资料准备 → 会后任务追踪」的闭环。项目已有完整的 PRD 文档和多次实操验证，会前简报流程已验证可行（消息送达率 100%）。",
+    "current_status": [
+      "PRD v0.1 已完成（斯楷扬，04-27）",
+      "会前简报实操报告已完成，全流程验证可行（杨天智，04-29）",
+      "测试会议纪要自动生成与推送功能已实现",
+      "监听功能尚未完全打通，考虑采用 heartbeat 方式（每 30 分钟检查一次）",
+      "Multi-agent 编排方案因 open cloud 限制待定"
+    ],
+    "risks_and_blockers": [
+      "监听功能未打通：长连接能连上但监听不到事件，可能是版本问题或 bot/user 身份接口不一致",
+      "Multi-agent 编排：open cloud 无法实现多 agent 协作，需寻找替代方案",
+      "event_id 匹配问题：calendar +agenda 返回的 event_id 带有_0 后缀，vc +search 无法直接对应",
+      "部分任务已逾期（如准备应用商店上架材料，截止 05-08）"
+    ],
+    "stakeholder_concerns": [
+      "朱泽奇：监听功能技术难点，RAG 检索工作量，会议纪要抽取 skill 可用性",
+      "杨天智：本地部署与云端效果对比，卡片优化需求",
+      "斯楷扬：prompt 编写（3 个），卡片效果优化，流程文档完善"
+    ],
+    "open_questions_for_chair": [
+      "监听功能是否已打通？若未打通，是否确认采用 heartbeat 方案（每 30 分钟检查一次）？",
+      "Multi-agent 编排是否有替代方案（如任务队列、子进程等）？",
+      "本次讨论会的具体目标是什么（技术方案确认、分工调整、Demo 评审等）？",
+      "是否需要邀请 PRD 作者（斯楷扬）或往期会议组织者参会？"
+    ],
+    "proposed_agenda": [
+      {
+        "topic": "监听功能状态确认",
+        "objective": "确认监听功能是否已打通，若未打通则确认 heartbeat 替代方案的实现细节",
+        "time_budget_min": 10
+      },
+      {
+        "topic": "Multi-agent 编排方案讨论",
+        "objective": "针对 open cloud 限制，讨论替代方案（任务队列、子进程、分布式任务等）",
+        "time_budget_min": 10
+      },
+      {
+        "topic": "Demo 进度同步",
+        "objective": "同步各方 Demo 搭建进度，确认下一步分工和时间节点",
+        "time_budget_min": 10
+      }
+    ],
+    "recommended_reads": [
+      {
+        "title": "会议全链路 Agent PRD v0.1",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d",
+        "reason": "完整的项目需求文档，包含功能定义、工作流、分类体系等核心信息"
+      },
+      {
+        "title": "会前简报实操报告",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/QN7odhcP8oLNQix9LYscpjjInwd",
+        "reason": "真实接口调用的完整复盘，包含每一步的真实操作与返回，有助于理解实现细节"
+      },
+      {
+        "title": "飞书 CLI 开发及后续工作会议纪要",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/ZLcsd90xBohpslxcdLycrHrEnVf",
+        "reason": "上次会议明确了分工和监听功能问题，本次需跟进进展"
+      }
+    ]
+  },
+  "meta": {
+    "cli_identity": "user",
+    "assumptions": [
+      "会议标题和时间为上游传入的锚点信息",
+      "participant_count 为 0 可能是日历 API 未返回 attendee 列表",
+      "检索窗口为会议前 14 天（2026-04-19 至 2026-05-03）"
+    ],
+    "errors": [],
+    "coverage_gaps": [
+      "IM 群聊消息列表因 external chat 限制无法直接获取（HTTP 400: b2c app not support）",
+      "未获取到完整的参会人列表（participant_count 为 0）",
+      "未调用 calendar.events.get 获取日程详情（需确认具体参数）"
+    ]
+  }
+}

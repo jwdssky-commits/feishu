@@ -1,0 +1,9 @@
+{
+  "_comment": "Card Builder 模版（ctp_）方案时使用：复制为 card_binding.json 并填写 template_id、receive_id；与 meeting_minutes_card.schema2.json（完整 JSON 卡片）二选一。",
+  "template_id": "ctp_xxxxxxxxxxxxxxxx",
+  "template_version_name": "",
+  "receive_id_type": "chat_id",
+  "receive_id": "oc_xxxxxxxxxxxxxxxx",
+  "send_as": "bot",
+  "variable_map": {}
+}

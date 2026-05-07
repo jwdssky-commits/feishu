@@ -1,0 +1,188 @@
+{
+  "schema": "2.0",
+  "header": {
+    "title": {
+      "tag": "plain_text",
+      "content": "📝 会议纪要"
+    },
+    "template": "blue",
+    "padding": "12px 8px 12px 8px"
+  },
+  "body": {
+    "elements": [
+      {
+        "tag": "img",
+        "img_key": "img_v3_0211a_5bfead86-7ecb-4799-8649-e4f6ea04a16g",
+        "corner_radius": "8px",
+        "margin": "0px 0px 12px 0px"
+      },
+      {
+        "tag": "markdown",
+        "content": "[项目方案、技术与分工会议](https://applink.feishu.cn/client/vctab/open?source=chat%26action=detail%26meetingId=7632590177219021767)\n\n🕐 25/04/25 15:12 - 16:00 (UTC+8)\n👥 3人参会\n🎥 [进入会议](https://applink.feishu.cn/client/vctab/open?source=chat%26action=detail%26meetingId=7632590177219021767)\n📋 [智能纪要](https://applink.feishu.cn/client/vctab/open?source=chat%26action=detail%26meetingId=7632590177219021767)\n📝 [逐字稿](https://applink.feishu.cn/client/vctab/open?source=chat%26action=detail%26meetingId=7632590177219021767)"
+      },
+      {
+        "tag": "column_set",
+        "margin": "0px 0px 12px 0px",
+        "horizontal_spacing": "12px",
+        "columns": [
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "blue-50",
+            "padding": "12px",
+            "vertical_spacing": "4px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "**<font color='blue'>📌 会议摘要</font>**"
+              },
+              {
+                "tag": "markdown",
+                "content": "围绕飞书 AI 校园挑战赛方向B「会议全链路伴侣」展开技术与分工讨论。确认以全链路Agent为核心，覆盖会前资料准备到会后任务追踪的完整闭环。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "column_set",
+        "margin": "0px 0px 12px 0px",
+        "horizontal_spacing": "12px",
+        "columns": [
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "violet-50",
+            "padding": "12px",
+            "vertical_spacing": "4px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "**<font color='violet'>🔑 关键结论</font>**"
+              },
+              {
+                "tag": "markdown",
+                "content": "1️⃣ 选题方向B「会议与项目全链路伴侣」，偏协作与对齐\n2️⃣ 基于 OpenClaw + 飞书 CLI 构建主动型智能会议助手\n3️⃣ 日历事件触发→Agent检索知识库→推送会前简报/会后纪要\n4️⃣ 斯楷扬负责PRD+流程梳理，杨天智负责CLI实操验证"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "markdown",
+        "content": "**📄 后续产出**"
+      },
+      {
+        "tag": "column_set",
+        "margin": "0px 0px 12px 0px",
+        "horizontal_spacing": "12px",
+        "flex_mode": "flow",
+        "columns": [
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "purple-50",
+            "padding": "12px",
+            "vertical_spacing": "4px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "[会议全链路Agent PRD v0.1](会议全链路Agent PRD v0.1)\n— 斯楷扬"
+              }
+            ]
+          },
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "purple-50",
+            "padding": "12px",
+            "vertical_spacing": "4px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "[流程梳理](会议全链路Agent  流程梳理)\n— 斯楷扬"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "column_set",
+        "margin": "0px 0px 12px 0px",
+        "horizontal_spacing": "12px",
+        "flex_mode": "flow",
+        "columns": [
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "purple-50",
+            "padding": "12px",
+            "vertical_spacing": "4px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "[会前简报实操报告](会议全链路助手：会前简报实操报告)\n— 杨天智"
+              }
+            ]
+          },
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "purple-50",
+            "padding": "12px",
+            "vertical_spacing": "4px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "[会后闭环实操报告](会议全链路助手：会后闭环实操报告)\n— 杨天智"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "markdown",
+        "content": "**✅ 待办事项**"
+      },
+      {
+        "tag": "column_set",
+        "margin": "0px 0px 12px 0px",
+        "horizontal_spacing": "12px",
+        "columns": [
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "blue-50",
+            "padding": "12px",
+            "vertical_spacing": "8px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "▸ 🔲 [接口整理：从API中整理出与需求相关的接口](https://applink.feishu.cn/client/todo/detail?guid=c3d86665-9448-4bee-9fea-622a6aeebdb2)\n— @斯楷扬 — P1"
+              },
+              {
+                "tag": "markdown",
+                "content": "▸ 🔲 [用户画像2.0上线Checklist确认](https://applink.feishu.cn/client/todo/detail?guid=8351de14-0b88-436c-9381-f0b56114ffa1)\n— @杨天智 — 截止 05-01"
+              },
+              {
+                "tag": "markdown",
+                "content": "▸ 🔲 [灰度数据留存分析补充](https://applink.feishu.cn/client/todo/detail?guid=8a32795e-2bf0-4871-be02-99b47d1efd8d)\n— @杨天智 — 截止 05-02"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "markdown",
+        "content": "<font color='grey'>🤖 会议助手 · 会后自动推送 · 以上链接及任务均来自真实飞书数据</font>"
+      }
+    ]
+  }
+}

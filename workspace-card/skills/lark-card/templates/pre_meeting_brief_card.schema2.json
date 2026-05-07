@@ -1,0 +1,19 @@
+{
+  "schema": "2.0",
+  "header": {
+    "title": {
+      "tag": "plain_text",
+      "content": "📋 会前简报"
+    },
+    "template": "turquoise",
+    "padding": "12px 8px 12px 8px"
+  },
+  "body": {
+    "elements": [
+      {
+        "tag": "markdown",
+        "content": "**会议**\n（标题）\n\n🕐 时间 · 👥 规模提示\n\n---\n\n**背景**\n（synthesis.background）\n\n---\n\n**当前进展**\n- …\n\n---\n\n**风险与阻塞**\n- …\n\n---\n\n**需主持人澄清的问题**\n- …\n\n---\n\n**建议议程**\n1. …\n\n---\n\n**推荐阅读**\n- [标题](链接) — 理由\n\n---\n\n<font color='grey'>generated_at · schema_version</font>"
+      }
+    ]
+  }
+}
