@@ -1,0 +1,14 @@
+# OpenClaw local workspace state
+.openclaw/
+
+# Runtime data (overwritten each run)
+var/drive_search.json
+var/docs_search.json
+var/vc_search.json
+var/docs_fetch.json
+var/pre_result.json
+var/pending_summaries.json
+
+# Python cache
+__pycache__/
+*.pyc

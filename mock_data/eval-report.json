@@ -1,0 +1,63 @@
+{
+  "inputs": {
+    "requests": "C:\\Data\\01_Work\\Code\\mock_data\\requests.jsonl",
+    "runs": "C:\\Data\\01_Work\\Code\\mock_data\\main-agent-runs.jsonl",
+    "meetings": "C:\\Data\\01_Work\\Code\\mock_data\\meetings.json"
+  },
+  "summary": {
+    "meetings": 1,
+    "weighted_score": 1,
+    "retrieval_coverage": 1,
+    "task_recall": 1,
+    "task_precision": 1,
+    "doc_citation_recall": 1,
+    "card_delivery_coverage": 1,
+    "write_safety": 1,
+    "avg_main_turn_ms": 57935
+  },
+  "meetings": [
+    {
+      "meeting_id": "M01",
+      "title": "OpenClaw框架产品立项会",
+      "counts": {
+        "requests": 15,
+        "card_sends": 2,
+        "task_creates": 1,
+        "expected_tasks": 1,
+        "referenced_docs": 2,
+        "cited_docs": 2
+      },
+      "metrics": {
+        "retrieval_coverage": 1,
+        "task_recall": 1,
+        "task_precision": 1,
+        "doc_citation_recall": 1,
+        "card_delivery_coverage": 1,
+        "write_safety": 1,
+        "weighted_score": 1,
+        "avg_main_turn_ms": 57935,
+        "compression_ratio": 0.49460824975492046
+      },
+      "evidence": {
+        "reads": {
+          "calendar": true,
+          "meetingGet": true,
+          "noteFetch": true,
+          "docsSearch": true,
+          "vcSearch": true
+        },
+        "matched_tasks": [
+          "T01-1"
+        ],
+        "hallucinated_task_commands": [],
+        "cited_docs": [
+          "DOC-01",
+          "DOC-02"
+        ],
+        "write_leaks": [],
+        "pre_message_id": "mock-api-msg-1778060911862",
+        "post_message_id": "mock-api-msg-1778060995553"
+      }
+    }
+  ]
+}

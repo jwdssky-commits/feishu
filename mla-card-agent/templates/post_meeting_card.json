@@ -1,0 +1,122 @@
+{
+  "schema": "2.0",
+  "header": {
+    "title": {
+      "tag": "plain_text",
+      "content": "📋 会后纪要"
+    },
+    "template": "blue",
+    "padding": "12px 12px 12px 12px"
+  },
+  "body": {
+    "elements": [
+      {
+        "tag": "column_set",
+        "horizontal_spacing": "12px",
+        "margin": "0px 0px 12px 0px",
+        "columns": [
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "blue-50",
+            "padding": "12px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "**<font color='blue'>[{{meeting_summary}}]({{meeting_minutes_url}})</font>**\n\n⏰ {{meeting_date}} {{meeting_time_range}} (UTC+8)\n👥 {{participant_count}} 人参会 · {{todo_count}} 项行动"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "column_set",
+        "flex_mode": "stretch",
+        "horizontal_spacing": "12px",
+        "margin": "0px 0px 12px 0px",
+        "columns": [
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "green-50",
+            "padding": "12px",
+            "vertical_spacing": "4px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "**✅ 已闭环**"
+              },
+              {
+                "tag": "markdown",
+                "content": "{{conclusions_closed}}"
+              },
+              {
+                "tag": "hr"
+              },
+              {
+                "tag": "markdown",
+                "content": "**⏳ 待跟进**"
+              },
+              "{{todo_rows}}"
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "column_set",
+        "flex_mode": "stretch",
+        "horizontal_spacing": "12px",
+        "margin": "0px 0px 12px 0px",
+        "columns": [
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "grey-50",
+            "padding": "12px",
+            "vertical_spacing": "4px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "**📎 相关文档**"
+              },
+              "{{doc_rows}}"
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "column_set",
+        "flex_mode": "stretch",
+        "horizontal_spacing": "12px",
+        "margin": "0px 0px 12px 0px",
+        "columns": [
+          {
+            "tag": "column",
+            "width": "weighted",
+            "weight": 1,
+            "background_style": "blue-50",
+            "padding": "12px",
+            "vertical_spacing": "4px",
+            "elements": [
+              {
+                "tag": "markdown",
+                "content": "**📌 历史决策**"
+              },
+              {
+                "tag": "markdown",
+                "content": "{{history_decisions}}"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "markdown",
+        "content": "<font color='grey'>{{footer}}</font>"
+      }
+    ]
+  }
+}

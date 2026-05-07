@@ -1,0 +1,11 @@
+# OpenClaw local workspace state
+.openclaw/
+
+# Runtime data (overwritten each run)
+var/card.json
+var/send_receipt.json
+var/card_result.json
+
+# Python cache
+__pycache__/
+*.pyc

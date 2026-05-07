@@ -1,0 +1,57 @@
+{
+  "schema_version": "mla.pre_result.v1",
+  "type": "pre_meeting_brief",
+  "status": "partial",
+  "idempotency_key": "mla-pre_meeting-b7ff9576-20260501",
+  "meeting": {
+    "event_id": "b7ff9576-e4c4-4805-a6f6-9aafe7bfdda5_0",
+    "summary": "【会议助手测试会议19】输出全链路压测方案（含并发用户模型）",
+    "start_time": "2026-05-01T10:00:00+08:00",
+    "end_time": "2026-05-01T10:30:00+08:00",
+    "app_link": "https://applink.feishu.cn/client/calendar/event/detail?...",
+    "vchat_url": "https://vc.feishu.cn/j/600239808"
+  },
+  "brief": {
+    "one_sentence_goal": "讨论Meeting Life Agent覆盖会前检索、会后任务、卡片推送的全链路压测方案，输出含并发用户模型的可执行方案",
+    "background_items": [
+      {
+        "text": "本次会议需覆盖三大核心模块：会前资料检索、会后任务生成、会议卡片推送，方案须包含并发用户模型设计",
+        "importance": "high",
+        "source": {
+          "type": "calendar_description",
+          "title": "【会议助手测试会议19】输出全链路压测方案（含并发用户模型）"
+        },
+        "confidence": 1.0
+      }
+    ],
+    "history_decisions": [],
+    "open_risks": [],
+    "suggested_agenda": [
+      "1. 对齐全链路压测覆盖范围，明确三大核心模块的压测边界与优先级",
+      "2. 讨论并发用户模型设计：基准/峰值并发量级、用户行为路径分布",
+      "3. 对齐压测核心指标与验收标准",
+      "4. 分配压测方案编写责任人与交付时间节点"
+    ],
+    "related_links": [
+      {"title": "日历事件", "url": "https://applink.feishu.cn/client/calendar/event/detail?...", "type": "calendar"},
+      {"title": "视频会议", "url": "https://vc.feishu.cn/j/600239808", "type": "vc"}
+    ]
+  },
+  "retrieval_trace": {
+    "keywords": ["agent", "MLA", "会议助手"],
+    "docs_searched": 0,
+    "docs_read": 0,
+    "meetings_searched": 0,
+    "minutes_read": 0
+  },
+  "warnings": [
+    {
+      "code": "NO_RELATED_DOCS",
+      "message": "驱动搜索 agent、MLA、会议助手等宽关键词均未找到高度相关文档。建议后续补充知识库索引。"
+    },
+    {
+      "code": "NO_HISTORY_MEETINGS",
+      "message": "过去30天无相关历史会议记录。"
+    }
+  ]
+}

@@ -1,0 +1,893 @@
+[
+  {
+    "id": "M01",
+    "type": "mainline",
+    "title": "OpenClaw框架产品立项会",
+    "date": "2026-03-02",
+    "time": "10:00-11:30",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 90,
+    "source": "飞书妙记",
+    "summary": "讨论OpenClaw框架的产品定位、目标客户和MVP范围。确定面向B端企业客户提供AI应用开发框架，MVP聚焦RAG+Agent两条核心能力线。",
+    "decisions": [
+      {
+        "id": "D01-1",
+        "content": "确定OpenClaw定位为面向B端的AI应用开发框架",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": ""
+      },
+      {
+        "id": "D01-2",
+        "content": "MVP范围聚焦RAG+Agent两条核心能力线",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": ""
+      },
+      {
+        "id": "D01-3",
+        "content": "输出OpenClaw MVP PRD v1",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "编写MVP产品需求文档",
+        "deadline": "03/07"
+      }
+    ],
+    "todos": [
+      {
+        "id": "T01-1",
+        "content": "调研3家竞品的RAG方案能力边界",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "输出竞品分析报告",
+        "deadline": "03/05"
+      },
+      {
+        "id": "T01-2",
+        "content": "调研主流Agent框架的技术架构",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "输出技术调研报告",
+        "deadline": "03/05"
+      }
+    ],
+    "referenced_docs": ["DOC-01", "DOC-02"],
+    "tags": ["立项", "方向"]
+  },
+  {
+    "id": "M02",
+    "type": "mainline",
+    "title": "竞品分析与技术调研同步会",
+    "date": "2026-03-06",
+    "time": "14:00-15:00",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 60,
+    "source": "飞书妙记",
+    "summary": "同步竞品调研和技术调研结果。发现竞品在多轮对话和工具调用方面存在明显短板，这是OpenClaw的差异化机会。",
+    "decisions": [
+      {
+        "id": "D02-1",
+        "content": "OpenClaw差异化方向：多轮对话+工具调用的深度支持",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T02-1",
+        "content": "补充Dify和Coze的Agent能力对比",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "补充竞品分析报告",
+        "deadline": "03/08"
+      }
+    ],
+    "referenced_docs": ["DOC-01", "DOC-02"],
+    "tags": ["调研", "竞品"]
+  },
+  {
+    "id": "M03",
+    "type": "mainline",
+    "title": "MVP需求评审会",
+    "date": "2026-03-10",
+    "time": "10:00-12:00",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 120,
+    "source": "飞书妙记",
+    "summary": "评审PRD v1，需求池共23个需求。确定P0需求8个（RAG检索、RAG生成、Agent编排、工具注册、对话管理、API网关、租户隔离、用量计费），P1需求6个，其余P2移入后续迭代。",
+    "decisions": [
+      {
+        "id": "D03-1",
+        "content": "P0需求8个冻结，P1需求6个待技术评审后确认",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": ""
+      },
+      {
+        "id": "D03-2",
+        "content": "定价策略初定：按API调用量阶梯计费",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T03-1",
+        "content": "输出PRD v2（补充P0需求验收标准）",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "补充验收标准",
+        "deadline": "03/14"
+      },
+      {
+        "id": "T03-2",
+        "content": "输出技术选型方案",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "编写技术选型文档",
+        "deadline": "03/17"
+      }
+    ],
+    "referenced_docs": ["DOC-03", "DOC-01"],
+    "tags": ["需求", "评审"]
+  },
+  {
+    "id": "M04",
+    "type": "mainline",
+    "title": "技术选型评审会",
+    "date": "2026-03-18",
+    "time": "14:00-16:00",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 120,
+    "source": "飞书妙记",
+    "summary": "评审技术选型方案。杨提出LangChain方案和自研方案两个选项。讨论后认为LangChain在工具调用灵活性上受限，决定自研核心编排引擎+复用开源向量库。",
+    "decisions": [
+      {
+        "id": "D04-1",
+        "content": "采用自研编排引擎+Milvus向量库方案",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      },
+      {
+        "id": "D04-2",
+        "content": "后端语言选型Python，前端React+TypeScript",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T04-1",
+        "content": "输出系统架构设计文档",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "编写架构设计文档",
+        "deadline": "03/25"
+      },
+      {
+        "id": "T04-2",
+        "content": "输出API接口设计文档v1",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "编写API设计文档",
+        "deadline": "03/25"
+      },
+      {
+        "id": "T04-3",
+        "content": "输出前端技术方案",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "编写前端技术方案",
+        "deadline": "03/25"
+      }
+    ],
+    "referenced_docs": ["DOC-05", "DOC-06"],
+    "tags": ["技术选型", "架构"]
+  },
+  {
+    "id": "M05",
+    "type": "mainline",
+    "title": "架构设计评审会",
+    "date": "2026-03-27",
+    "time": "10:00-12:00",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 120,
+    "source": "飞书妙记",
+    "summary": "评审系统架构设计。确认微服务架构，核心服务包括：编排引擎、RAG服务、工具注册中心、API网关、租户服务。数据流采用事件驱动模式。",
+    "decisions": [
+      {
+        "id": "D05-1",
+        "content": "确认微服务架构和5大核心服务划分",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      },
+      {
+        "id": "D05-2",
+        "content": "数据流采用事件驱动模式",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T05-1",
+        "content": "输出数据流设计文档",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "编写数据流设计",
+        "deadline": "04/01"
+      },
+      {
+        "id": "T05-2",
+        "content": "搭建开发环境和CI/CD流水线",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "搭建基础设施",
+        "deadline": "04/03"
+      }
+    ],
+    "referenced_docs": ["DOC-07", "DOC-05"],
+    "tags": ["架构", "设计"]
+  },
+  {
+    "id": "M06",
+    "type": "mainline",
+    "title": "开发启动与排期会",
+    "date": "2026-04-02",
+    "time": "14:00-15:30",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 90,
+    "source": "飞书妙记",
+    "summary": "确认开发排期：Sprint1(04/07-04/18)完成RAG检索+Agent编排核心，Sprint2(04/21-05/02)完成API网关+工具注册+前端控制台。朱负责前端+联调，杨负责后端全部核心服务。",
+    "decisions": [
+      {
+        "id": "D06-1",
+        "content": "两轮Sprint排期确认，05/05完成全部P0开发",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T06-1",
+        "content": "完成RAG检索服务开发",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "Sprint1核心任务",
+        "deadline": "04/18"
+      },
+      {
+        "id": "T06-2",
+        "content": "完成Agent编排引擎开发",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "Sprint1核心任务",
+        "deadline": "04/18"
+      },
+      {
+        "id": "T06-3",
+        "content": "完成前端控制台框架搭建",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "Sprint1前端任务",
+        "deadline": "04/18"
+      }
+    ],
+    "referenced_docs": ["DOC-03", "DOC-07"],
+    "tags": ["开发", "排期"]
+  },
+  {
+    "id": "M07",
+    "type": "mainline",
+    "title": "Sprint1进度同步会",
+    "date": "2026-04-14",
+    "time": "10:00-10:30",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 30,
+    "source": "飞书妙记",
+    "summary": "Sprint1进度：RAG检索完成80%，Agent编排完成60%，前端框架完成90%。杨反馈Agent编排的工具调用链比预期复杂，可能延期2天。",
+    "decisions": [],
+    "todos": [
+      {
+        "id": "T07-1",
+        "content": "Agent编排延期2天，Sprint1截止调整为04/20",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "追赶进度",
+        "deadline": "04/20"
+      },
+      {
+        "id": "T07-2",
+        "content": "前端控制台接入RAG检索API",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "前后端联调",
+        "deadline": "04/18"
+      }
+    ],
+    "referenced_docs": ["DOC-08"],
+    "tags": ["进度", "Sprint1"]
+  },
+  {
+    "id": "M08",
+    "type": "mainline",
+    "title": "Sprint1复盘与Sprint2启动会",
+    "date": "2026-04-21",
+    "time": "14:00-15:30",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 90,
+    "source": "飞书妙记",
+    "summary": "Sprint1复盘：RAG检索和Agent编排均完成，延期1天。工具调用链的复杂度是主因。Sprint2任务分配：杨负责API网关+工具注册中心，朱负责前端控制台完整功能+租户管理页面。",
+    "decisions": [
+      {
+        "id": "D08-1",
+        "content": "Sprint2任务分配确认",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T08-1",
+        "content": "完成API网关开发",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "Sprint2核心任务",
+        "deadline": "05/02"
+      },
+      {
+        "id": "T08-2",
+        "content": "完成工具注册中心开发",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "Sprint2核心任务",
+        "deadline": "05/02"
+      },
+      {
+        "id": "T08-3",
+        "content": "完成前端控制台全部功能",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "Sprint2前端任务",
+        "deadline": "05/02"
+      }
+    ],
+    "referenced_docs": ["DOC-08", "DOC-09"],
+    "tags": ["复盘", "Sprint2"]
+  },
+  {
+    "id": "M09",
+    "type": "mainline",
+    "title": "前后端联调问题排查会",
+    "date": "2026-04-28",
+    "time": "10:00-11:30",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 90,
+    "source": "飞书妙记",
+    "summary": "联调发现3个问题：1)API网关的流控策略与前端重试逻辑冲突导致请求丢失；2)工具注册中心的Schema校验过于严格，部分合法工具被拒；3)租户隔离在并发场景下有数据泄漏风险。",
+    "decisions": [
+      {
+        "id": "D09-1",
+        "content": "流控策略改为服务端限流，前端移除重试逻辑",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T09-1",
+        "content": "修复工具注册中心Schema校验逻辑",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "放宽校验规则",
+        "deadline": "04/30"
+      },
+      {
+        "id": "T09-2",
+        "content": "修复租户隔离并发数据泄漏问题",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "加锁+测试",
+        "deadline": "05/01"
+      },
+      {
+        "id": "T09-3",
+        "content": "前端适配新的流控策略",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "移除重试逻辑",
+        "deadline": "04/30"
+      }
+    ],
+    "referenced_docs": ["DOC-06", "DOC-07"],
+    "tags": ["联调", "Bug"]
+  },
+  {
+    "id": "M10",
+    "type": "mainline",
+    "title": "Sprint2进度同步与卡点讨论",
+    "date": "2026-05-02",
+    "time": "14:00-15:00",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 60,
+    "source": "飞书妙记",
+    "summary": "Sprint2进度：API网关完成90%，工具注册中心完成85%，前端完成95%。卡点：租户隔离的并发问题仍未完全解决，杨需要额外2天。朱的前端已基本完成，等待后端接口稳定。",
+    "decisions": [],
+    "todos": [
+      {
+        "id": "T10-1",
+        "content": "彻底解决租户隔离并发问题",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "重写隔离层+压测",
+        "deadline": "05/05"
+      },
+      {
+        "id": "T10-2",
+        "content": "前端等待后端接口稳定后完成联调",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "等待+联调",
+        "deadline": "05/06"
+      }
+    ],
+    "referenced_docs": ["DOC-09"],
+    "tags": ["进度", "卡点", "Sprint2"]
+  },
+  {
+    "id": "M11",
+    "type": "mainline",
+    "title": "内测启动会",
+    "date": "2026-05-07",
+    "time": "10:00-11:00",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 60,
+    "source": "飞书妙记",
+    "summary": "全部P0开发完成，启动内测。内测范围：公司内部3个团队试用，为期5天。收集反馈后进入修复Sprint。",
+    "decisions": [
+      {
+        "id": "D11-1",
+        "content": "内测范围和周期确认：3个内部团队，5天",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T11-1",
+        "content": "部署内测环境",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "部署+监控配置",
+        "deadline": "05/08"
+      },
+      {
+        "id": "T11-2",
+        "content": "编写内测引导文档",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "编写Quick Start",
+        "deadline": "05/08"
+      }
+    ],
+    "referenced_docs": ["DOC-03", "DOC-06"],
+    "tags": ["内测", "部署"]
+  },
+  {
+    "id": "M12",
+    "type": "mainline",
+    "title": "内测反馈整理会",
+    "date": "2026-05-13",
+    "time": "14:00-15:30",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 90,
+    "source": "飞书妙记",
+    "summary": "内测反馈汇总：正面评价占70%，主要问题：1)RAG检索在长文档场景下速度慢；2)Agent编排的错误提示不够友好；3)控制台缺少用量可视化。共12个Bug+5个体验优化。",
+    "decisions": [
+      {
+        "id": "D12-1",
+        "content": "修复Sprint优先级：P0 Bug 5个 > 用量可视化 > 其余Bug+优化",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T12-1",
+        "content": "修复5个P0 Bug",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "含租户隔离、流控等",
+        "deadline": "05/16"
+      },
+      {
+        "id": "T12-2",
+        "content": "开发用量可视化模块",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "控制台新增页面",
+        "deadline": "05/18"
+      },
+      {
+        "id": "T12-3",
+        "content": "优化RAG长文档检索性能",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "分片+缓存策略",
+        "deadline": "05/18"
+      }
+    ],
+    "referenced_docs": ["DOC-14", "DOC-15"],
+    "tags": ["内测", "反馈", "修复"]
+  },
+  {
+    "id": "M13",
+    "type": "mainline",
+    "title": "修复Sprint进度同步会",
+    "date": "2026-05-16",
+    "time": "10:00-10:30",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 30,
+    "source": "飞书妙记",
+    "summary": "5个P0 Bug已修复3个，剩余2个预计明天完成。用量可视化进度60%。RAG性能优化方案确定：采用文档分片+Redis缓存。",
+    "decisions": [],
+    "todos": [
+      {
+        "id": "T13-1",
+        "content": "完成剩余2个P0 Bug修复",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "最后2个Bug",
+        "deadline": "05/17"
+      }
+    ],
+    "referenced_docs": ["DOC-14"],
+    "tags": ["修复", "进度"]
+  },
+  {
+    "id": "M14",
+    "type": "mainline",
+    "title": "客户试用方案讨论会",
+    "date": "2026-05-20",
+    "time": "14:00-15:00",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 60,
+    "source": "飞书妙记",
+    "summary": "确定首个外部客户试用方案：某金融科技公司，使用OpenClaw构建内部知识库问答系统。试用期2周，提供专属技术支持。客户方对接人为CTO张总。",
+    "decisions": [
+      {
+        "id": "D14-1",
+        "content": "首个客户试用确认：某金融科技公司，2周试用期",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T14-1",
+        "content": "为客户部署专属试用环境",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "独立租户+数据隔离",
+        "deadline": "05/23"
+      },
+      {
+        "id": "T14-2",
+        "content": "编写客户接入引导文档",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "定制化Quick Start",
+        "deadline": "05/22"
+      },
+      {
+        "id": "T14-3",
+        "content": "准备客户Demo数据集",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "金融领域知识库数据",
+        "deadline": "05/23"
+      }
+    ],
+    "referenced_docs": ["DOC-03", "DOC-06"],
+    "tags": ["客户", "试用"]
+  },
+  {
+    "id": "M15",
+    "type": "mainline",
+    "title": "客户试用中期检查会",
+    "date": "2026-05-28",
+    "time": "10:00-11:00",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 60,
+    "source": "飞书妙记",
+    "summary": "客户试用第一周反馈：RAG检索效果超出预期，但Agent编排的学习曲线较陡，客户希望有更多预设模板。另外客户方CTO张总下周离职，新对接人待确认。",
+    "decisions": [
+      {
+        "id": "D15-1",
+        "content": "新增3个Agent预设模板（知识库问答、数据查询、报告生成）",
+        "status": "open",
+        "person": "斯",
+        "task_desc": "设计模板+协调开发",
+        "deadline": "06/05"
+      }
+    ],
+    "todos": [
+      {
+        "id": "T15-1",
+        "content": "开发3个Agent预设模板",
+        "status": "open",
+        "person": "杨",
+        "task_desc": "含知识库问答、数据查询、报告生成",
+        "deadline": "06/05"
+      },
+      {
+        "id": "T15-2",
+        "content": "确认客户新对接人",
+        "status": "open",
+        "person": "斯",
+        "task_desc": "联系客户方",
+        "deadline": "06/02"
+      }
+    ],
+    "referenced_docs": ["DOC-15", "DOC-16"],
+    "tags": ["客户", "试用", "风险"]
+  },
+  {
+    "id": "M16",
+    "type": "mainline",
+    "title": "项目复盘与下阶段规划会",
+    "date": "2026-06-03",
+    "time": "14:00-16:00",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 120,
+    "source": "飞书妙记",
+    "summary": "项目复盘：MVP按时交付，客户试用反馈积极。下阶段重点：1)Agent模板市场；2)更多向量库适配；3)企业版功能（SSO、审计日志）。定价策略根据试用反馈调整为：基础版免费+专业版按量计费+企业版定制报价。",
+    "decisions": [
+      {
+        "id": "D16-1",
+        "content": "定价策略调整：基础版免费+专业版按量+企业版定制",
+        "status": "open",
+        "person": "斯",
+        "task_desc": "更新定价文档",
+        "deadline": "06/10"
+      },
+      {
+        "id": "D16-2",
+        "content": "下阶段三大方向确认",
+        "status": "open",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T16-1",
+        "content": "输出下阶段产品规划文档",
+        "status": "open",
+        "person": "斯",
+        "task_desc": "含模板市场、向量库适配、企业版",
+        "deadline": "06/10"
+      },
+      {
+        "id": "T16-2",
+        "content": "完成Agent模板市场技术方案",
+        "status": "open",
+        "person": "杨",
+        "task_desc": "技术可行性分析",
+        "deadline": "06/12"
+      }
+    ],
+    "referenced_docs": ["DOC-15", "DOC-16", "DOC-03"],
+    "tags": ["复盘", "规划"]
+  },
+  {
+    "id": "M17",
+    "type": "edge",
+    "title": "每日站会",
+    "date": "2026-04-15",
+    "time": "09:30-09:40",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 10,
+    "source": "飞书妙记",
+    "summary": "10分钟站会。杨：RAG检索今天能完成；朱：前端框架已提交PR；斯：PRD v2评审意见今天给。",
+    "decisions": [],
+    "todos": [
+      {
+        "id": "T17-1",
+        "content": "斯今天输出PRD v2评审意见",
+        "status": "closed",
+        "person": "斯",
+        "task_desc": "",
+        "deadline": "04/15"
+      }
+    ],
+    "referenced_docs": [],
+    "tags": ["站会"],
+    "edge_note": "超短会议，内容稀薄，测试agent对少量内容的处理能力"
+  },
+  {
+    "id": "M18",
+    "type": "edge",
+    "title": "技术方案推翻重审会",
+    "date": "2026-04-25",
+    "time": "15:00-16:30",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 90,
+    "source": "飞书妙记",
+    "summary": "联调中发现自研编排引擎在复杂Agent链式调用场景下性能严重不足（P99延迟3.2s，目标<500ms）。杨提出回退方案：核心编排改用LangGraph+自研适配层。经讨论同意，原自研编排引擎决议推翻。",
+    "decisions": [
+      {
+        "id": "D18-1",
+        "content": "推翻D04-1决议，编排引擎改为LangGraph+自研适配层",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      },
+      {
+        "id": "D18-2",
+        "content": "原自研编排引擎代码保留为fallback方案",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T18-1",
+        "content": "实现LangGraph适配层",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "核心重构",
+        "deadline": "04/30"
+      },
+      {
+        "id": "T18-2",
+        "content": "前端适配新的编排引擎接口",
+        "status": "closed",
+        "person": "朱",
+        "task_desc": "接口变更适配",
+        "deadline": "04/30"
+      }
+    ],
+    "referenced_docs": ["DOC-05", "DOC-07"],
+    "tags": ["推翻", "重构"],
+    "edge_note": "推翻已有决议，测试历史决议模块是否正确标记旧决议"
+  },
+  {
+    "id": "M19",
+    "type": "edge",
+    "title": "后端性能优化专项会",
+    "date": "2026-05-09",
+    "time": "14:00-15:00",
+    "timezone": "UTC+8",
+    "attendees": ["杨", "朱"],
+    "absent": ["斯"],
+    "duration_min": 60,
+    "source": "飞书妙记",
+    "summary": "斯缺席。杨和朱讨论后端性能优化方案：RAG检索加Redis缓存、Agent编排加异步执行、API网关加连接池。三个方案均确认可行，杨负责实施。",
+    "decisions": [
+      {
+        "id": "D19-1",
+        "content": "三项性能优化方案确认",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": ""
+      }
+    ],
+    "todos": [
+      {
+        "id": "T19-1",
+        "content": "实施RAG检索Redis缓存",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": "05/12"
+      },
+      {
+        "id": "T19-2",
+        "content": "实施Agent编排异步执行",
+        "status": "closed",
+        "person": "杨",
+        "task_desc": "",
+        "deadline": "05/12"
+      }
+    ],
+    "referenced_docs": ["DOC-07"],
+    "tags": ["性能", "优化"],
+    "edge_note": "斯缺席，测试推给斯时是否过滤掉不需要跟进的技术细节待办"
+  },
+  {
+    "id": "M20",
+    "type": "noise",
+    "title": "团建方案讨论",
+    "date": "2026-04-10",
+    "time": "12:00-12:30",
+    "timezone": "UTC+8",
+    "attendees": ["斯", "杨", "朱"],
+    "absent": [],
+    "duration_min": 30,
+    "source": "飞书妙记",
+    "summary": "午休时聊团建方案。初步意向周末去郊外团建，需要查场地和预算。",
+    "decisions": [],
+    "todos": [
+      {
+        "id": "T20-1",
+        "content": "查团建场地和预算",
+        "status": "open",
+        "person": "朱",
+        "task_desc": "",
+        "deadline": "04/15"
+      }
+    ],
+    "referenced_docs": [],
+    "tags": ["团建", "非项目"],
+    "noise_note": "与OpenClaw项目无关的会议，测试agent的过滤能力"
+  }
+]
