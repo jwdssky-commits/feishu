@@ -1,0 +1,19 @@
+{
+  "schema": "2.0",
+  "header": {
+    "title": {
+      "tag": "plain_text",
+      "content": "📋 会前简报"
+    },
+    "template": "turquoise",
+    "padding": "12px 8px 12px 8px"
+  },
+  "body": {
+    "elements": [
+      {
+        "tag": "markdown",
+        "content": "**会议**\n智能会议助手讨论\n\n🕐 2026-05-03T03:30:00Z (Asia/Shanghai) · 👥 约 0 人（日历计数）\n\n---\n\n**背景**\n本项目为飞书 AI 校园挑战赛方向 B（会议全链路伴侣），目标是构建运行在飞书生态内的智能会议助手，自动完成「会前资料准备 → 会后任务追踪」的闭环。项目已有完整的 PRD 文档和多次实操验证，会前简报流程已验证可行（消息送达率 100%）。\n\n---\n\n**当前进展**\n- PRD v0.1 已完成（斯楷扬，04-27）\n- 会前简报实操报告已完成，全流程验证可行（杨天智，04-29）\n- 测试会议纪要自动生成与推送功能已实现\n- 监听功能尚未完全打通，考虑采用 heartbeat 方式（每 30 分钟检查一次）\n- Multi-agent 编排方案因 open cloud 限制待定\n\n---\n\n**风险与阻塞**\n- 监听功能未打通：长连接能连上但监听不到事件，可能是版本问题或 bot/user 身份接口不一致\n- Multi-agent 编排：open cloud 无法实现多 agent 协作，需寻找替代方案\n- event_id 匹配问题：calendar +agenda 返回的 event_id 带有_0 后缀，vc +search 无法直接对应\n- 部分任务已逾期（如准备应用商店上架材料，截止 05-08）\n\n---\n\n**需主持人澄清的问题**\n- 监听功能是否已打通？若未打通，是否确认采用 heartbeat 方案（每 30 分钟检查一次）？\n- Multi-agent 编排是否有替代方案（如任务队列、子进程等）？\n- 本次讨论会的具体目标是什么（技术方案确认、分工调整、Demo 评审等）？\n- 是否需要邀请 PRD 作者（斯楷扬）或往期会议组织者参会？\n\n---\n\n**建议议程**\n1. 监听功能状态确认（10 分钟）— 确认监听功能是否已打通，若未打通则确认 heartbeat 替代方案的实现细节\n2. Multi-agent 编排方案讨论（10 分钟）— 针对 open cloud 限制，讨论替代方案（任务队列、子进程、分布式任务等）\n3. Demo 进度同步（10 分钟）— 同步各方 Demo 搭建进度，确认下一步分工和时间节点\n\n---\n\n**推荐阅读**\n- [会议全链路 Agent PRD v0.1](https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d) — 完整的项目需求文档，包含功能定义、工作流、分类体系等核心信息\n- [会前简报实操报告](https://jcneyh7qlo8i.feishu.cn/docx/QN7odhcP8oLNQix9LYscpjjInwd) — 真实接口调用的完整复盘，包含每一步的真实操作与返回，有助于理解实现细节\n- [飞书 CLI 开发及后续工作会议纪要](https://jcneyh7qlo8i.feishu.cn/docx/ZLcsd90xBohpslxcdLycrHrEnVf) — 上次会议明确了分工和监听功能问题，本次需跟进进展\n\n---\n\n<font color='grey'>2026-05-03T03:02:00Z · schema_version: 1.0 · 部分数据源不可用（IM 群聊消息列表、完整参会人列表）</font>"
+      }
+    ]
+  }
+}

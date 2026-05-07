@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-03T02:52:00Z",
+  "meeting": {
+    "title": "智能会议助手",
+    "scheduled_at": "2026-05-03 11:00–11:30 Asia/Shanghai",
+    "timezone": "Asia/Shanghai",
+    "participants_hint": ["朱泽奇 (组织者)", "杨天智"],
+    "objectives_user": null,
+    "related_chat_ids": [],
+    "related_doc_urls_or_tokens": ["ODOrdwQ7Jo4Y5Ex2laYcp7N7npg", "KDpAwHZSAiIovMksoSsc92Qyn3d", "QN7odhcP8oLNQix9LYscpjjInwd"]
+  },
+  "sources": {
+    "cloud_documents": [
+      {
+        "title": "智能纪要：测试会议知识助手构建与任务安排 2026年4月26日",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/ODOrdwQ7Jo4Y5Ex2laYcp7N7npg",
+        "retrieval_mode": "full",
+        "summary": "测试会议知识闭环助手，结合 openclaw 和飞书 CLI 构建主动型知识助手，会前自动推送背景知识，会后自动抽取 action items 生成飞书任务。",
+        "key_points": ["构建知识助手：结合 openclaw 和飞书 CLI 构建面向项目团队的主动型知识助手", "测试工作：测试会议结束后 openclaw 是否会主动生成 todo 并进行监测", "测试任务安排：明天中午之前把 Github 代码仓、事故仓库的 Demo 框架构建出来"],
+        "open_questions_from_doc": []
+      },
+      {
+        "title": "会议全链路 Agent PRD v0.1",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d",
+        "retrieval_mode": "outline",
+        "summary": "会议全链路 Agent 产品需求文档，定义运行在飞书生态内的智能会议助手，在会议的全生命周期中自动完成「会前资料准备 → 会后任务追踪」的闭环。",
+        "key_points": ["功能概述", "角色与权限", "输入定义：飞书日历 Webhook、会议结束事件、妙记文本、定时兜底扫描", "会前工作流：事件接收、会议分类、多源检索、简报生成、卡片推送", "会后流水线：结束检测、内容采集、纪要提取、待办落地、反馈闭环"],
+        "open_questions_from_doc": []
+      },
+      {
+        "title": "会议全链路助手：会前简报实操报告",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/QN7odhcP8oLNQix9LYscpjjInwd",
+        "retrieval_mode": "full",
+        "summary": "基于真实接口调用的完整复盘，验证会前简报自动化流程。实验结论：全流程可行，会议已成功创建，会前简报已推送给全部 3 位参会人。",
+        "key_points": ["验证了完整的会前简报自动化流程", "会议创建成功率 100%，历史文档检索成功率 100%，简报推送送达率 100%", "全流程耗时约 40 秒（人工执行），自动化脚本预期可降至 10-15 秒"],
+        "open_questions_from_doc": []
+      }
+    ],
+    "past_meetings": [
+      {
+        "meeting_id": "7632590177219021767",
+        "title": "项目方案、技术与分工会议",
+        "start_time": "2026-04-25T15:12:00+08:00",
+        "notes_available": true,
+        "summary": "确定了以方案 b（会议全链路 agent）为主的项目方向，明确了各成员分工：斯楷扬负责流程文档和会议纪要抽取，朱泽奇负责检索相关工作，杨天智负责后端接口整理和集成。",
+        "carry_over_actions": ["纪要调用确认：询问妙记会议纪要的负责人（已完成）", "流程文档撰写：撰写关于多 agent 系统的流程方案（已完成）"],
+        "decisions_recalled": ["以方案 b 为主方向（会议全链路 agent），融入方案 a 和 d 的部分内容", "检索技术先尝试不用向量数据库，按主题或关键字分层检索", "通过飞书群随时沟通，每天进行工作进度对接"]
+      },
+      {
+        "meeting_id": "7633424953397185488",
+        "title": "飞书 CLI 开发及后续工作会议",
+        "start_time": "2026-04-27T21:15:00+08:00",
+        "notes_available": true,
+        "summary": "飞书 CLI 开发及相关工作会议，具体纪要内容需进一步读取。",
+        "carry_over_actions": [],
+        "decisions_recalled": []
+      }
+    ],
+    "chats": []
+  },
+  "synthesis": {
+    "background": "本项目旨在构建一个运行在飞书生态内的智能会议助手，在会议的全生命周期中自动完成「会前资料准备 → 会后任务追踪」的闭环。项目于 2026 年 4 月 25 日启动，确定了以方案 b（会议全链路 agent）为主方向。4 月 26 日进行了测试会议，验证了会前简报自动化流程的可行性。",
+    "current_status": ["会前简报流程已验证可行，送达率 100%", "项目方向确定：以方案 b 为主，融入方案 a 和 d 的部分内容", "分工明确：斯楷扬负责流程文档和纪要抽取，朱泽奇负责检索，杨天智负责后端接口", "lark-cli 工具链已就绪（版本 1.0.19）"],
+    "risks_and_blockers": ["lark-cli 版本更新：当前 1.0.19，最新 1.0.23，建议升级", "群聊搜索功能未找到相关群聊，需预置配置群聊 ID", "任务检索结果可能包含无关任务，需增加相关性过滤", "历史文档过多时可能 Token 超限，需做相关性排序"],
+    "stakeholder_concerns": ["朱泽奇担心将飞书文档存到向量数据库工作量大，建议先尝试不用向量数据库的检索方式", "对效果验证报告自证知识产物的准确性缺乏数据支持表示担忧"],
+    "open_questions_for_chair": ["本次会议是否需要确认 Demo 框架的构建进度？", "是否需要讨论 lark-cli 升级计划？", "是否需要确认项目群聊配置以便后续群推简报？"],
+    "proposed_agenda": [
+      {"topic": "项目进度同步", "objective": "确认各成员分工任务的完成状态", "time_budget_min": 10},
+      {"topic": "Demo 框架评审", "objective": "检查 Github 代码仓和事故仓库 Demo 框架的构建情况", "time_budget_min": 15},
+      {"topic": "技术难点讨论", "objective": "解决检索、纪要抽取等关键技术问题", "time_budget_min": 5}
+    ],
+    "recommended_reads": [
+      {"title": "智能纪要：测试会议知识助手构建与任务安排 2026年4月26日", "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/ODOrdwQ7Jo4Y5Ex2laYcp7N7npg", "reason": "了解上次测试会议的结论和任务安排"},
+      {"title": "会议全链路 Agent PRD v0.1", "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d", "reason": "熟悉项目产品需求和功能设计"}
+    ]
+  },
+  "meta": {
+    "cli_identity": "user",
+    "assumptions": ["会议类型为项目同步会，需要检索项目相关文档和历史会议", "参会人列表来自日历事件详情", "检索窗口为会议前 14 天"],
+    "errors": ["TOOLS.md 未配置 target_user_open_id 或 target_chat_id，卡片推送将进入 dry-run 模式"],
+    "coverage_gaps": ["未找到与'智能会议'相关的群聊记录", "IM 聊天记录检索无结果（可能需预置群聊 ID）"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schema": "2.0",
+  "header": {
+    "title": {
+      "tag": "plain_text",
+      "content": "📋 会前简报"
+    },
+    "template": "turquoise",
+    "padding": "12px 8px 12px 8px"
+  },
+  "body": {
+    "elements": [
+      {
+        "tag": "markdown",
+        "content": "**会议**\nMLA 开发 Demo\n\n🕐 时间 · 2026-05-03 11:30–12:00 Asia/Shanghai\n👥 规模提示 · 约 0 人（日历计数）\n\n---\n\n**背景**\nMLA (Meeting Life Agent) 是一个基于飞书 CLI 的多 Agent 会议闭环系统，旨在自动化处理会前资料检索、会后纪要提取和任务创建。项目采用 4 个业务 Agent + 1 个共享规则 Skill 的架构，通过 Main Agent 扫描日程并分发任务给 Pre/Post/Card Agent。4 月 27 日的工作会议已明确开发分工和 heartbeat 轮询方案，4 月 30 日进行了两次 openclaw 全链路 agent 开发研讨，本次 Demo 会议旨在展示和验证 MLA 系统的核心功能。\n\n---\n\n**当前进展**\n- 架构设计完成：mla-shared + mla-main-agent + mla-pre-agent + mla-post-agent + mla-card-agent\n- 飞书 CLI 实测完成：calendar/vc/docs/im/task 模块验证可用，lark-event 不支持 calendar/vc 事件需用轮询替代\n- 开发分工明确：朱泽奇负责会前部分，杨天智负责会后部分，斯楷扬负责 prompt 编写\n- 技术方案确定：采用 heartbeat 轮询（每 30 分钟）替代监听功能，Multi agent 形式（主 agent 分发 + 子 agent 执行）\n- 核心命令验证通过：+agenda（日程扫描）、+notes（会议纪要）、+search（文档检索）、+fetch（文档读取）、+messages-send（卡片推送）\n\n---\n\n**风险与阻塞**\n- lark-event 不支持 calendar/vc 事件，必须使用 cron 轮询方案，可能影响实时性\n- lark-base 的 schema 命令不可用，第一版 Demo 不应强依赖 Base 存储状态\n- token 每 2 小时过期，需确保 CLI 自动刷新机制正常工作\n- 最近两次研讨会议（4 月 30 日）无 AI 纪要可用，可能遗漏重要决策\n\n---\n\n**需主持人澄清的问题**\n- 4 月 30 日两次研讨会议的具体讨论内容和决策是什么？（无 AI 纪要）\n- Demo 展示的范围和深度如何界定？是否需要覆盖完整的会前 - 会后闭环？\n- 卡片模板的优化方向是什么？是否有具体的设计参考？\n- heartbeat 轮询间隔是否需要从 30 分钟调整为更频繁（如 5 分钟）以满足 Demo 需求？\n\n---\n\n**建议议程**\n1. MLA 架构回顾与分工确认（5 min）— 快速回顾 4+1 Agent 架构，确认各模块负责人和当前进度\n2. Demo 演示：会前简报生成流程（10 min）— 展示 Main Agent 扫描日程 → Pre Agent 检索文档/历史会议 → 生成结构化简报 → Card Agent 推送卡片的完整流程\n3. Demo 演示：会后纪要提取与任务创建（10 min）— 展示 Post Agent 获取会议纪要 → 提取待办 → 创建飞书任务 → Card Agent 推送总结卡片的完整流程\n4. 技术方案讨论：heartbeat 轮询 vs 事件监听（5 min）— 讨论当前轮询方案的优缺点，是否需要优化轮询间隔或探索其他实时方案\n5. 后续优化方向与时间规划（5 min）— 确定 Demo 后的优化优先级（卡片模板、prompt 调试、Base 集成等）和里程碑\n\n---\n\n**推荐阅读**\n- [Multi Agent —— 会议闭环](https://jcneyh7qlo8i.feishu.cn/wiki/YVBawwzKQimljpk3DY7cOUQYnqc) — MLA 架构设计文档，定义了各 Agent 的职责、CLI 命令集和禁止事项\n- [Meeting Life Agent 飞书 CLI 实测报告](https://jcneyh7qlo8i.feishu.cn/wiki/E2w5wH3wpiMnSSk6fNqcpgfsn3e) — 飞书 CLI 各模块的实测结果和使用注意事项，是技术选型的重要依据\n- [飞书 CLI 开发及后续工作会议纪要](https://jcneyh7qlo8i.feishu.cn/docx/ZLcsd90xBohpslxcdLycrHrEnVf) — 4 月 27 日工作会议的完整纪要，包含开发分工、heartbeat 方案、prompt 编写计划等关键决策\n\n---\n\n<font color='grey'>2026-05-03T03:26:00Z · schema_version: 1.0 · 部分数据源不可用：4 月 30 日两次研讨会议无 AI 纪要</font>"
+      }
+    ]
+  }
+}

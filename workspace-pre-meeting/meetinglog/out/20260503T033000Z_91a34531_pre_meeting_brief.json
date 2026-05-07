@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-03T03:26:00Z",
+  "meeting": {
+    "title": "智能会议助手",
+    "scheduled_at": "2026-05-03 11:30–12:00 Asia/Shanghai",
+    "timezone": "Asia/Shanghai",
+    "participants_hint": "约 0 人（日历计数）",
+    "objectives_user": null,
+    "related_chat_ids": ["oc_176bf9ff73ddef772608b6ae787d6ad7", "oc_f857fb2030beb301a91e5f3772daacfd"],
+    "related_doc_urls_or_tokens": [
+      "https://jcneyh7qlo8i.feishu.cn/docx/ODOrdwQ7Jo4Y5Ex2laYcp7N7npg",
+      "https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d",
+      "https://jcneyh7qlo8i.feishu.cn/docx/QN7odhcP8oLNQix9LYscpjjInwd"
+    ]
+  },
+  "sources": {
+    "cloud_documents": [
+      {
+        "title": "智能纪要：测试会议知识助手构建与任务安排 2026 年 4 月 26 日",
+        "url_or_token": "ODOrdwQ7Jo4Y5Ex2laYcp7N7npg",
+        "retrieval_mode": "outline",
+        "summary": "会议纪要由 AI 生成，聚焦测试会议任务知识助手，旨在结合 openclaw 和飞书 CLI 构建主动型知识助手，同时安排了测试任务。",
+        "key_points": ["测试会议知识助手构建", "openclaw + 飞书 CLI 整合", "主动型知识助手"],
+        "open_questions_from_doc": []
+      },
+      {
+        "title": "会议全链路 Agent PRD v0.1",
+        "url_or_token": "KDpAwHZSAiIovMksoSsc92Qyn3d",
+        "retrieval_mode": "outline",
+        "summary": "定义运行在飞书生态内的智能会议助手，在会议的全生命周期中自动完成「会前资料准备 → 会后任务追踪」的闭环。包含完整的功能概述、角色权限、输入定义、工作流设计。",
+        "key_points": [
+          "会前工作流：事件接收→会议分类→多源检索→简报生成→卡片推送",
+          "会后流水线：会议结束检测→内容采集→结构化纪要→Action Item 提取→待办落地→反馈闭环",
+          "技术栈：OpenClaw + 飞书 CLI + BM25 检索"
+        ],
+        "open_questions_from_doc": []
+      },
+      {
+        "title": "会议全链路助手：会前简报实操报告",
+        "url_or_token": "QN7odhcP8oLNQix9LYscpjjInwd",
+        "retrieval_mode": "outline",
+        "summary": "实验会议：智能知识助手方案推进会（4 月 27 日 14:00-15:00）的实操报告，记录完整闭环流程和每一步的真实操作与返回。",
+        "key_points": [
+          "闭环流程全景",
+          "多源检索并行搜索文档、会议、任务",
+          "完整闭环脚本与效果验证指标"
+        ],
+        "open_questions_from_doc": []
+      }
+    ],
+    "past_meetings": [
+      {
+        "meeting_id": "7633424953397185488",
+        "title": "斯楷扬的视频会议 - 智能纪要：飞书 CLI 开发及后续工作会议 2026 年 4 月 27 日",
+        "start_time": "2026-04-27T13:15:00Z",
+        "notes_available": true,
+        "summary": "飞书 CLI 开发及后续工作会议，讨论了 Prompt 调试、录制监听、demo 搭建等任务。",
+        "carry_over_actions": [
+          "Prompt 调试：从明天开始调试三个 prompt",
+          "监听录制：录制监听内容，以便斯楷扬进行 prompt 修改，搭建 demo 过程中与朱泽奇多联系"
+        ],
+        "decisions_recalled": []
+      },
+      {
+        "meeting_id": "7632590177219021767",
+        "title": "项目方案、技术与分工会议 2026 年 4 月 25 日",
+        "start_time": "2026-04-25T07:12:00Z",
+        "notes_available": true,
+        "summary": "确定以方案 B（会议全链路 Agent）为主方向，分工明确：斯楷扬负责流程文档 + 任务抽取，朱泽奇负责检索，杨天智负责 API 接口。",
+        "carry_over_actions": [
+          "纪要调用确认：询问妙记会议纪要的负责人，确认是否可以直接调用妙记生成的会议纪要"
+        ],
+        "decisions_recalled": [
+          "方案 B：是待办进展对齐的 agent，从飞书会议纪要和文档抓取输入源，识别并汇总 Todo"
+        ]
+      },
+      {
+        "meeting_id": "7634539368300825545",
+        "title": "openclaw 全链路 agent 开发研讨 01",
+        "start_time": "2026-04-30T13:22:00Z",
+        "notes_available": false,
+        "summary": "openclaw 全链路 agent 开发研讨会议，具体纪要内容未获取。",
+        "carry_over_actions": [],
+        "decisions_recalled": []
+      },
+      {
+        "meeting_id": "7634389804159945692",
+        "title": "openclaw 全链路 agent 开发难点交流",
+        "start_time": "2026-04-30T03:34:00Z",
+        "notes_available": false,
+        "summary": "openclaw 全链路 agent 开发难点交流会议，具体纪要内容未获取。",
+        "carry_over_actions": [],
+        "decisions_recalled": []
+      }
+    ],
+    "chats": [
+      {
+        "chat_id": "oc_176bf9ff73ddef772608b6ae787d6ad7",
+        "chat_name": "朱泽奇 <-> 杨天智",
+        "time_range": {"start": "2026-04-19T00:00:00Z", "end": "2026-05-03T03:30:00Z"},
+        "summary": "主要讨论 openclaw 与飞书 CLI 的集成方式、子 agent 架构、权限配置等技术开发细节。杨天智分享了会前简报卡片样例，展示了完整的会前简报格式。",
+        "themes": ["openclaw 架构", "飞书 CLI 集成", "会前简报卡片", "子 agent 编排"],
+        "notable_decisions_or_blockers": [
+          "确认 openclaw 子 agent 可以操作飞书 CLI",
+          "会前简报卡片需包含历史会议结论、相关文档、风险提示、推荐关注人"
+        ]
+      },
+      {
+        "chat_id": "oc_f857fb2030beb301a91e5f3772daacfd",
+        "chat_name": "斯楷扬，朱泽奇，杨天智",
+        "time_range": {"start": "2026-04-19T00:00:00Z", "end": "2026-05-03T03:30:00Z"},
+        "summary": "项目三人组核心群聊，讨论了 ActionLoop 项目闭环能力、会议助手测试、项目进度同步等。群内已验证 ActionLoop 可自动扫描群消息提取待办并创建飞书任务。",
+        "themes": ["ActionLoop 闭环", "会议助手测试", "项目进度同步", "待办任务管理"],
+        "notable_decisions_or_blockers": [
+          "ActionLoop 已成功扫描群消息并创建 8 项飞书任务",
+          "会议助手已测试自动推送会后纪要和待办",
+          "需明确 openclaw、飞书 CLI、bot/user 身份的使用场景"
+        ]
+      }
+    ]
+  },
+  "synthesis": {
+    "background": "本次会议是飞书 AI 校园挑战赛方向 B「会议与项目全链路伴侣」项目的持续开发会议。项目基于 OpenClaw + 飞书 CLI 构建主动型智能会议助手，覆盖会前资料准备到会后任务追踪的完整闭环。前期已完成 PRD 设计、技术选型验证、会前简报和会后闭环的实操测试。",
+    "current_status": [
+      "PRD v0.1 已完成，定义会前简报和会后闭环两大核心流程",
+      "会前简报实操报告已完成，验证日历事件触发→多源检索→AI 总结→卡片推送流程",
+      "ActionLoop 闭环能力已验证，可自动扫描群消息/会议纪要提取待办并创建飞书任务",
+      "飞书 CLI 已完成认证授权，具备 calendar、docs、drive、im、vc 等完整 scope"
+    ],
+    "risks_and_blockers": [
+      "Action Item 提取准确率是最大风险，需持续优化 prompt 和置信度阈值",
+      "飞书 API 配额限制可能影响大规模检索和消息拉取",
+      "部分历史会议（如 4/30 的两场研讨）未获取到完整纪要，存在信息缺口",
+      "lark-cli 检测到新版本 1.0.23（当前 1.0.19），可能存在功能差异"
+    ],
+    "stakeholder_concerns": [
+      "朱泽奇：关注 openclaw 与飞书 CLI 的集成方式和权限配置",
+      "杨天智：负责 CLI 实操验证，关注会前简报卡片格式和推送流程",
+      "斯楷扬：负责 PRD 和流程梳理，关注 Prompt 调试和 demo 搭建"
+    ],
+    "open_questions_for_chair": [
+      "本次会议的具体议程和目标是什么？（日历事件描述为空）",
+      "是否需要邀请 PRD 作者斯楷扬或 CLI 实操负责人杨天智参会？",
+      "是否需要演示已完成的会前简报和会后闭环实操成果？",
+      "下一步开发优先级：优化检索准确率、完善卡片模版、还是扩展更多触发场景？"
+    ],
+    "proposed_agenda": [
+      { "topic": "项目进度同步", "objective": "各成员同步过去一周的开发进展和完成情况", "time_budget_min": 10 },
+      { "topic": "会前简报功能演示", "objective": "展示本次自动生成的会前简报，确认信息完整性和准确性", "time_budget_min": 5 },
+      { "topic": "会后闭环功能演示", "objective": "演示 ActionLoop 自动提取待办并创建飞书任务的完整流程", "time_budget_min": 5 },
+      { "topic": "技术难点讨论", "objective": "讨论检索准确率、API 配额、身份权限等已识别风险的解决方案", "time_budget_min": 10 },
+      { "topic": "下一步计划", "objective": "确定第二周期 Demo 交付时间表和优先级", "time_budget_min": 5 }
+    ],
+    "recommended_reads": [
+      { "title": "会议全链路 Agent PRD v0.1", "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/KDpAwHZSAiIovMksoSsc92Qyn3d", "reason": "了解完整的功能设计和工作流定义" },
+      { "title": "会前简报实操报告", "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/QN7odhcP8oLNQix9LYscpjjInwd", "reason": "查看会前简报完整闭环的实操细节和验证结果" },
+      { "title": "智能纪要：测试会议知识助手构建与任务安排", "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/ODOrdwQ7Jo4Y5Ex2laYcp7N7npg", "reason": "了解早期测试会议的任务安排和知识助手构建方案" }
+    ]
+  },
+  "meta": {
+    "cli_identity": "user",
+    "assumptions": [
+      "会议为项目开发例会，聚焦智能会议助手功能迭代",
+      "参会人为项目核心成员（朱泽奇、杨天智、斯楷扬）",
+      "会议目标为同步进度、演示成果、规划下一步"
+    ],
+    "errors": [
+      "lark-cli 版本过旧（1.0.19），最新为 1.0.23，可能存在功能差异"
+    ],
+    "coverage_gaps": [
+      "日历事件描述为空，无法获取会议具体目标和议程",
+      "参会人数为 0，可能尚未邀请参会人或日历事件未完整填写",
+      "部分历史会议（4/30 两场）未获取到完整纪要内容",
+      "未检索到直接以「智能会议助手」为标题的群聊，IM 搜索基于关键词「openclaw」"
+    ]
+  }
+}

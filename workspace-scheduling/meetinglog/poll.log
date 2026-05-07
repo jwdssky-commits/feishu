@@ -1,0 +1,2959 @@
+[2026-05-02T03:45:35Z] === Poll started ===
+[2026-05-02T03:45:35Z] Fetching events from calendar...
+[2026-05-02T03:45:38Z] === Poll started ===
+[2026-05-02T03:45:38Z] Fetching events from calendar...
+[2026-05-02T03:46:07Z] === Poll started ===
+[2026-05-02T03:46:07Z] Fetching events from calendar...
+[2026-05-02T03:46:07Z] API response: {
+  "ok": true,
+  "identity": "user",
+  "data": [],
+  "meta": {},
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-02T03:46:07Z] ERROR: API call failed - {
+  "ok": true,
+  "identity": "user",
+  "data": [],
+  "meta": {},
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-02T03:46:13Z] === Poll started ===
+[2026-05-02T03:46:13Z] Fetching events from calendar...
+[2026-05-02T03:46:14Z] API response: {
+  "ok": true,
+  "identity": "user",
+  "data": [],
+  "meta": {},
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-02T03:46:20Z] === Poll started ===
+[2026-05-02T03:46:20Z] Fetching events from calendar...
+[2026-05-02T03:46:21Z] API response: {
+  "ok": true,
+  "identity": "user",
+  "data": [],
+  "meta": {},
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-02T03:46:26Z] === Poll started ===
+[2026-05-02T03:46:26Z] Fetching events from calendar...
+[2026-05-02T03:46:26Z] API response: {
+  "ok": true,
+  "identity": "user",
+  "data": [],
+  "meta": {},
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-02T03:46:44Z] === Poll started ===
+[2026-05-02T03:46:44Z] Fetching events from calendar...
+[2026-05-02T03:46:45Z] API response received
+[2026-05-02T03:46:45Z] Latest event IDs count: 0
+0
+[2026-05-02T03:46:45Z] No new events found
+[2026-05-02T03:46:45Z] Snapshot updated
+[2026-05-02T03:47:07Z] === Poll started ===
+[2026-05-02T03:47:07Z] Fetching events from calendar...
+[2026-05-02T03:47:07Z] API response received
+[2026-05-02T03:47:07Z] Latest event IDs count: 0
+0
+[2026-05-02T03:47:07Z] No new events found
+[2026-05-02T03:47:07Z] Snapshot updated
+[2026-05-02T03:47:46Z] === Poll started ===
+[2026-05-02T03:47:46Z] Fetching events from calendar...
+[2026-05-02T03:47:46Z] API response received
+[2026-05-02T03:47:46Z] Latest event IDs count: 0
+0
+[2026-05-02T03:47:46Z] No new events found
+[2026-05-02T03:47:46Z] Snapshot updated
+[2026-05-02T03:48:10Z] === Poll started ===
+[2026-05-02T03:48:10Z] Fetching events from calendar...
+[2026-05-02T03:48:10Z] API response received
+[2026-05-02T03:48:10Z] Latest event IDs count: 0
+0
+[2026-05-02T03:48:10Z] No new events found
+[2026-05-02T03:48:10Z] Snapshot updated
+[2026-05-02T03:48:29Z] === Poll started ===
+[2026-05-02T03:48:29Z] Fetching events from calendar...
+[2026-05-02T03:48:30Z] API response received
+[2026-05-02T03:48:30Z] Latest event IDs count: 0
+0
+[2026-05-02T03:48:30Z] No new events found
+[2026-05-02T03:48:30Z] Snapshot updated
+[2026-05-02T03:48:52Z] === Poll started ===
+[2026-05-02T03:48:52Z] Fetching events from calendar...
+[2026-05-02T03:48:52Z] API response received
+[2026-05-02T03:48:52Z] Latest event IDs count: 0
+0
+[2026-05-02T03:48:52Z] No new events found
+[2026-05-02T03:48:52Z] Snapshot updated
+[2026-05-02T03:49:10Z] === Poll started ===
+[2026-05-02T03:49:10Z] Fetching events from calendar...
+[2026-05-02T03:49:10Z] API response received
+[2026-05-02T03:49:10Z] Latest event IDs count: 0
+0
+[2026-05-02T03:49:10Z] No new events found
+[2026-05-02T03:49:10Z] Snapshot updated
+[2026-05-02T03:49:29Z] === Poll started ===
+[2026-05-02T03:49:29Z] Fetching events from calendar...
+[2026-05-02T03:49:30Z] API response received
+[2026-05-02T03:49:30Z] Latest event IDs count: 0
+0
+[2026-05-02T03:49:30Z] No new events found
+[2026-05-02T03:49:30Z] Snapshot updated
+[2026-05-02T03:59:22Z] === Poll started ===
+[2026-05-02T03:59:22Z] Fetching events from calendar...
+[2026-05-02T03:59:22Z] API response received
+[2026-05-02T03:59:22Z] Latest event IDs count: 0
+0
+[2026-05-02T03:59:23Z] No new events found
+[2026-05-02T03:59:23Z] Snapshot updated
+[2026-05-02T03:59:48Z] === Poll started ===
+[2026-05-02T03:59:48Z] Fetching events from calendar...
+[2026-05-02T03:59:48Z] API response received
+[2026-05-02T03:59:48Z] Latest event IDs count: 0
+0
+[2026-05-02T03:59:48Z] No new events found
+[2026-05-02T03:59:48Z] Snapshot updated
+[2026-05-02T04:00:10Z] === Poll started ===
+[2026-05-02T04:00:10Z] Fetching events from calendar...
+[2026-05-02T04:00:10Z] API response received
+[2026-05-02T04:00:10Z] Latest event IDs count: 0
+0
+[2026-05-02T04:00:10Z] No new events found
+[2026-05-02T04:00:10Z] Snapshot updated
+[2026-05-02T04:00:40Z] === Poll started ===
+[2026-05-02T04:00:40Z] Fetching events from calendar...
+[2026-05-02T04:00:40Z] API response received
+[2026-05-02T04:00:40Z] Latest event IDs count: 0
+0
+[2026-05-02T04:00:40Z] No new events found
+[2026-05-02T04:00:40Z] Snapshot updated
+[2026-05-02T04:00:58Z] === Poll started ===
+[2026-05-02T04:00:58Z] Fetching events from calendar...
+[2026-05-02T04:00:58Z] API response received
+[2026-05-02T04:00:58Z] Latest event IDs count: 0
+0
+[2026-05-02T04:00:58Z] No new events found
+[2026-05-02T04:00:58Z] Snapshot updated
+[2026-05-02T04:01:19Z] === Poll started ===
+[2026-05-02T04:01:19Z] Fetching events from calendar...
+[2026-05-02T04:01:20Z] API response received
+[2026-05-02T04:01:20Z] Latest event IDs count: 0
+0
+[2026-05-02T04:01:20Z] No new events found
+[2026-05-02T04:01:20Z] Snapshot updated
+[2026-05-02T04:01:38Z] === Poll started ===
+[2026-05-02T04:01:38Z] Fetching events from calendar...
+[2026-05-02T04:01:38Z] API response received
+[2026-05-02T04:01:38Z] Latest event IDs count: 0
+0
+[2026-05-02T04:01:38Z] No new events found
+[2026-05-02T04:01:38Z] Snapshot updated
+[2026-05-02T04:01:59Z] === Poll started ===
+[2026-05-02T04:01:59Z] Fetching events from calendar...
+[2026-05-02T04:02:00Z] API response received
+[2026-05-02T04:02:00Z] Latest event IDs count: 0
+0
+[2026-05-02T04:02:00Z] No new events found
+[2026-05-02T04:02:00Z] Snapshot updated
+[2026-05-02T04:02:18Z] === Poll started ===
+[2026-05-02T04:02:18Z] Fetching events from calendar...
+[2026-05-02T04:02:18Z] API response received
+[2026-05-02T04:02:18Z] Latest event IDs count: 0
+0
+[2026-05-02T04:02:18Z] No new events found
+[2026-05-02T04:02:18Z] Snapshot updated
+[2026-05-02T04:02:39Z] === Poll started ===
+[2026-05-02T04:02:39Z] Fetching events from calendar...
+[2026-05-02T04:02:40Z] API response received
+[2026-05-02T04:02:40Z] Latest event IDs count: 1
+[2026-05-02T04:02:40Z] Found new events: 79397deb-86d1-42c4-8b40-d8b6652ac5ee_0,
+[2026-05-02T04:02:40Z] Processing new event: 79397deb-86d1-42c4-8b40-d8b6652ac5ee_0
+[2026-05-02T04:02:40Z] Payload: {"event_id":"79397deb-86d1-42c4-8b40-d8b6652ac5ee_0","title":"Untitled","start_time":{"datetime":"2026-05-02T04:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-02T05:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-02T04:02:40.212Z"}
+[2026-05-02T04:02:40Z] Event logged to new_events.jsonl
+[2026-05-02T04:02:40Z] Snapshot updated. Poll completed.
+[2026-05-02T04:02:58Z] === Poll started ===
+[2026-05-02T04:02:58Z] Fetching events from calendar...
+[2026-05-02T04:02:58Z] API response received
+[2026-05-02T04:02:58Z] Latest event IDs count: 1
+[2026-05-02T04:02:58Z] No new events found
+[2026-05-02T04:02:58Z] Snapshot updated
+[2026-05-02T04:03:19Z] === Poll started ===
+[2026-05-02T04:03:19Z] Fetching events from calendar...
+[2026-05-02T04:03:20Z] API response received
+[2026-05-02T04:03:20Z] Latest event IDs count: 1
+[2026-05-02T04:03:20Z] No new events found
+[2026-05-02T04:03:20Z] Snapshot updated
+[2026-05-02T04:03:38Z] === Poll started ===
+[2026-05-02T04:03:38Z] Fetching events from calendar...
+[2026-05-02T04:03:38Z] API response received
+[2026-05-02T04:03:38Z] Latest event IDs count: 1
+[2026-05-02T04:03:38Z] No new events found
+[2026-05-02T04:03:38Z] Snapshot updated
+[2026-05-02T04:03:58Z] === Poll started ===
+[2026-05-02T04:03:58Z] Fetching events from calendar...
+[2026-05-02T04:03:59Z] API response received
+[2026-05-02T04:03:59Z] Latest event IDs count: 1
+[2026-05-02T04:03:59Z] No new events found
+[2026-05-02T04:03:59Z] Snapshot updated
+[2026-05-02T04:04:17Z] === Poll started ===
+[2026-05-02T04:04:17Z] Fetching events from calendar...
+[2026-05-02T04:04:17Z] API response received
+[2026-05-02T04:04:17Z] Latest event IDs count: 1
+[2026-05-02T04:04:17Z] No new events found
+[2026-05-02T04:04:17Z] Snapshot updated
+[2026-05-02T04:04:39Z] === Poll started ===
+[2026-05-02T04:04:39Z] Fetching events from calendar...
+[2026-05-02T04:04:40Z] API response received
+[2026-05-02T04:04:40Z] Latest event IDs count: 1
+[2026-05-02T04:04:40Z] No new events found
+[2026-05-02T04:04:40Z] Snapshot updated
+[2026-05-02T04:04:57Z] === Poll started ===
+[2026-05-02T04:04:57Z] Fetching events from calendar...
+[2026-05-02T04:04:57Z] API response received
+[2026-05-02T04:04:58Z] Latest event IDs count: 1
+[2026-05-02T04:04:58Z] No new events found
+[2026-05-02T04:04:58Z] Snapshot updated
+[2026-05-02T04:05:20Z] === Poll started ===
+[2026-05-02T04:05:20Z] Fetching events from calendar...
+[2026-05-02T04:05:21Z] API response received
+[2026-05-02T04:05:21Z] Latest event IDs count: 1
+[2026-05-02T04:05:21Z] No new events found
+[2026-05-02T04:05:21Z] Snapshot updated
+[2026-05-02T04:05:37Z] === Poll started ===
+[2026-05-02T04:05:37Z] Fetching events from calendar...
+[2026-05-02T04:05:37Z] API response received
+[2026-05-02T04:05:38Z] Latest event IDs count: 1
+[2026-05-02T04:05:38Z] No new events found
+[2026-05-02T04:05:38Z] Snapshot updated
+[2026-05-02T04:05:58Z] === Poll started ===
+[2026-05-02T04:05:58Z] Fetching events from calendar...
+[2026-05-02T04:05:59Z] API response received
+[2026-05-02T04:05:59Z] Latest event IDs count: 2
+[2026-05-02T04:05:59Z] Found new events: 126f104e-0936-40b2-b91a-c21e06a3b2bc_0,
+[2026-05-02T04:05:59Z] Processing new event: 126f104e-0936-40b2-b91a-c21e06a3b2bc_0
+[2026-05-02T04:05:59Z] Payload: {"event_id":"126f104e-0936-40b2-b91a-c21e06a3b2bc_0","title":"test","start_time":{"datetime":"2026-05-02T04:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-02T05:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-02T04:05:59.480Z"}
+[2026-05-02T04:05:59Z] Event logged to new_events.jsonl
+[2026-05-02T04:05:59Z] Snapshot updated. Poll completed.
+[2026-05-02T04:06:59Z] === Poll started ===
+[2026-05-02T04:06:59Z] Fetching events from calendar...
+[2026-05-02T04:07:00Z] API response received
+[2026-05-02T04:07:00Z] Latest event IDs count: 2
+[2026-05-02T04:07:00Z] No new events found
+[2026-05-02T04:07:00Z] Snapshot updated
+[2026-05-02T04:07:17Z] === Poll started ===
+[2026-05-02T04:07:17Z] Fetching events from calendar...
+[2026-05-02T04:07:17Z] API response received
+[2026-05-02T04:07:17Z] Latest event IDs count: 2
+[2026-05-02T04:07:17Z] No new events found
+[2026-05-02T04:07:18Z] Snapshot updated
+[2026-05-02T04:07:41Z] === Poll started ===
+[2026-05-02T04:07:41Z] Fetching events from calendar...
+[2026-05-02T04:07:41Z] API response received
+[2026-05-02T04:07:41Z] Latest event IDs count: 2
+[2026-05-02T04:07:41Z] No new events found
+[2026-05-02T04:07:41Z] Snapshot updated
+[2026-05-02T04:07:58Z] === Poll started ===
+[2026-05-02T04:07:58Z] Fetching events from calendar...
+[2026-05-02T04:07:58Z] API response received
+[2026-05-02T04:07:58Z] Latest event IDs count: 2
+[2026-05-02T04:07:58Z] No new events found
+[2026-05-02T04:07:58Z] Snapshot updated
+[2026-05-02T04:08:20Z] === Poll started ===
+[2026-05-02T04:08:20Z] Fetching events from calendar...
+[2026-05-02T04:08:20Z] API response received
+[2026-05-02T04:08:21Z] Latest event IDs count: 2
+[2026-05-02T04:08:21Z] No new events found
+[2026-05-02T04:08:21Z] Snapshot updated
+[2026-05-02T04:08:39Z] === Poll started ===
+[2026-05-02T04:08:39Z] Fetching events from calendar...
+[2026-05-02T04:08:40Z] API response received
+[2026-05-02T04:08:40Z] Latest event IDs count: 2
+[2026-05-02T04:08:40Z] No new events found
+[2026-05-02T04:08:40Z] Snapshot updated
+[2026-05-02T04:08:59Z] === Poll started ===
+[2026-05-02T04:08:59Z] Fetching events from calendar...
+[2026-05-02T04:09:00Z] API response received
+[2026-05-02T04:09:00Z] Latest event IDs count: 2
+[2026-05-02T04:09:00Z] No new events found
+[2026-05-02T04:09:00Z] Snapshot updated
+[2026-05-02T04:09:19Z] === Poll started ===
+[2026-05-02T04:09:19Z] Fetching events from calendar...
+[2026-05-02T04:09:20Z] API response received
+[2026-05-02T04:09:20Z] Latest event IDs count: 2
+[2026-05-02T04:09:20Z] No new events found
+[2026-05-02T04:09:20Z] Snapshot updated
+[2026-05-02T04:09:39Z] === Poll started ===
+[2026-05-02T04:09:39Z] Fetching events from calendar...
+[2026-05-02T04:09:40Z] API response received
+[2026-05-02T04:09:40Z] Latest event IDs count: 2
+[2026-05-02T04:09:40Z] No new events found
+[2026-05-02T04:09:40Z] Snapshot updated
+[2026-05-02T04:09:59Z] === Poll started ===
+[2026-05-02T04:09:59Z] Fetching events from calendar...
+[2026-05-02T04:10:00Z] API response received
+[2026-05-02T04:10:00Z] Latest event IDs count: 2
+[2026-05-02T04:10:00Z] No new events found
+[2026-05-02T04:10:00Z] Snapshot updated
+[2026-05-02T04:10:20Z] === Poll started ===
+[2026-05-02T04:10:20Z] Fetching events from calendar...
+[2026-05-02T04:10:20Z] API response received
+[2026-05-02T04:10:20Z] Latest event IDs count: 2
+[2026-05-02T04:10:20Z] No new events found
+[2026-05-02T04:10:20Z] Snapshot updated
+[2026-05-02T04:10:40Z] === Poll started ===
+[2026-05-02T04:10:40Z] Fetching events from calendar...
+[2026-05-02T04:10:40Z] API response received
+[2026-05-02T04:10:40Z] Latest event IDs count: 2
+[2026-05-02T04:10:40Z] No new events found
+[2026-05-02T04:10:40Z] Snapshot updated
+[2026-05-02T04:10:59Z] === Poll started ===
+[2026-05-02T04:10:59Z] Fetching events from calendar...
+[2026-05-02T04:11:00Z] API response received
+[2026-05-02T04:11:00Z] Latest event IDs count: 2
+[2026-05-02T04:11:00Z] No new events found
+[2026-05-02T04:11:00Z] Snapshot updated
+[2026-05-02T04:11:20Z] === Poll started ===
+[2026-05-02T04:11:20Z] Fetching events from calendar...
+[2026-05-02T04:11:20Z] API response received
+[2026-05-02T04:11:20Z] Latest event IDs count: 2
+[2026-05-02T04:11:20Z] No new events found
+[2026-05-02T04:11:20Z] Snapshot updated
+[2026-05-02T04:11:39Z] === Poll started ===
+[2026-05-02T04:11:39Z] Fetching events from calendar...
+[2026-05-02T04:11:40Z] API response received
+[2026-05-02T04:11:40Z] Latest event IDs count: 2
+[2026-05-02T04:11:40Z] No new events found
+[2026-05-02T04:11:40Z] Snapshot updated
+[2026-05-02T04:11:59Z] === Poll started ===
+[2026-05-02T04:11:59Z] Fetching events from calendar...
+[2026-05-02T04:12:00Z] API response received
+[2026-05-02T04:12:00Z] Latest event IDs count: 2
+[2026-05-02T04:12:00Z] No new events found
+[2026-05-02T04:12:00Z] Snapshot updated
+[2026-05-02T04:12:20Z] === Poll started ===
+[2026-05-02T04:12:20Z] Fetching events from calendar...
+[2026-05-02T04:12:20Z] API response received
+[2026-05-02T04:12:20Z] Latest event IDs count: 2
+[2026-05-02T04:12:20Z] No new events found
+[2026-05-02T04:12:20Z] Snapshot updated
+[2026-05-02T04:12:39Z] === Poll started ===
+[2026-05-02T04:12:39Z] Fetching events from calendar...
+[2026-05-02T04:12:41Z] API response received
+[2026-05-02T04:12:41Z] Latest event IDs count: 2
+[2026-05-02T04:12:41Z] No new events found
+[2026-05-02T04:12:41Z] Snapshot updated
+[2026-05-02T04:22:05Z] === Poll started ===
+[2026-05-02T04:22:05Z] Fetching events from calendar...
+[2026-05-02T04:22:05Z] API response received
+[2026-05-02T04:22:05Z] Latest event IDs count: 2
+[2026-05-02T04:22:05Z] No new events found
+[2026-05-02T04:22:05Z] Snapshot updated
+[2026-05-02T07:43:52Z] === Poll started ===
+[2026-05-02T07:43:52Z] Fetching events from calendar...
+[2026-05-02T07:43:52Z] API response received
+[2026-05-02T07:43:52Z] Latest event IDs count: 1
+[2026-05-02T07:43:52Z] Found new events: fb1189e8-437c-40a9-a98c-427fc5c60617_0,
+[2026-05-02T07:43:52Z] Processing new event: fb1189e8-437c-40a9-a98c-427fc5c60617_0
+[2026-05-02T07:43:52Z] Payload: {"event_id":"fb1189e8-437c-40a9-a98c-427fc5c60617_0","title":"Untitled","start_time":{"datetime":"2026-05-02T07:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-02T08:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-02T07:43:52.878Z"}
+[2026-05-02T07:43:52Z] Event logged to new_events.jsonl
+[2026-05-02T07:43:52Z] Snapshot updated. Poll completed.
+[2026-05-02T07:44:47Z] === Poll started ===
+[2026-05-02T07:44:47Z] Fetching events from calendar...
+[2026-05-02T07:44:47Z] API response received
+[2026-05-02T07:44:47Z] Latest event IDs count: 1
+[2026-05-02T07:44:47Z] No new events found
+[2026-05-02T07:44:47Z] Snapshot updated
+[2026-05-02T07:45:18Z] === Poll started ===
+[2026-05-02T07:45:18Z] Fetching events from calendar...
+[2026-05-02T07:45:18Z] API response received
+[2026-05-02T07:45:18Z] Latest event IDs count: 1
+[2026-05-02T07:45:18Z] No new events found
+[2026-05-02T07:45:18Z] Snapshot updated
+[2026-05-02T07:45:48Z] === Poll started ===
+[2026-05-02T07:45:48Z] Fetching events from calendar...
+[2026-05-02T07:45:48Z] API response received
+[2026-05-02T07:45:48Z] Latest event IDs count: 1
+[2026-05-02T07:45:48Z] No new events found
+[2026-05-02T07:45:48Z] Snapshot updated
+[2026-05-02T07:46:17Z] === Poll started ===
+[2026-05-02T07:46:17Z] Fetching events from calendar...
+[2026-05-02T07:46:18Z] API response received
+[2026-05-02T07:46:18Z] Latest event IDs count: 1
+[2026-05-02T07:46:18Z] No new events found
+[2026-05-02T07:46:18Z] Snapshot updated
+[2026-05-02T07:46:47Z] === Poll started ===
+[2026-05-02T07:46:47Z] Fetching events from calendar...
+[2026-05-02T07:46:48Z] API response received
+[2026-05-02T07:46:48Z] Latest event IDs count: 1
+[2026-05-02T07:46:48Z] No new events found
+[2026-05-02T07:46:48Z] Snapshot updated
+[2026-05-02T07:47:15Z] === Poll started ===
+[2026-05-02T07:47:15Z] Fetching events from calendar...
+[2026-05-02T07:47:16Z] API response received
+[2026-05-02T07:47:16Z] Latest event IDs count: 1
+[2026-05-02T07:47:16Z] No new events found
+[2026-05-02T07:47:16Z] Snapshot updated
+[2026-05-02T07:47:48Z] === Poll started ===
+[2026-05-02T07:47:48Z] Fetching events from calendar...
+[2026-05-02T07:47:48Z] API response received
+[2026-05-02T07:47:48Z] Latest event IDs count: 1
+[2026-05-02T07:47:48Z] No new events found
+[2026-05-02T07:47:48Z] Snapshot updated
+[2026-05-02T07:48:18Z] === Poll started ===
+[2026-05-02T07:48:18Z] Fetching events from calendar...
+[2026-05-02T07:48:18Z] API response received
+[2026-05-02T07:48:18Z] Latest event IDs count: 1
+[2026-05-02T07:48:18Z] No new events found
+[2026-05-02T07:48:18Z] Snapshot updated
+[2026-05-02T07:48:47Z] === Poll started ===
+[2026-05-02T07:48:47Z] Fetching events from calendar...
+[2026-05-02T07:48:48Z] API response received
+[2026-05-02T07:48:48Z] Latest event IDs count: 1
+[2026-05-02T07:48:48Z] No new events found
+[2026-05-02T07:48:48Z] Snapshot updated
+[2026-05-02T07:49:17Z] === Poll started ===
+[2026-05-02T07:49:17Z] Fetching events from calendar...
+[2026-05-02T07:49:18Z] API response received
+[2026-05-02T07:49:18Z] Latest event IDs count: 1
+[2026-05-02T07:49:18Z] No new events found
+[2026-05-02T07:49:18Z] Snapshot updated
+[2026-05-02T07:49:47Z] === Poll started ===
+[2026-05-02T07:49:47Z] Fetching events from calendar...
+[2026-05-02T07:49:48Z] API response received
+[2026-05-02T07:49:48Z] Latest event IDs count: 1
+[2026-05-02T07:49:48Z] No new events found
+[2026-05-02T07:49:48Z] Snapshot updated
+[2026-05-02T07:50:17Z] === Poll started ===
+[2026-05-02T07:50:17Z] Fetching events from calendar...
+[2026-05-02T07:50:18Z] API response received
+[2026-05-02T07:50:18Z] Latest event IDs count: 1
+[2026-05-02T07:50:18Z] No new events found
+[2026-05-02T07:50:18Z] Snapshot updated
+[2026-05-02T07:50:48Z] === Poll started ===
+[2026-05-02T07:50:48Z] Fetching events from calendar...
+[2026-05-02T07:50:49Z] API response received
+[2026-05-02T07:50:49Z] Latest event IDs count: 1
+[2026-05-02T07:50:49Z] No new events found
+[2026-05-02T07:50:49Z] Snapshot updated
+[2026-05-02T07:51:17Z] === Poll started ===
+[2026-05-02T07:51:17Z] Fetching events from calendar...
+[2026-05-02T07:51:18Z] API response received
+[2026-05-02T07:51:18Z] Latest event IDs count: 1
+[2026-05-02T07:51:18Z] No new events found
+[2026-05-02T07:51:18Z] Snapshot updated
+[2026-05-02T07:51:47Z] === Poll started ===
+[2026-05-02T07:51:47Z] Fetching events from calendar...
+[2026-05-02T07:51:48Z] API response received
+[2026-05-02T07:51:48Z] Latest event IDs count: 1
+[2026-05-02T07:51:48Z] No new events found
+[2026-05-02T07:51:48Z] Snapshot updated
+[2026-05-02T07:52:18Z] === Poll started ===
+[2026-05-02T07:52:18Z] Fetching events from calendar...
+[2026-05-02T07:52:18Z] API response received
+[2026-05-02T07:52:18Z] Latest event IDs count: 1
+[2026-05-02T07:52:19Z] No new events found
+[2026-05-02T07:52:19Z] Snapshot updated
+[2026-05-02T07:52:47Z] === Poll started ===
+[2026-05-02T07:52:47Z] Fetching events from calendar...
+[2026-05-02T07:52:48Z] API response received
+[2026-05-02T07:52:48Z] Latest event IDs count: 1
+[2026-05-02T07:52:48Z] No new events found
+[2026-05-02T07:52:48Z] Snapshot updated
+[2026-05-02T07:53:18Z] === Poll started ===
+[2026-05-02T07:53:18Z] Fetching events from calendar...
+[2026-05-02T07:53:19Z] API response received
+[2026-05-02T07:53:19Z] Latest event IDs count: 1
+[2026-05-02T07:53:19Z] No new events found
+[2026-05-02T07:53:19Z] Snapshot updated
+[2026-05-02T07:53:48Z] === Poll started ===
+[2026-05-02T07:53:48Z] Fetching events from calendar...
+[2026-05-02T07:53:48Z] API response received
+[2026-05-02T07:53:48Z] Latest event IDs count: 1
+[2026-05-02T07:53:49Z] No new events found
+[2026-05-02T07:53:49Z] Snapshot updated
+[2026-05-02T07:54:17Z] === Poll started ===
+[2026-05-02T07:54:17Z] Fetching events from calendar...
+[2026-05-02T07:54:18Z] API response received
+[2026-05-02T07:54:18Z] Latest event IDs count: 1
+[2026-05-02T07:54:18Z] No new events found
+[2026-05-02T07:54:18Z] Snapshot updated
+[2026-05-02T07:54:48Z] === Poll started ===
+[2026-05-02T07:54:48Z] Fetching events from calendar...
+[2026-05-02T07:54:48Z] API response received
+[2026-05-02T07:54:48Z] Latest event IDs count: 1
+[2026-05-02T07:54:48Z] No new events found
+[2026-05-02T07:54:48Z] Snapshot updated
+[2026-05-02T07:55:18Z] === Poll started ===
+[2026-05-02T07:55:18Z] Fetching events from calendar...
+[2026-05-02T07:55:18Z] API response received
+[2026-05-02T07:55:18Z] Latest event IDs count: 1
+[2026-05-02T07:55:18Z] No new events found
+[2026-05-02T07:55:18Z] Snapshot updated
+[2026-05-02T07:55:47Z] === Poll started ===
+[2026-05-02T07:55:47Z] Fetching events from calendar...
+[2026-05-02T07:55:48Z] API response received
+[2026-05-02T07:55:48Z] Latest event IDs count: 1
+[2026-05-02T07:55:48Z] No new events found
+[2026-05-02T07:55:48Z] Snapshot updated
+[2026-05-02T07:56:18Z] === Poll started ===
+[2026-05-02T07:56:18Z] Fetching events from calendar...
+[2026-05-02T07:56:18Z] API response received
+[2026-05-02T07:56:18Z] Latest event IDs count: 1
+[2026-05-02T07:56:18Z] No new events found
+[2026-05-02T07:56:18Z] Snapshot updated
+[2026-05-02T07:56:48Z] === Poll started ===
+[2026-05-02T07:56:48Z] Fetching events from calendar...
+[2026-05-02T07:56:48Z] API response received
+[2026-05-02T07:56:48Z] Latest event IDs count: 1
+[2026-05-02T07:56:48Z] No new events found
+[2026-05-02T07:56:48Z] Snapshot updated
+[2026-05-02T07:57:18Z] === Poll started ===
+[2026-05-02T07:57:18Z] Fetching events from calendar...
+[2026-05-02T07:57:19Z] API response received
+[2026-05-02T07:57:19Z] Latest event IDs count: 1
+[2026-05-02T07:57:19Z] No new events found
+[2026-05-02T07:57:19Z] Snapshot updated
+[2026-05-02T07:57:49Z] === Poll started ===
+[2026-05-02T07:57:49Z] Fetching events from calendar...
+[2026-05-02T07:57:49Z] API response received
+[2026-05-02T07:57:49Z] Latest event IDs count: 1
+[2026-05-02T07:57:50Z] No new events found
+[2026-05-02T07:57:50Z] Snapshot updated
+[2026-05-02T07:58:18Z] === Poll started ===
+[2026-05-02T07:58:18Z] Fetching events from calendar...
+[2026-05-02T07:58:18Z] API response received
+[2026-05-02T07:58:18Z] Latest event IDs count: 1
+[2026-05-02T07:58:18Z] No new events found
+[2026-05-02T07:58:18Z] Snapshot updated
+[2026-05-02T07:58:48Z] === Poll started ===
+[2026-05-02T07:58:48Z] Fetching events from calendar...
+[2026-05-02T07:58:48Z] API response received
+[2026-05-02T07:58:48Z] Latest event IDs count: 1
+[2026-05-02T07:58:48Z] No new events found
+[2026-05-02T07:58:48Z] Snapshot updated
+[2026-05-02T07:59:18Z] === Poll started ===
+[2026-05-02T07:59:18Z] Fetching events from calendar...
+[2026-05-02T07:59:18Z] API response received
+[2026-05-02T07:59:18Z] Latest event IDs count: 1
+[2026-05-02T07:59:18Z] No new events found
+[2026-05-02T07:59:18Z] Snapshot updated
+[2026-05-02T07:59:48Z] === Poll started ===
+[2026-05-02T07:59:48Z] Fetching events from calendar...
+[2026-05-02T07:59:48Z] API response received
+[2026-05-02T07:59:49Z] Latest event IDs count: 1
+[2026-05-02T07:59:49Z] No new events found
+[2026-05-02T07:59:49Z] Snapshot updated
+[2026-05-02T08:00:18Z] === Poll started ===
+[2026-05-02T08:00:18Z] Fetching events from calendar...
+[2026-05-02T08:00:19Z] API response received
+[2026-05-02T08:00:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:00:19Z] No new events found
+[2026-05-02T08:00:19Z] Snapshot updated
+[2026-05-02T08:00:48Z] === Poll started ===
+[2026-05-02T08:00:48Z] Fetching events from calendar...
+[2026-05-02T08:00:49Z] API response received
+[2026-05-02T08:00:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:00:49Z] No new events found
+[2026-05-02T08:00:49Z] Snapshot updated
+[2026-05-02T08:01:18Z] === Poll started ===
+[2026-05-02T08:01:18Z] Fetching events from calendar...
+[2026-05-02T08:01:19Z] API response received
+[2026-05-02T08:01:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:01:19Z] No new events found
+[2026-05-02T08:01:19Z] Snapshot updated
+[2026-05-02T08:01:48Z] === Poll started ===
+[2026-05-02T08:01:48Z] Fetching events from calendar...
+[2026-05-02T08:01:49Z] API response received
+[2026-05-02T08:01:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:01:49Z] No new events found
+[2026-05-02T08:01:49Z] Snapshot updated
+[2026-05-02T08:02:18Z] === Poll started ===
+[2026-05-02T08:02:18Z] Fetching events from calendar...
+[2026-05-02T08:02:19Z] API response received
+[2026-05-02T08:02:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:02:19Z] No new events found
+[2026-05-02T08:02:19Z] Snapshot updated
+[2026-05-02T08:02:48Z] === Poll started ===
+[2026-05-02T08:02:48Z] Fetching events from calendar...
+[2026-05-02T08:02:48Z] API response received
+[2026-05-02T08:02:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:02:48Z] No new events found
+[2026-05-02T08:02:48Z] Snapshot updated
+[2026-05-02T08:03:19Z] === Poll started ===
+[2026-05-02T08:03:19Z] Fetching events from calendar...
+[2026-05-02T08:03:19Z] API response received
+[2026-05-02T08:03:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:03:19Z] No new events found
+[2026-05-02T08:03:19Z] Snapshot updated
+[2026-05-02T08:03:48Z] === Poll started ===
+[2026-05-02T08:03:48Z] Fetching events from calendar...
+[2026-05-02T08:03:48Z] API response received
+[2026-05-02T08:03:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:03:49Z] No new events found
+[2026-05-02T08:03:49Z] Snapshot updated
+[2026-05-02T08:04:18Z] === Poll started ===
+[2026-05-02T08:04:18Z] Fetching events from calendar...
+[2026-05-02T08:04:19Z] API response received
+[2026-05-02T08:04:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:04:19Z] No new events found
+[2026-05-02T08:04:19Z] Snapshot updated
+[2026-05-02T08:04:48Z] === Poll started ===
+[2026-05-02T08:04:48Z] Fetching events from calendar...
+[2026-05-02T08:04:48Z] API response received
+[2026-05-02T08:04:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:04:49Z] No new events found
+[2026-05-02T08:04:49Z] Snapshot updated
+[2026-05-02T08:05:18Z] === Poll started ===
+[2026-05-02T08:05:18Z] Fetching events from calendar...
+[2026-05-02T08:05:18Z] API response received
+[2026-05-02T08:05:18Z] Latest event IDs count: 0
+0
+[2026-05-02T08:05:18Z] No new events found
+[2026-05-02T08:05:18Z] Snapshot updated
+[2026-05-02T08:05:48Z] === Poll started ===
+[2026-05-02T08:05:48Z] Fetching events from calendar...
+[2026-05-02T08:05:48Z] API response received
+[2026-05-02T08:05:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:05:48Z] No new events found
+[2026-05-02T08:05:48Z] Snapshot updated
+[2026-05-02T08:06:18Z] === Poll started ===
+[2026-05-02T08:06:18Z] Fetching events from calendar...
+[2026-05-02T08:06:19Z] API response received
+[2026-05-02T08:06:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:06:19Z] No new events found
+[2026-05-02T08:06:19Z] Snapshot updated
+[2026-05-02T08:06:48Z] === Poll started ===
+[2026-05-02T08:06:48Z] Fetching events from calendar...
+[2026-05-02T08:06:48Z] API response received
+[2026-05-02T08:06:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:06:48Z] No new events found
+[2026-05-02T08:06:48Z] Snapshot updated
+[2026-05-02T08:07:18Z] === Poll started ===
+[2026-05-02T08:07:18Z] Fetching events from calendar...
+[2026-05-02T08:07:19Z] API response received
+[2026-05-02T08:07:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:07:19Z] No new events found
+[2026-05-02T08:07:19Z] Snapshot updated
+[2026-05-02T08:07:48Z] === Poll started ===
+[2026-05-02T08:07:48Z] Fetching events from calendar...
+[2026-05-02T08:07:48Z] API response received
+[2026-05-02T08:07:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:07:48Z] No new events found
+[2026-05-02T08:07:48Z] Snapshot updated
+[2026-05-02T08:08:18Z] === Poll started ===
+[2026-05-02T08:08:18Z] Fetching events from calendar...
+[2026-05-02T08:08:18Z] API response received
+[2026-05-02T08:08:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:08:19Z] No new events found
+[2026-05-02T08:08:19Z] Snapshot updated
+[2026-05-02T08:08:48Z] === Poll started ===
+[2026-05-02T08:08:48Z] Fetching events from calendar...
+[2026-05-02T08:08:48Z] API response received
+[2026-05-02T08:08:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:08:48Z] No new events found
+[2026-05-02T08:08:48Z] Snapshot updated
+[2026-05-02T08:09:18Z] === Poll started ===
+[2026-05-02T08:09:18Z] Fetching events from calendar...
+[2026-05-02T08:09:18Z] API response received
+[2026-05-02T08:09:18Z] Latest event IDs count: 0
+0
+[2026-05-02T08:09:18Z] No new events found
+[2026-05-02T08:09:18Z] Snapshot updated
+[2026-05-02T08:09:48Z] === Poll started ===
+[2026-05-02T08:09:48Z] Fetching events from calendar...
+[2026-05-02T08:09:48Z] API response received
+[2026-05-02T08:09:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:09:48Z] No new events found
+[2026-05-02T08:09:49Z] Snapshot updated
+[2026-05-02T08:10:18Z] === Poll started ===
+[2026-05-02T08:10:18Z] Fetching events from calendar...
+[2026-05-02T08:10:18Z] API response received
+[2026-05-02T08:10:18Z] Latest event IDs count: 0
+0
+[2026-05-02T08:10:18Z] No new events found
+[2026-05-02T08:10:18Z] Snapshot updated
+[2026-05-02T08:10:48Z] === Poll started ===
+[2026-05-02T08:10:48Z] Fetching events from calendar...
+[2026-05-02T08:10:48Z] API response received
+[2026-05-02T08:10:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:10:48Z] No new events found
+[2026-05-02T08:10:48Z] Snapshot updated
+[2026-05-02T08:11:18Z] === Poll started ===
+[2026-05-02T08:11:18Z] Fetching events from calendar...
+[2026-05-02T08:11:18Z] API response received
+[2026-05-02T08:11:18Z] Latest event IDs count: 0
+0
+[2026-05-02T08:11:18Z] No new events found
+[2026-05-02T08:11:18Z] Snapshot updated
+[2026-05-02T08:11:48Z] === Poll started ===
+[2026-05-02T08:11:48Z] Fetching events from calendar...
+[2026-05-02T08:11:48Z] API response received
+[2026-05-02T08:11:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:11:48Z] No new events found
+[2026-05-02T08:11:48Z] Snapshot updated
+[2026-05-02T08:12:18Z] === Poll started ===
+[2026-05-02T08:12:18Z] Fetching events from calendar...
+[2026-05-02T08:12:19Z] API response received
+[2026-05-02T08:12:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:12:19Z] No new events found
+[2026-05-02T08:12:19Z] Snapshot updated
+[2026-05-02T08:12:48Z] === Poll started ===
+[2026-05-02T08:12:48Z] Fetching events from calendar...
+[2026-05-02T08:12:49Z] API response received
+[2026-05-02T08:12:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:12:49Z] No new events found
+[2026-05-02T08:12:49Z] Snapshot updated
+[2026-05-02T08:13:19Z] === Poll started ===
+[2026-05-02T08:13:19Z] Fetching events from calendar...
+[2026-05-02T08:13:19Z] API response received
+[2026-05-02T08:13:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:13:19Z] No new events found
+[2026-05-02T08:13:19Z] Snapshot updated
+[2026-05-02T08:13:48Z] === Poll started ===
+[2026-05-02T08:13:48Z] Fetching events from calendar...
+[2026-05-02T08:13:49Z] API response received
+[2026-05-02T08:13:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:13:49Z] No new events found
+[2026-05-02T08:13:49Z] Snapshot updated
+[2026-05-02T08:14:18Z] === Poll started ===
+[2026-05-02T08:14:18Z] Fetching events from calendar...
+[2026-05-02T08:14:19Z] API response received
+[2026-05-02T08:14:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:14:19Z] No new events found
+[2026-05-02T08:14:19Z] Snapshot updated
+[2026-05-02T08:14:48Z] === Poll started ===
+[2026-05-02T08:14:48Z] Fetching events from calendar...
+[2026-05-02T08:14:48Z] API response received
+[2026-05-02T08:14:48Z] Latest event IDs count: 0
+0
+[2026-05-02T08:14:48Z] No new events found
+[2026-05-02T08:14:48Z] Snapshot updated
+[2026-05-02T08:15:18Z] === Poll started ===
+[2026-05-02T08:15:18Z] Fetching events from calendar...
+[2026-05-02T08:15:18Z] API response received
+[2026-05-02T08:15:18Z] Latest event IDs count: 0
+0
+[2026-05-02T08:15:18Z] No new events found
+[2026-05-02T08:15:18Z] Snapshot updated
+[2026-05-02T08:15:48Z] === Poll started ===
+[2026-05-02T08:15:48Z] Fetching events from calendar...
+[2026-05-02T08:15:49Z] API response received
+[2026-05-02T08:15:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:15:49Z] No new events found
+[2026-05-02T08:15:49Z] Snapshot updated
+[2026-05-02T08:16:18Z] === Poll started ===
+[2026-05-02T08:16:18Z] Fetching events from calendar...
+[2026-05-02T08:16:19Z] API response received
+[2026-05-02T08:16:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:16:19Z] No new events found
+[2026-05-02T08:16:19Z] Snapshot updated
+[2026-05-02T08:16:48Z] === Poll started ===
+[2026-05-02T08:16:48Z] Fetching events from calendar...
+[2026-05-02T08:16:49Z] API response received
+[2026-05-02T08:16:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:16:49Z] No new events found
+[2026-05-02T08:16:49Z] Snapshot updated
+[2026-05-02T08:17:18Z] === Poll started ===
+[2026-05-02T08:17:18Z] Fetching events from calendar...
+[2026-05-02T08:17:19Z] API response received
+[2026-05-02T08:17:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:17:19Z] No new events found
+[2026-05-02T08:17:19Z] Snapshot updated
+[2026-05-02T08:17:49Z] === Poll started ===
+[2026-05-02T08:17:49Z] Fetching events from calendar...
+[2026-05-02T08:17:49Z] API response received
+[2026-05-02T08:17:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:17:49Z] No new events found
+[2026-05-02T08:17:49Z] Snapshot updated
+[2026-05-02T08:18:20Z] === Poll started ===
+[2026-05-02T08:18:20Z] Fetching events from calendar...
+[2026-05-02T08:18:20Z] API response received
+[2026-05-02T08:18:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:18:20Z] No new events found
+[2026-05-02T08:18:20Z] Snapshot updated
+[2026-05-02T08:18:49Z] === Poll started ===
+[2026-05-02T08:18:49Z] Fetching events from calendar...
+[2026-05-02T08:18:49Z] API response received
+[2026-05-02T08:18:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:18:50Z] No new events found
+[2026-05-02T08:18:50Z] Snapshot updated
+[2026-05-02T08:19:19Z] === Poll started ===
+[2026-05-02T08:19:19Z] Fetching events from calendar...
+[2026-05-02T08:19:19Z] API response received
+[2026-05-02T08:19:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:19:19Z] No new events found
+[2026-05-02T08:19:19Z] Snapshot updated
+[2026-05-02T08:19:49Z] === Poll started ===
+[2026-05-02T08:19:49Z] Fetching events from calendar...
+[2026-05-02T08:19:49Z] API response received
+[2026-05-02T08:19:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:19:49Z] No new events found
+[2026-05-02T08:19:49Z] Snapshot updated
+[2026-05-02T08:20:18Z] === Poll started ===
+[2026-05-02T08:20:18Z] Fetching events from calendar...
+[2026-05-02T08:20:18Z] API response received
+[2026-05-02T08:20:18Z] Latest event IDs count: 0
+0
+[2026-05-02T08:20:18Z] No new events found
+[2026-05-02T08:20:19Z] Snapshot updated
+[2026-05-02T08:20:49Z] === Poll started ===
+[2026-05-02T08:20:49Z] Fetching events from calendar...
+[2026-05-02T08:20:49Z] API response received
+[2026-05-02T08:20:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:20:49Z] No new events found
+[2026-05-02T08:20:49Z] Snapshot updated
+[2026-05-02T08:21:19Z] === Poll started ===
+[2026-05-02T08:21:19Z] Fetching events from calendar...
+[2026-05-02T08:21:20Z] API response received
+[2026-05-02T08:21:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:21:20Z] No new events found
+[2026-05-02T08:21:20Z] Snapshot updated
+[2026-05-02T08:21:49Z] === Poll started ===
+[2026-05-02T08:21:49Z] Fetching events from calendar...
+[2026-05-02T08:21:50Z] API response received
+[2026-05-02T08:21:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:21:50Z] No new events found
+[2026-05-02T08:21:50Z] Snapshot updated
+[2026-05-02T08:22:20Z] === Poll started ===
+[2026-05-02T08:22:20Z] Fetching events from calendar...
+[2026-05-02T08:22:20Z] API response received
+[2026-05-02T08:22:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:22:20Z] No new events found
+[2026-05-02T08:22:20Z] Snapshot updated
+[2026-05-02T08:22:48Z] === Poll started ===
+[2026-05-02T08:22:48Z] Fetching events from calendar...
+[2026-05-02T08:22:49Z] API response received
+[2026-05-02T08:22:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:22:49Z] No new events found
+[2026-05-02T08:22:49Z] Snapshot updated
+[2026-05-02T08:23:18Z] === Poll started ===
+[2026-05-02T08:23:18Z] Fetching events from calendar...
+[2026-05-02T08:23:19Z] API response received
+[2026-05-02T08:23:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:23:19Z] No new events found
+[2026-05-02T08:23:19Z] Snapshot updated
+[2026-05-02T08:23:49Z] === Poll started ===
+[2026-05-02T08:23:49Z] Fetching events from calendar...
+[2026-05-02T08:23:49Z] API response received
+[2026-05-02T08:23:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:23:49Z] No new events found
+[2026-05-02T08:23:49Z] Snapshot updated
+[2026-05-02T08:24:19Z] === Poll started ===
+[2026-05-02T08:24:19Z] Fetching events from calendar...
+[2026-05-02T08:24:19Z] API response received
+[2026-05-02T08:24:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:24:19Z] No new events found
+[2026-05-02T08:24:19Z] Snapshot updated
+[2026-05-02T08:24:49Z] === Poll started ===
+[2026-05-02T08:24:49Z] Fetching events from calendar...
+[2026-05-02T08:24:49Z] API response received
+[2026-05-02T08:24:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:24:49Z] No new events found
+[2026-05-02T08:24:49Z] Snapshot updated
+[2026-05-02T08:25:19Z] === Poll started ===
+[2026-05-02T08:25:19Z] Fetching events from calendar...
+[2026-05-02T08:25:19Z] API response received
+[2026-05-02T08:25:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:25:20Z] No new events found
+[2026-05-02T08:25:20Z] Snapshot updated
+[2026-05-02T08:25:49Z] === Poll started ===
+[2026-05-02T08:25:49Z] Fetching events from calendar...
+[2026-05-02T08:25:49Z] API response received
+[2026-05-02T08:25:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:25:49Z] No new events found
+[2026-05-02T08:25:49Z] Snapshot updated
+[2026-05-02T08:26:19Z] === Poll started ===
+[2026-05-02T08:26:19Z] Fetching events from calendar...
+[2026-05-02T08:26:19Z] API response received
+[2026-05-02T08:26:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:26:19Z] No new events found
+[2026-05-02T08:26:19Z] Snapshot updated
+[2026-05-02T08:26:48Z] === Poll started ===
+[2026-05-02T08:26:48Z] Fetching events from calendar...
+[2026-05-02T08:26:49Z] API response received
+[2026-05-02T08:26:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:26:49Z] No new events found
+[2026-05-02T08:26:49Z] Snapshot updated
+[2026-05-02T08:27:19Z] === Poll started ===
+[2026-05-02T08:27:19Z] Fetching events from calendar...
+[2026-05-02T08:27:20Z] API response received
+[2026-05-02T08:27:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:27:20Z] No new events found
+[2026-05-02T08:27:20Z] Snapshot updated
+[2026-05-02T08:27:50Z] === Poll started ===
+[2026-05-02T08:27:50Z] Fetching events from calendar...
+[2026-05-02T08:27:50Z] API response received
+[2026-05-02T08:27:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:27:50Z] No new events found
+[2026-05-02T08:27:50Z] Snapshot updated
+[2026-05-02T08:28:19Z] === Poll started ===
+[2026-05-02T08:28:19Z] Fetching events from calendar...
+[2026-05-02T08:28:20Z] API response received
+[2026-05-02T08:28:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:28:20Z] No new events found
+[2026-05-02T08:28:20Z] Snapshot updated
+[2026-05-02T08:28:50Z] === Poll started ===
+[2026-05-02T08:28:50Z] Fetching events from calendar...
+[2026-05-02T08:28:50Z] API response received
+[2026-05-02T08:28:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:28:50Z] No new events found
+[2026-05-02T08:28:50Z] Snapshot updated
+[2026-05-02T08:29:19Z] === Poll started ===
+[2026-05-02T08:29:19Z] Fetching events from calendar...
+[2026-05-02T08:29:19Z] API response received
+[2026-05-02T08:29:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:29:19Z] No new events found
+[2026-05-02T08:29:19Z] Snapshot updated
+[2026-05-02T08:29:49Z] === Poll started ===
+[2026-05-02T08:29:49Z] Fetching events from calendar...
+[2026-05-02T08:29:49Z] API response received
+[2026-05-02T08:29:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:29:49Z] No new events found
+[2026-05-02T08:29:49Z] Snapshot updated
+[2026-05-02T08:30:19Z] === Poll started ===
+[2026-05-02T08:30:19Z] Fetching events from calendar...
+[2026-05-02T08:30:19Z] API response received
+[2026-05-02T08:30:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:30:19Z] No new events found
+[2026-05-02T08:30:19Z] Snapshot updated
+[2026-05-02T08:30:49Z] === Poll started ===
+[2026-05-02T08:30:49Z] Fetching events from calendar...
+[2026-05-02T08:30:49Z] API response received
+[2026-05-02T08:30:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:30:49Z] No new events found
+[2026-05-02T08:30:49Z] Snapshot updated
+[2026-05-02T08:31:20Z] === Poll started ===
+[2026-05-02T08:31:20Z] Fetching events from calendar...
+[2026-05-02T08:31:20Z] API response received
+[2026-05-02T08:31:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:31:20Z] No new events found
+[2026-05-02T08:31:20Z] Snapshot updated
+[2026-05-02T08:31:50Z] === Poll started ===
+[2026-05-02T08:31:50Z] Fetching events from calendar...
+[2026-05-02T08:31:50Z] API response received
+[2026-05-02T08:31:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:31:50Z] No new events found
+[2026-05-02T08:31:50Z] Snapshot updated
+[2026-05-02T08:32:20Z] === Poll started ===
+[2026-05-02T08:32:20Z] Fetching events from calendar...
+[2026-05-02T08:32:20Z] API response received
+[2026-05-02T08:32:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:32:20Z] No new events found
+[2026-05-02T08:32:20Z] Snapshot updated
+[2026-05-02T08:32:49Z] === Poll started ===
+[2026-05-02T08:32:49Z] Fetching events from calendar...
+[2026-05-02T08:32:50Z] API response received
+[2026-05-02T08:32:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:32:50Z] No new events found
+[2026-05-02T08:32:50Z] Snapshot updated
+[2026-05-02T08:33:19Z] === Poll started ===
+[2026-05-02T08:33:19Z] Fetching events from calendar...
+[2026-05-02T08:33:20Z] API response received
+[2026-05-02T08:33:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:33:20Z] No new events found
+[2026-05-02T08:33:20Z] Snapshot updated
+[2026-05-02T08:33:49Z] === Poll started ===
+[2026-05-02T08:33:49Z] Fetching events from calendar...
+[2026-05-02T08:33:49Z] API response received
+[2026-05-02T08:33:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:33:49Z] No new events found
+[2026-05-02T08:33:49Z] Snapshot updated
+[2026-05-02T08:34:19Z] === Poll started ===
+[2026-05-02T08:34:19Z] Fetching events from calendar...
+[2026-05-02T08:34:19Z] API response received
+[2026-05-02T08:34:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:34:19Z] No new events found
+[2026-05-02T08:34:19Z] Snapshot updated
+[2026-05-02T08:34:49Z] === Poll started ===
+[2026-05-02T08:34:49Z] Fetching events from calendar...
+[2026-05-02T08:34:49Z] API response received
+[2026-05-02T08:34:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:34:49Z] No new events found
+[2026-05-02T08:34:49Z] Snapshot updated
+[2026-05-02T08:35:19Z] === Poll started ===
+[2026-05-02T08:35:19Z] Fetching events from calendar...
+[2026-05-02T08:35:20Z] API response received
+[2026-05-02T08:35:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:35:20Z] No new events found
+[2026-05-02T08:35:20Z] Snapshot updated
+[2026-05-02T08:35:49Z] === Poll started ===
+[2026-05-02T08:35:49Z] Fetching events from calendar...
+[2026-05-02T08:35:49Z] API response received
+[2026-05-02T08:35:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:35:50Z] No new events found
+[2026-05-02T08:35:50Z] Snapshot updated
+[2026-05-02T08:36:19Z] === Poll started ===
+[2026-05-02T08:36:19Z] Fetching events from calendar...
+[2026-05-02T08:36:19Z] API response received
+[2026-05-02T08:36:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:36:19Z] No new events found
+[2026-05-02T08:36:19Z] Snapshot updated
+[2026-05-02T08:36:48Z] === Poll started ===
+[2026-05-02T08:36:48Z] Fetching events from calendar...
+[2026-05-02T08:36:49Z] API response received
+[2026-05-02T08:36:49Z] Latest event IDs count: 0
+0
+[2026-05-02T08:36:49Z] No new events found
+[2026-05-02T08:36:49Z] Snapshot updated
+[2026-05-02T08:37:19Z] === Poll started ===
+[2026-05-02T08:37:19Z] Fetching events from calendar...
+[2026-05-02T08:37:19Z] API response received
+[2026-05-02T08:37:19Z] Latest event IDs count: 0
+0
+[2026-05-02T08:37:19Z] No new events found
+[2026-05-02T08:37:20Z] Snapshot updated
+[2026-05-02T08:37:49Z] === Poll started ===
+[2026-05-02T08:37:49Z] Fetching events from calendar...
+[2026-05-02T08:37:50Z] API response received
+[2026-05-02T08:37:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:37:50Z] No new events found
+[2026-05-02T08:37:50Z] Snapshot updated
+[2026-05-02T08:38:20Z] === Poll started ===
+[2026-05-02T08:38:20Z] Fetching events from calendar...
+[2026-05-02T08:38:20Z] API response received
+[2026-05-02T08:38:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:38:20Z] No new events found
+[2026-05-02T08:38:20Z] Snapshot updated
+[2026-05-02T08:38:49Z] === Poll started ===
+[2026-05-02T08:38:49Z] Fetching events from calendar...
+[2026-05-02T08:38:50Z] API response received
+[2026-05-02T08:38:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:38:50Z] No new events found
+[2026-05-02T08:38:50Z] Snapshot updated
+[2026-05-02T08:39:19Z] === Poll started ===
+[2026-05-02T08:39:19Z] Fetching events from calendar...
+[2026-05-02T08:39:20Z] API response received
+[2026-05-02T08:39:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:39:20Z] No new events found
+[2026-05-02T08:39:20Z] Snapshot updated
+[2026-05-02T08:39:50Z] === Poll started ===
+[2026-05-02T08:39:50Z] Fetching events from calendar...
+[2026-05-02T08:39:50Z] API response received
+[2026-05-02T08:39:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:39:50Z] No new events found
+[2026-05-02T08:39:50Z] Snapshot updated
+[2026-05-02T08:40:19Z] === Poll started ===
+[2026-05-02T08:40:19Z] Fetching events from calendar...
+[2026-05-02T08:40:20Z] API response received
+[2026-05-02T08:40:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:40:20Z] No new events found
+[2026-05-02T08:40:20Z] Snapshot updated
+[2026-05-02T08:40:50Z] === Poll started ===
+[2026-05-02T08:40:50Z] Fetching events from calendar...
+[2026-05-02T08:40:50Z] API response received
+[2026-05-02T08:40:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:40:50Z] No new events found
+[2026-05-02T08:40:50Z] Snapshot updated
+[2026-05-02T08:41:19Z] === Poll started ===
+[2026-05-02T08:41:19Z] Fetching events from calendar...
+[2026-05-02T08:41:20Z] API response received
+[2026-05-02T08:41:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:41:20Z] No new events found
+[2026-05-02T08:41:20Z] Snapshot updated
+[2026-05-02T08:41:50Z] === Poll started ===
+[2026-05-02T08:41:50Z] Fetching events from calendar...
+[2026-05-02T08:41:50Z] API response received
+[2026-05-02T08:41:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:41:50Z] No new events found
+[2026-05-02T08:41:50Z] Snapshot updated
+[2026-05-02T08:42:19Z] === Poll started ===
+[2026-05-02T08:42:19Z] Fetching events from calendar...
+[2026-05-02T08:42:20Z] API response received
+[2026-05-02T08:42:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:42:20Z] No new events found
+[2026-05-02T08:42:20Z] Snapshot updated
+[2026-05-02T08:42:49Z] === Poll started ===
+[2026-05-02T08:42:49Z] Fetching events from calendar...
+[2026-05-02T08:42:50Z] API response received
+[2026-05-02T08:42:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:42:50Z] No new events found
+[2026-05-02T08:42:50Z] Snapshot updated
+[2026-05-02T08:43:20Z] === Poll started ===
+[2026-05-02T08:43:20Z] Fetching events from calendar...
+[2026-05-02T08:43:20Z] API response received
+[2026-05-02T08:43:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:43:20Z] No new events found
+[2026-05-02T08:43:20Z] Snapshot updated
+[2026-05-02T08:43:49Z] === Poll started ===
+[2026-05-02T08:43:49Z] Fetching events from calendar...
+[2026-05-02T08:43:50Z] API response received
+[2026-05-02T08:43:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:43:50Z] No new events found
+[2026-05-02T08:43:50Z] Snapshot updated
+[2026-05-02T08:44:20Z] === Poll started ===
+[2026-05-02T08:44:20Z] Fetching events from calendar...
+[2026-05-02T08:44:20Z] API response received
+[2026-05-02T08:44:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:44:20Z] No new events found
+[2026-05-02T08:44:20Z] Snapshot updated
+[2026-05-02T08:44:50Z] === Poll started ===
+[2026-05-02T08:44:50Z] Fetching events from calendar...
+[2026-05-02T08:44:50Z] API response received
+[2026-05-02T08:44:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:44:50Z] No new events found
+[2026-05-02T08:44:50Z] Snapshot updated
+[2026-05-02T08:45:19Z] === Poll started ===
+[2026-05-02T08:45:19Z] Fetching events from calendar...
+[2026-05-02T08:45:20Z] API response received
+[2026-05-02T08:45:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:45:20Z] No new events found
+[2026-05-02T08:45:20Z] Snapshot updated
+[2026-05-02T08:45:49Z] === Poll started ===
+[2026-05-02T08:45:49Z] Fetching events from calendar...
+[2026-05-02T08:45:50Z] API response received
+[2026-05-02T08:45:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:45:50Z] No new events found
+[2026-05-02T08:45:50Z] Snapshot updated
+[2026-05-02T08:46:20Z] === Poll started ===
+[2026-05-02T08:46:20Z] Fetching events from calendar...
+[2026-05-02T08:46:20Z] API response received
+[2026-05-02T08:46:21Z] Latest event IDs count: 0
+0
+[2026-05-02T08:46:21Z] No new events found
+[2026-05-02T08:46:21Z] Snapshot updated
+[2026-05-02T08:46:50Z] === Poll started ===
+[2026-05-02T08:46:50Z] Fetching events from calendar...
+[2026-05-02T08:46:50Z] API response received
+[2026-05-02T08:46:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:46:50Z] No new events found
+[2026-05-02T08:46:50Z] Snapshot updated
+[2026-05-02T08:47:20Z] === Poll started ===
+[2026-05-02T08:47:20Z] Fetching events from calendar...
+[2026-05-02T08:47:20Z] API response received
+[2026-05-02T08:47:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:47:20Z] No new events found
+[2026-05-02T08:47:20Z] Snapshot updated
+[2026-05-02T08:47:49Z] === Poll started ===
+[2026-05-02T08:47:49Z] Fetching events from calendar...
+[2026-05-02T08:47:50Z] API response received
+[2026-05-02T08:47:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:47:50Z] No new events found
+[2026-05-02T08:47:50Z] Snapshot updated
+[2026-05-02T08:48:19Z] === Poll started ===
+[2026-05-02T08:48:19Z] Fetching events from calendar...
+[2026-05-02T08:48:20Z] API response received
+[2026-05-02T08:48:20Z] Latest event IDs count: 0
+0
+[2026-05-02T08:48:20Z] No new events found
+[2026-05-02T08:48:20Z] Snapshot updated
+[2026-05-02T08:48:49Z] === Poll started ===
+[2026-05-02T08:48:49Z] Fetching events from calendar...
+[2026-05-02T08:48:50Z] API response received
+[2026-05-02T08:48:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:48:50Z] No new events found
+[2026-05-02T08:48:50Z] Snapshot updated
+[2026-05-02T08:49:20Z] === Poll started ===
+[2026-05-02T08:49:20Z] Fetching events from calendar...
+[2026-05-02T08:49:21Z] API response received
+[2026-05-02T08:49:21Z] Latest event IDs count: 0
+0
+[2026-05-02T08:49:21Z] No new events found
+[2026-05-02T08:49:21Z] Snapshot updated
+[2026-05-02T08:49:54Z] === Poll started ===
+[2026-05-02T08:49:54Z] Fetching events from calendar...
+[2026-05-02T08:49:55Z] API response received
+[2026-05-02T08:49:55Z] Latest event IDs count: 0
+0
+[2026-05-02T08:49:55Z] No new events found
+[2026-05-02T08:49:55Z] Snapshot updated
+[2026-05-02T08:51:25Z] === Poll started ===
+[2026-05-02T08:51:25Z] Fetching events from calendar...
+[2026-05-02T08:51:26Z] API response received
+[2026-05-02T08:51:26Z] Latest event IDs count: 0
+0
+[2026-05-02T08:51:26Z] No new events found
+[2026-05-02T08:51:26Z] Snapshot updated
+[2026-05-02T08:52:21Z] === Poll started ===
+[2026-05-02T08:52:21Z] Fetching events from calendar...
+[2026-05-02T08:52:22Z] API response received
+[2026-05-02T08:52:22Z] Latest event IDs count: 0
+0
+[2026-05-02T08:52:22Z] No new events found
+[2026-05-02T08:52:22Z] Snapshot updated
+[2026-05-02T08:53:56Z] === Poll started ===
+[2026-05-02T08:53:56Z] Fetching events from calendar...
+[2026-05-02T08:53:57Z] API response received
+[2026-05-02T08:53:57Z] Latest event IDs count: 0
+0
+[2026-05-02T08:53:57Z] No new events found
+[2026-05-02T08:53:57Z] Snapshot updated
+[2026-05-02T08:55:13Z] === Poll started ===
+[2026-05-02T08:55:13Z] Fetching events from calendar...
+[2026-05-02T08:55:14Z] API response received
+[2026-05-02T08:55:14Z] Latest event IDs count: 0
+0
+[2026-05-02T08:55:14Z] No new events found
+[2026-05-02T08:55:14Z] Snapshot updated
+[2026-05-02T08:56:23Z] === Poll started ===
+[2026-05-02T08:56:23Z] Fetching events from calendar...
+[2026-05-02T08:56:23Z] API response received
+[2026-05-02T08:56:23Z] Latest event IDs count: 0
+0
+[2026-05-02T08:56:23Z] No new events found
+[2026-05-02T08:56:23Z] Snapshot updated
+[2026-05-02T08:57:21Z] === Poll started ===
+[2026-05-02T08:57:21Z] Fetching events from calendar...
+[2026-05-02T08:57:22Z] API response received
+[2026-05-02T08:57:22Z] Latest event IDs count: 0
+0
+[2026-05-02T08:57:22Z] No new events found
+[2026-05-02T08:57:22Z] Snapshot updated
+[2026-05-02T08:58:46Z] === Poll started ===
+[2026-05-02T08:58:46Z] Fetching events from calendar...
+[2026-05-02T08:58:47Z] API response received
+[2026-05-02T08:58:47Z] Latest event IDs count: 0
+0
+[2026-05-02T08:58:47Z] No new events found
+[2026-05-02T08:58:47Z] Snapshot updated
+[2026-05-02T08:59:17Z] === Poll started ===
+[2026-05-02T08:59:17Z] Fetching events from calendar...
+[2026-05-02T08:59:18Z] API response received
+[2026-05-02T08:59:18Z] Latest event IDs count: 0
+0
+[2026-05-02T08:59:18Z] No new events found
+[2026-05-02T08:59:18Z] Snapshot updated
+[2026-05-02T08:59:49Z] === Poll started ===
+[2026-05-02T08:59:49Z] Fetching events from calendar...
+[2026-05-02T08:59:50Z] API response received
+[2026-05-02T08:59:50Z] Latest event IDs count: 0
+0
+[2026-05-02T08:59:50Z] No new events found
+[2026-05-02T08:59:50Z] Snapshot updated
+[2026-05-02T09:00:18Z] === Poll started ===
+[2026-05-02T09:00:18Z] Fetching events from calendar...
+[2026-05-02T09:00:24Z] API response received
+[2026-05-02T09:00:24Z] Latest event IDs count: 0
+0
+[2026-05-02T09:00:24Z] No new events found
+[2026-05-02T09:00:24Z] Snapshot updated
+[2026-05-02T09:00:48Z] === Poll started ===
+[2026-05-02T09:00:48Z] Fetching events from calendar...
+[2026-05-02T09:00:53Z] API response received
+[2026-05-02T09:00:53Z] ERROR: API call failed - {
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "api_error",
+    "message": "API call failed: Get \"https://open.feishu.cn/open-apis/calendar/v4/calendars/feishu.cn_hPSfMZ4cqYRd4yFZeFWhOc@group.calendar.feishu.cn/events/instance_view?end_time=1777885248&start_time=1777712448\": EOF"
+  },
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-02T09:01:18Z] === Poll started ===
+[2026-05-02T09:01:18Z] Fetching events from calendar...
+[2026-05-02T09:01:23Z] API response received
+[2026-05-02T09:01:23Z] Latest event IDs count: 0
+0
+[2026-05-02T09:01:23Z] No new events found
+[2026-05-02T09:01:23Z] Snapshot updated
+[2026-05-02T09:01:48Z] === Poll started ===
+[2026-05-02T09:01:48Z] Fetching events from calendar...
+[2026-05-02T09:01:51Z] API response received
+[2026-05-02T09:01:51Z] Latest event IDs count: 0
+0
+[2026-05-02T09:01:51Z] No new events found
+[2026-05-02T09:01:51Z] Snapshot updated
+[2026-05-02T09:02:18Z] === Poll started ===
+[2026-05-02T09:02:18Z] Fetching events from calendar...
+[2026-05-02T09:02:20Z] API response received
+[2026-05-02T09:02:20Z] Latest event IDs count: 0
+0
+[2026-05-02T09:02:20Z] No new events found
+[2026-05-02T09:02:20Z] Snapshot updated
+[2026-05-02T09:03:00Z] === Poll started ===
+[2026-05-02T09:03:00Z] Fetching events from calendar...
+[2026-05-02T09:03:05Z] API response received
+[2026-05-02T09:03:05Z] ERROR: API call failed - {
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "api_error",
+    "message": "API call failed: Get \"https://open.feishu.cn/open-apis/calendar/v4/calendars/feishu.cn_hPSfMZ4cqYRd4yFZeFWhOc@group.calendar.feishu.cn/events/instance_view?end_time=1777885380&start_time=1777712580\": EOF"
+  },
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-02T09:03:53Z] === Poll started ===
+[2026-05-02T09:03:53Z] Fetching events from calendar...
+[2026-05-02T09:03:55Z] API response received
+[2026-05-02T09:03:55Z] Latest event IDs count: 0
+0
+[2026-05-02T09:03:55Z] No new events found
+[2026-05-02T09:03:55Z] Snapshot updated
+[2026-05-02T09:04:54Z] === Poll started ===
+[2026-05-02T09:04:54Z] Fetching events from calendar...
+[2026-05-02T09:04:59Z] API response received
+[2026-05-02T09:04:59Z] ERROR: API call failed - {
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "api_error",
+    "message": "API call failed: Get \"https://open.feishu.cn/open-apis/calendar/v4/calendars/feishu.cn_hPSfMZ4cqYRd4yFZeFWhOc@group.calendar.feishu.cn/events/instance_view?end_time=1777885494&start_time=1777712694\": EOF"
+  },
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-02T09:05:53Z] === Poll started ===
+[2026-05-02T09:05:53Z] Fetching events from calendar...
+[2026-05-02T09:06:00Z] API response received
+[2026-05-02T09:06:00Z] Latest event IDs count: 0
+0
+[2026-05-02T09:06:00Z] No new events found
+[2026-05-02T09:06:00Z] Snapshot updated
+[2026-05-02T09:06:53Z] === Poll started ===
+[2026-05-02T09:06:53Z] Fetching events from calendar...
+[2026-05-02T09:06:58Z] API response received
+[2026-05-02T09:06:58Z] ERROR: API call failed - {
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "api_error",
+    "message": "API call failed: Get \"https://open.feishu.cn/open-apis/calendar/v4/calendars/feishu.cn_hPSfMZ4cqYRd4yFZeFWhOc@group.calendar.feishu.cn/events/instance_view?end_time=1777885613&start_time=1777712813\": EOF"
+  },
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-02T09:07:54Z] === Poll started ===
+[2026-05-02T09:07:54Z] Fetching events from calendar...
+[2026-05-02T09:07:59Z] API response received
+[2026-05-02T09:07:59Z] Latest event IDs count: 0
+0
+[2026-05-02T09:07:59Z] No new events found
+[2026-05-02T09:07:59Z] Snapshot updated
+[2026-05-02T09:08:56Z] === Poll started ===
+[2026-05-02T09:08:56Z] Fetching events from calendar...
+[2026-05-02T09:09:02Z] API response received
+[2026-05-02T09:09:02Z] Latest event IDs count: 0
+0
+[2026-05-02T09:09:02Z] No new events found
+[2026-05-02T09:09:02Z] Snapshot updated
+[2026-05-02T09:09:53Z] === Poll started ===
+[2026-05-02T09:09:53Z] Fetching events from calendar...
+[2026-05-02T09:10:00Z] API response received
+[2026-05-02T09:10:00Z] Latest event IDs count: 0
+0
+[2026-05-02T09:10:00Z] No new events found
+[2026-05-02T09:10:00Z] Snapshot updated
+[2026-05-02T09:12:27Z] === Poll started ===
+[2026-05-02T09:12:27Z] Fetching events from calendar...
+[2026-05-02T09:12:29Z] API response received
+[2026-05-02T09:12:29Z] Latest event IDs count: 0
+0
+[2026-05-02T09:12:29Z] No new events found
+[2026-05-02T09:12:29Z] Snapshot updated
+[2026-05-02T09:14:22Z] === Poll started ===
+[2026-05-02T09:14:22Z] Fetching events from calendar...
+[2026-05-02T09:14:23Z] API response received
+[2026-05-02T09:14:23Z] Latest event IDs count: 0
+0
+[2026-05-02T09:14:23Z] No new events found
+[2026-05-02T09:14:23Z] Snapshot updated
+[2026-05-02T09:20:35Z] === Poll started ===
+[2026-05-02T09:20:35Z] Fetching events from calendar...
+[2026-05-02T09:20:37Z] API response received
+[2026-05-02T09:20:37Z] Latest event IDs count: 0
+0
+[2026-05-02T09:20:37Z] No new events found
+[2026-05-02T09:20:37Z] Snapshot updated
+[2026-05-02T09:36:51Z] === Poll started ===
+[2026-05-02T09:36:51Z] Fetching events from calendar...
+[2026-05-02T09:36:57Z] API response received
+[2026-05-02T09:36:57Z] Latest event IDs count: 1
+[2026-05-02T09:36:57Z] Found new events: 815659a6-1212-41ba-8b2b-4ea92a3e60bb_0,
+[2026-05-02T09:36:57Z] Processing new event: 815659a6-1212-41ba-8b2b-4ea92a3e60bb_0
+[2026-05-02T09:36:57Z] Payload: {"event_id":"815659a6-1212-41ba-8b2b-4ea92a3e60bb_0","title":"会议智能助手讨论","start_time":{"datetime":"2026-05-02T09:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-02T10:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-02T09:36:57.258Z"}
+[2026-05-02T09:36:57Z] Event logged to new_events.jsonl
+[2026-05-02T09:36:57Z] Snapshot updated. Poll completed.
+[2026-05-02T09:46:23Z] === Poll started ===
+[2026-05-02T09:46:23Z] Fetching events from calendar...
+[2026-05-02T09:46:24Z] API response received
+[2026-05-02T09:46:24Z] Latest event IDs count: 1
+[2026-05-02T09:46:24Z] No new events found
+[2026-05-02T09:46:25Z] Snapshot updated
+[2026-05-02T09:46:55Z] === Poll started ===
+[2026-05-02T09:46:55Z] Fetching events from calendar...
+[2026-05-02T09:46:56Z] API response received
+[2026-05-02T09:46:56Z] Latest event IDs count: 1
+[2026-05-02T09:46:56Z] No new events found
+[2026-05-02T09:46:56Z] Snapshot updated
+[2026-05-02T09:47:26Z] === Poll started ===
+[2026-05-02T09:47:26Z] Fetching events from calendar...
+[2026-05-02T09:47:27Z] API response received
+[2026-05-02T09:47:27Z] Latest event IDs count: 1
+[2026-05-02T09:47:27Z] No new events found
+[2026-05-02T09:47:27Z] Snapshot updated
+[2026-05-02T09:47:57Z] === Poll started ===
+[2026-05-02T09:47:57Z] Fetching events from calendar...
+[2026-05-02T09:47:59Z] API response received
+[2026-05-02T09:47:59Z] Latest event IDs count: 1
+[2026-05-02T09:47:59Z] No new events found
+[2026-05-02T09:47:59Z] Snapshot updated
+[2026-05-02T09:48:29Z] === Poll started ===
+[2026-05-02T09:48:29Z] Fetching events from calendar...
+[2026-05-02T09:48:30Z] API response received
+[2026-05-02T09:48:30Z] Latest event IDs count: 1
+[2026-05-02T09:48:30Z] No new events found
+[2026-05-02T09:48:30Z] Snapshot updated
+[2026-05-02T09:49:00Z] === Poll started ===
+[2026-05-02T09:49:00Z] Fetching events from calendar...
+[2026-05-02T09:49:01Z] API response received
+[2026-05-02T09:49:01Z] Latest event IDs count: 1
+[2026-05-02T09:49:01Z] No new events found
+[2026-05-02T09:49:01Z] Snapshot updated
+[2026-05-02T09:49:31Z] === Poll started ===
+[2026-05-02T09:49:31Z] Fetching events from calendar...
+[2026-05-02T09:49:33Z] API response received
+[2026-05-02T09:49:33Z] Latest event IDs count: 1
+[2026-05-02T09:49:33Z] No new events found
+[2026-05-02T09:49:33Z] Snapshot updated
+[2026-05-02T09:50:03Z] === Poll started ===
+[2026-05-02T09:50:03Z] Fetching events from calendar...
+[2026-05-02T09:50:05Z] API response received
+[2026-05-02T09:50:05Z] Latest event IDs count: 1
+[2026-05-02T09:50:05Z] No new events found
+[2026-05-02T09:50:05Z] Snapshot updated
+[2026-05-02T09:50:35Z] === Poll started ===
+[2026-05-02T09:50:35Z] Fetching events from calendar...
+[2026-05-02T09:50:36Z] API response received
+[2026-05-02T09:50:36Z] Latest event IDs count: 1
+[2026-05-02T09:50:36Z] No new events found
+[2026-05-02T09:50:36Z] Snapshot updated
+[2026-05-02T09:51:06Z] === Poll started ===
+[2026-05-02T09:51:06Z] Fetching events from calendar...
+[2026-05-02T09:51:07Z] API response received
+[2026-05-02T09:51:07Z] Latest event IDs count: 1
+[2026-05-02T09:51:07Z] No new events found
+[2026-05-02T09:51:07Z] Snapshot updated
+[2026-05-02T09:51:37Z] === Poll started ===
+[2026-05-02T09:51:37Z] Fetching events from calendar...
+[2026-05-02T09:51:39Z] API response received
+[2026-05-02T09:51:39Z] Latest event IDs count: 1
+[2026-05-02T09:51:39Z] No new events found
+[2026-05-02T09:51:39Z] Snapshot updated
+[2026-05-02T09:52:09Z] === Poll started ===
+[2026-05-02T09:52:09Z] Fetching events from calendar...
+[2026-05-02T09:52:10Z] API response received
+[2026-05-02T09:52:10Z] Latest event IDs count: 1
+[2026-05-02T09:52:10Z] No new events found
+[2026-05-02T09:52:10Z] Snapshot updated
+[2026-05-02T09:52:40Z] === Poll started ===
+[2026-05-02T09:52:40Z] Fetching events from calendar...
+[2026-05-02T09:52:41Z] API response received
+[2026-05-02T09:52:41Z] Latest event IDs count: 1
+[2026-05-02T09:52:41Z] No new events found
+[2026-05-02T09:52:41Z] Snapshot updated
+[2026-05-02T09:53:11Z] === Poll started ===
+[2026-05-02T09:53:11Z] Fetching events from calendar...
+[2026-05-02T09:53:13Z] API response received
+[2026-05-02T09:53:13Z] Latest event IDs count: 1
+[2026-05-02T09:53:13Z] No new events found
+[2026-05-02T09:53:13Z] Snapshot updated
+[2026-05-02T09:53:43Z] === Poll started ===
+[2026-05-02T09:53:43Z] Fetching events from calendar...
+[2026-05-02T09:53:44Z] API response received
+[2026-05-02T09:53:44Z] Latest event IDs count: 1
+[2026-05-02T09:53:44Z] No new events found
+[2026-05-02T09:53:44Z] Snapshot updated
+[2026-05-02T09:54:14Z] === Poll started ===
+[2026-05-02T09:54:14Z] Fetching events from calendar...
+[2026-05-02T09:54:16Z] API response received
+[2026-05-02T09:54:16Z] Latest event IDs count: 1
+[2026-05-02T09:54:16Z] No new events found
+[2026-05-02T09:54:16Z] Snapshot updated
+[2026-05-02T09:54:46Z] === Poll started ===
+[2026-05-02T09:54:46Z] Fetching events from calendar...
+[2026-05-02T09:54:47Z] API response received
+[2026-05-02T09:54:47Z] Latest event IDs count: 1
+[2026-05-02T09:54:47Z] No new events found
+[2026-05-02T09:54:47Z] Snapshot updated
+[2026-05-02T09:55:17Z] === Poll started ===
+[2026-05-02T09:55:17Z] Fetching events from calendar...
+[2026-05-02T09:55:18Z] API response received
+[2026-05-02T09:55:18Z] Latest event IDs count: 1
+[2026-05-02T09:55:18Z] No new events found
+[2026-05-02T09:55:18Z] Snapshot updated
+[2026-05-02T09:55:48Z] === Poll started ===
+[2026-05-02T09:55:48Z] Fetching events from calendar...
+[2026-05-02T09:55:48Z] API response received
+[2026-05-02T09:55:48Z] Latest event IDs count: 1
+[2026-05-02T09:55:48Z] No new events found
+[2026-05-02T09:55:48Z] Snapshot updated
+[2026-05-02T09:56:18Z] === Poll started ===
+[2026-05-02T09:56:18Z] Fetching events from calendar...
+[2026-05-02T09:56:19Z] API response received
+[2026-05-02T09:56:19Z] Latest event IDs count: 1
+[2026-05-02T09:56:19Z] No new events found
+[2026-05-02T09:56:19Z] Snapshot updated
+[2026-05-02T09:56:49Z] === Poll started ===
+[2026-05-02T09:56:49Z] Fetching events from calendar...
+[2026-05-02T09:56:49Z] API response received
+[2026-05-02T09:56:49Z] Latest event IDs count: 1
+[2026-05-02T09:56:49Z] No new events found
+[2026-05-02T09:56:49Z] Snapshot updated
+[2026-05-02T09:57:19Z] === Poll started ===
+[2026-05-02T09:57:19Z] Fetching events from calendar...
+[2026-05-02T09:57:20Z] API response received
+[2026-05-02T09:57:20Z] Latest event IDs count: 1
+[2026-05-02T09:57:20Z] No new events found
+[2026-05-02T09:57:20Z] Snapshot updated
+[2026-05-02T09:57:50Z] === Poll started ===
+[2026-05-02T09:57:50Z] Fetching events from calendar...
+[2026-05-02T09:57:52Z] API response received
+[2026-05-02T09:57:52Z] Latest event IDs count: 1
+[2026-05-02T09:57:52Z] No new events found
+[2026-05-02T09:57:52Z] Snapshot updated
+[2026-05-02T09:58:23Z] === Poll started ===
+[2026-05-02T09:58:23Z] Fetching events from calendar...
+[2026-05-02T09:58:23Z] API response received
+[2026-05-02T09:58:23Z] Latest event IDs count: 1
+[2026-05-02T09:58:23Z] No new events found
+[2026-05-02T09:58:23Z] Snapshot updated
+[2026-05-02T09:58:54Z] === Poll started ===
+[2026-05-02T09:58:54Z] Fetching events from calendar...
+[2026-05-02T09:58:55Z] API response received
+[2026-05-02T09:58:55Z] Latest event IDs count: 1
+[2026-05-02T09:58:55Z] No new events found
+[2026-05-02T09:58:55Z] Snapshot updated
+[2026-05-02T09:59:25Z] === Poll started ===
+[2026-05-02T09:59:25Z] Fetching events from calendar...
+[2026-05-02T09:59:26Z] API response received
+[2026-05-02T09:59:26Z] Latest event IDs count: 1
+[2026-05-02T09:59:26Z] No new events found
+[2026-05-02T09:59:26Z] Snapshot updated
+[2026-05-02T09:59:56Z] === Poll started ===
+[2026-05-02T09:59:56Z] Fetching events from calendar...
+[2026-05-02T09:59:57Z] API response received
+[2026-05-02T09:59:57Z] Latest event IDs count: 1
+[2026-05-02T09:59:57Z] No new events found
+[2026-05-02T09:59:57Z] Snapshot updated
+[2026-05-02T10:00:27Z] === Poll started ===
+[2026-05-02T10:00:27Z] Fetching events from calendar...
+[2026-05-02T10:00:27Z] API response received
+[2026-05-02T10:00:28Z] Latest event IDs count: 0
+0
+[2026-05-02T10:00:28Z] No new events found
+[2026-05-02T10:00:28Z] Snapshot updated
+[2026-05-02T10:00:58Z] === Poll started ===
+[2026-05-02T10:00:58Z] Fetching events from calendar...
+[2026-05-02T10:00:58Z] API response received
+[2026-05-02T10:00:58Z] Latest event IDs count: 0
+0
+[2026-05-02T10:00:58Z] No new events found
+[2026-05-02T10:00:58Z] Snapshot updated
+[2026-05-02T10:01:28Z] === Poll started ===
+[2026-05-02T10:01:28Z] Fetching events from calendar...
+[2026-05-02T10:01:29Z] API response received
+[2026-05-02T10:01:29Z] Latest event IDs count: 0
+0
+[2026-05-02T10:01:29Z] No new events found
+[2026-05-02T10:01:29Z] Snapshot updated
+[2026-05-02T10:01:59Z] === Poll started ===
+[2026-05-02T10:01:59Z] Fetching events from calendar...
+[2026-05-02T10:02:00Z] API response received
+[2026-05-02T10:02:00Z] Latest event IDs count: 0
+0
+[2026-05-02T10:02:00Z] No new events found
+[2026-05-02T10:02:00Z] Snapshot updated
+[2026-05-02T10:02:30Z] === Poll started ===
+[2026-05-02T10:02:30Z] Fetching events from calendar...
+[2026-05-02T10:02:31Z] API response received
+[2026-05-02T10:02:31Z] Latest event IDs count: 0
+0
+[2026-05-02T10:02:31Z] No new events found
+[2026-05-02T10:02:31Z] Snapshot updated
+[2026-05-02T10:03:01Z] === Poll started ===
+[2026-05-02T10:03:01Z] Fetching events from calendar...
+[2026-05-02T10:03:02Z] API response received
+[2026-05-02T10:03:02Z] Latest event IDs count: 0
+0
+[2026-05-02T10:03:02Z] No new events found
+[2026-05-02T10:03:02Z] Snapshot updated
+[2026-05-02T10:03:32Z] === Poll started ===
+[2026-05-02T10:03:32Z] Fetching events from calendar...
+[2026-05-02T10:03:33Z] API response received
+[2026-05-02T10:03:33Z] Latest event IDs count: 0
+0
+[2026-05-02T10:03:33Z] No new events found
+[2026-05-02T10:03:33Z] Snapshot updated
+[2026-05-02T10:04:03Z] === Poll started ===
+[2026-05-02T10:04:03Z] Fetching events from calendar...
+[2026-05-02T10:04:04Z] API response received
+[2026-05-02T10:04:04Z] Latest event IDs count: 0
+0
+[2026-05-02T10:04:04Z] No new events found
+[2026-05-02T10:04:04Z] Snapshot updated
+[2026-05-02T10:04:34Z] === Poll started ===
+[2026-05-02T10:04:34Z] Fetching events from calendar...
+[2026-05-02T10:04:35Z] API response received
+[2026-05-02T10:04:35Z] Latest event IDs count: 0
+0
+[2026-05-02T10:04:35Z] No new events found
+[2026-05-02T10:04:35Z] Snapshot updated
+[2026-05-02T10:05:06Z] === Poll started ===
+[2026-05-02T10:05:06Z] Fetching events from calendar...
+[2026-05-02T10:05:06Z] API response received
+[2026-05-02T10:05:06Z] Latest event IDs count: 1
+[2026-05-02T10:05:07Z] Found new events: f9d2c84e-48e2-43f4-a115-68ca0e4c4fee_0,
+[2026-05-02T10:05:07Z] Processing new event: f9d2c84e-48e2-43f4-a115-68ca0e4c4fee_0
+[2026-05-02T10:05:07Z] Payload: {"event_id":"f9d2c84e-48e2-43f4-a115-68ca0e4c4fee_0","title":"会议智能助手讨论","start_time":{"datetime":"2026-05-02T10:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-02T11:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-02T10:05:07.038Z"}
+[2026-05-02T10:05:07Z] Event logged to new_events.jsonl
+[2026-05-02T10:05:07Z] Snapshot updated. Poll completed.
+[2026-05-02T10:05:37Z] === Poll started ===
+[2026-05-02T10:05:37Z] Fetching events from calendar...
+[2026-05-02T10:05:37Z] API response received
+[2026-05-02T10:05:38Z] Latest event IDs count: 1
+[2026-05-02T10:05:38Z] No new events found
+[2026-05-02T10:05:38Z] Snapshot updated
+[2026-05-02T10:06:08Z] === Poll started ===
+[2026-05-02T10:06:08Z] Fetching events from calendar...
+[2026-05-02T10:06:08Z] API response received
+[2026-05-02T10:06:09Z] Latest event IDs count: 1
+[2026-05-02T10:06:09Z] No new events found
+[2026-05-02T10:06:09Z] Snapshot updated
+[2026-05-02T10:06:39Z] === Poll started ===
+[2026-05-02T10:06:39Z] Fetching events from calendar...
+[2026-05-02T10:06:40Z] API response received
+[2026-05-02T10:06:40Z] Latest event IDs count: 1
+[2026-05-02T10:06:40Z] No new events found
+[2026-05-02T10:06:40Z] Snapshot updated
+[2026-05-02T10:07:10Z] === Poll started ===
+[2026-05-02T10:07:10Z] Fetching events from calendar...
+[2026-05-02T10:07:11Z] API response received
+[2026-05-02T10:07:11Z] Latest event IDs count: 1
+[2026-05-02T10:07:11Z] No new events found
+[2026-05-02T10:07:11Z] Snapshot updated
+[2026-05-02T10:07:41Z] === Poll started ===
+[2026-05-02T10:07:41Z] Fetching events from calendar...
+[2026-05-02T10:07:42Z] API response received
+[2026-05-02T10:07:42Z] Latest event IDs count: 1
+[2026-05-02T10:07:42Z] No new events found
+[2026-05-02T10:07:42Z] Snapshot updated
+[2026-05-02T10:08:12Z] === Poll started ===
+[2026-05-02T10:08:12Z] Fetching events from calendar...
+[2026-05-02T10:08:14Z] API response received
+[2026-05-02T10:08:14Z] Latest event IDs count: 1
+[2026-05-02T10:08:14Z] No new events found
+[2026-05-02T10:08:14Z] Snapshot updated
+[2026-05-02T10:08:44Z] === Poll started ===
+[2026-05-02T10:08:44Z] Fetching events from calendar...
+[2026-05-02T10:08:45Z] API response received
+[2026-05-02T10:08:45Z] Latest event IDs count: 1
+[2026-05-02T10:08:45Z] No new events found
+[2026-05-02T10:08:45Z] Snapshot updated
+[2026-05-02T10:09:15Z] === Poll started ===
+[2026-05-02T10:09:15Z] Fetching events from calendar...
+[2026-05-02T10:09:17Z] API response received
+[2026-05-02T10:09:17Z] Latest event IDs count: 1
+[2026-05-02T10:09:17Z] No new events found
+[2026-05-02T10:09:17Z] Snapshot updated
+[2026-05-02T10:09:47Z] === Poll started ===
+[2026-05-02T10:09:47Z] Fetching events from calendar...
+[2026-05-02T10:09:49Z] API response received
+[2026-05-02T10:09:49Z] Latest event IDs count: 1
+[2026-05-02T10:09:49Z] No new events found
+[2026-05-02T10:09:49Z] Snapshot updated
+[2026-05-02T10:10:19Z] === Poll started ===
+[2026-05-02T10:10:19Z] Fetching events from calendar...
+[2026-05-02T10:10:20Z] API response received
+[2026-05-02T10:10:20Z] Latest event IDs count: 1
+[2026-05-02T10:10:20Z] No new events found
+[2026-05-02T10:10:20Z] Snapshot updated
+[2026-05-02T10:10:50Z] === Poll started ===
+[2026-05-02T10:10:50Z] Fetching events from calendar...
+[2026-05-02T10:10:54Z] API response received
+[2026-05-02T10:10:54Z] Latest event IDs count: 1
+[2026-05-02T10:10:54Z] No new events found
+[2026-05-02T10:10:54Z] Snapshot updated
+[2026-05-02T10:11:24Z] === Poll started ===
+[2026-05-02T10:11:24Z] Fetching events from calendar...
+[2026-05-02T10:11:26Z] API response received
+[2026-05-02T10:11:26Z] Latest event IDs count: 2
+[2026-05-02T10:11:26Z] Found new events: 1eebe4a9-661d-48ad-a47a-3e5e857bde8f_0,
+[2026-05-02T10:11:26Z] Processing new event: 1eebe4a9-661d-48ad-a47a-3e5e857bde8f_0
+[2026-05-02T10:11:26Z] Payload: {"event_id":"1eebe4a9-661d-48ad-a47a-3e5e857bde8f_0","title":"智能助手讨论","start_time":{"datetime":"2026-05-02T10:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-02T11:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-02T10:11:26.332Z"}
+[2026-05-02T10:11:26Z] Event logged to new_events.jsonl
+[2026-05-02T10:11:26Z] Snapshot updated. Poll completed.
+[2026-05-02T10:11:56Z] === Poll started ===
+[2026-05-02T10:11:56Z] Fetching events from calendar...
+[2026-05-02T10:11:57Z] API response received
+[2026-05-02T10:11:57Z] Latest event IDs count: 2
+[2026-05-02T10:11:57Z] No new events found
+[2026-05-02T10:11:57Z] Snapshot updated
+[2026-05-02T10:12:27Z] === Poll started ===
+[2026-05-02T10:12:27Z] Fetching events from calendar...
+[2026-05-02T10:12:29Z] API response received
+[2026-05-02T10:12:29Z] Latest event IDs count: 2
+[2026-05-02T10:12:29Z] No new events found
+[2026-05-02T10:12:29Z] Snapshot updated
+[2026-05-02T10:12:59Z] === Poll started ===
+[2026-05-02T10:12:59Z] Fetching events from calendar...
+[2026-05-02T10:13:01Z] API response received
+[2026-05-02T10:13:01Z] Latest event IDs count: 2
+[2026-05-02T10:13:01Z] No new events found
+[2026-05-02T10:13:01Z] Snapshot updated
+[2026-05-02T10:13:31Z] === Poll started ===
+[2026-05-02T10:13:31Z] Fetching events from calendar...
+[2026-05-02T10:13:32Z] API response received
+[2026-05-02T10:13:32Z] Latest event IDs count: 2
+[2026-05-02T10:13:33Z] No new events found
+[2026-05-02T10:13:33Z] Snapshot updated
+[2026-05-02T10:14:03Z] === Poll started ===
+[2026-05-02T10:14:03Z] Fetching events from calendar...
+[2026-05-02T10:14:04Z] API response received
+[2026-05-02T10:14:04Z] Latest event IDs count: 2
+[2026-05-02T10:14:04Z] No new events found
+[2026-05-02T10:14:04Z] Snapshot updated
+[2026-05-02T10:14:34Z] === Poll started ===
+[2026-05-02T10:14:34Z] Fetching events from calendar...
+[2026-05-02T10:14:36Z] API response received
+[2026-05-02T10:14:36Z] Latest event IDs count: 2
+[2026-05-02T10:14:36Z] No new events found
+[2026-05-02T10:14:36Z] Snapshot updated
+[2026-05-02T10:15:06Z] === Poll started ===
+[2026-05-02T10:15:06Z] Fetching events from calendar...
+[2026-05-02T10:15:07Z] API response received
+[2026-05-02T10:15:07Z] Latest event IDs count: 2
+[2026-05-02T10:15:07Z] No new events found
+[2026-05-02T10:15:08Z] Snapshot updated
+[2026-05-02T10:15:38Z] === Poll started ===
+[2026-05-02T10:15:38Z] Fetching events from calendar...
+[2026-05-02T10:15:39Z] API response received
+[2026-05-02T10:15:39Z] Latest event IDs count: 2
+[2026-05-02T10:15:39Z] No new events found
+[2026-05-02T10:15:39Z] Snapshot updated
+[2026-05-02T10:16:09Z] === Poll started ===
+[2026-05-02T10:16:09Z] Fetching events from calendar...
+[2026-05-02T10:16:11Z] API response received
+[2026-05-02T10:16:11Z] Latest event IDs count: 2
+[2026-05-02T10:16:11Z] No new events found
+[2026-05-02T10:16:11Z] Snapshot updated
+[2026-05-03T02:32:52Z] === Poll started ===
+[2026-05-03T02:32:52Z] Fetching events from calendar...
+[2026-05-03T02:32:53Z] API response received
+[2026-05-03T02:32:53Z] Latest event IDs count: 1
+[2026-05-03T02:32:53Z] Found new events: cf91d923-6059-4433-bcab-04e0dbec8d87_0,
+[2026-05-03T02:32:53Z] Processing new event: cf91d923-6059-4433-bcab-04e0dbec8d87_0
+[2026-05-03T02:32:53Z] Payload: {"event_id":"cf91d923-6059-4433-bcab-04e0dbec8d87_0","title":"智能会议助手","start_time":{"datetime":"2026-05-03T03:00:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-03T03:30:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-03T02:32:53.160Z"}
+[2026-05-03T02:32:53Z] Event logged to new_events.jsonl
+[2026-05-03T02:32:53Z] Snapshot updated. Poll completed.
+[2026-05-03T02:33:23Z] === Poll started ===
+[2026-05-03T02:33:23Z] Fetching events from calendar...
+[2026-05-03T02:33:23Z] API response received
+[2026-05-03T02:33:23Z] Latest event IDs count: 1
+[2026-05-03T02:33:23Z] No new events found
+[2026-05-03T02:33:23Z] Snapshot updated
+[2026-05-03T02:33:53Z] === Poll started ===
+[2026-05-03T02:33:53Z] Fetching events from calendar...
+[2026-05-03T02:33:54Z] API response received
+[2026-05-03T02:33:54Z] Latest event IDs count: 1
+[2026-05-03T02:33:54Z] No new events found
+[2026-05-03T02:33:54Z] Snapshot updated
+[2026-05-03T02:34:24Z] === Poll started ===
+[2026-05-03T02:34:24Z] Fetching events from calendar...
+[2026-05-03T02:34:24Z] API response received
+[2026-05-03T02:34:24Z] Latest event IDs count: 1
+[2026-05-03T02:34:24Z] No new events found
+[2026-05-03T02:34:24Z] Snapshot updated
+[2026-05-03T02:34:54Z] === Poll started ===
+[2026-05-03T02:34:54Z] Fetching events from calendar...
+[2026-05-03T02:34:55Z] API response received
+[2026-05-03T02:34:55Z] Latest event IDs count: 1
+[2026-05-03T02:34:55Z] No new events found
+[2026-05-03T02:34:55Z] Snapshot updated
+[2026-05-03T02:35:25Z] === Poll started ===
+[2026-05-03T02:35:25Z] Fetching events from calendar...
+[2026-05-03T02:35:26Z] API response received
+[2026-05-03T02:35:26Z] Latest event IDs count: 1
+[2026-05-03T02:35:26Z] No new events found
+[2026-05-03T02:35:26Z] Snapshot updated
+[2026-05-03T02:35:56Z] === Poll started ===
+[2026-05-03T02:35:56Z] Fetching events from calendar...
+[2026-05-03T02:35:56Z] API response received
+[2026-05-03T02:35:56Z] Latest event IDs count: 1
+[2026-05-03T02:35:56Z] No new events found
+[2026-05-03T02:35:56Z] Snapshot updated
+[2026-05-03T02:36:26Z] === Poll started ===
+[2026-05-03T02:36:26Z] Fetching events from calendar...
+[2026-05-03T02:36:27Z] API response received
+[2026-05-03T02:36:27Z] Latest event IDs count: 1
+[2026-05-03T02:36:27Z] No new events found
+[2026-05-03T02:36:27Z] Snapshot updated
+[2026-05-03T02:37:21Z] === Poll started ===
+[2026-05-03T02:37:21Z] Fetching events from calendar...
+[2026-05-03T02:37:22Z] API response received
+[2026-05-03T02:37:22Z] Latest event IDs count: 1
+[2026-05-03T02:37:22Z] No new events found
+[2026-05-03T02:37:22Z] Snapshot updated
+[2026-05-03T02:37:52Z] === Poll started ===
+[2026-05-03T02:37:52Z] Fetching events from calendar...
+[2026-05-03T02:37:52Z] API response received
+[2026-05-03T02:37:52Z] Latest event IDs count: 2
+[2026-05-03T02:37:52Z] Found new events: 0aec11e9-4f12-4a9c-8dfa-b347eaf67abf_0,
+[2026-05-03T02:37:52Z] Processing new event: 0aec11e9-4f12-4a9c-8dfa-b347eaf67abf_0
+[2026-05-03T02:37:52Z] Payload: {"event_id":"0aec11e9-4f12-4a9c-8dfa-b347eaf67abf_0","title":"智能会议助手","start_time":{"datetime":"2026-05-03T03:00:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-03T03:30:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-03T02:37:52.840Z"}
+[2026-05-03T02:37:52Z] Event logged to new_events.jsonl
+[2026-05-03T02:37:52Z] Snapshot updated. Poll completed.
+[2026-05-03T02:38:22Z] === Poll started ===
+[2026-05-03T02:38:22Z] Fetching events from calendar...
+[2026-05-03T02:38:23Z] API response received
+[2026-05-03T02:38:23Z] Latest event IDs count: 2
+[2026-05-03T02:38:23Z] No new events found
+[2026-05-03T02:38:23Z] Snapshot updated
+[2026-05-03T02:38:53Z] === Poll started ===
+[2026-05-03T02:38:53Z] Fetching events from calendar...
+[2026-05-03T02:38:53Z] API response received
+[2026-05-03T02:38:54Z] Latest event IDs count: 2
+[2026-05-03T02:38:54Z] No new events found
+[2026-05-03T02:38:54Z] Snapshot updated
+[2026-05-03T02:39:24Z] === Poll started ===
+[2026-05-03T02:39:24Z] Fetching events from calendar...
+[2026-05-03T02:39:24Z] API response received
+[2026-05-03T02:39:24Z] Latest event IDs count: 2
+[2026-05-03T02:39:24Z] No new events found
+[2026-05-03T02:39:24Z] Snapshot updated
+[2026-05-03T02:39:54Z] === Poll started ===
+[2026-05-03T02:39:54Z] Fetching events from calendar...
+[2026-05-03T02:39:55Z] API response received
+[2026-05-03T02:39:55Z] Latest event IDs count: 2
+[2026-05-03T02:39:55Z] No new events found
+[2026-05-03T02:39:55Z] Snapshot updated
+[2026-05-03T02:40:25Z] === Poll started ===
+[2026-05-03T02:40:25Z] Fetching events from calendar...
+[2026-05-03T02:40:25Z] API response received
+[2026-05-03T02:40:25Z] Latest event IDs count: 2
+[2026-05-03T02:40:25Z] No new events found
+[2026-05-03T02:40:25Z] Snapshot updated
+[2026-05-03T02:40:55Z] === Poll started ===
+[2026-05-03T02:40:55Z] Fetching events from calendar...
+[2026-05-03T02:40:56Z] API response received
+[2026-05-03T02:40:56Z] Latest event IDs count: 2
+[2026-05-03T02:40:56Z] No new events found
+[2026-05-03T02:40:56Z] Snapshot updated
+[2026-05-03T02:41:26Z] === Poll started ===
+[2026-05-03T02:41:26Z] Fetching events from calendar...
+[2026-05-03T02:41:26Z] API response received
+[2026-05-03T02:41:26Z] Latest event IDs count: 2
+[2026-05-03T02:41:26Z] No new events found
+[2026-05-03T02:41:26Z] Snapshot updated
+[2026-05-03T02:41:56Z] === Poll started ===
+[2026-05-03T02:41:56Z] Fetching events from calendar...
+[2026-05-03T02:41:57Z] API response received
+[2026-05-03T02:41:57Z] Latest event IDs count: 2
+[2026-05-03T02:41:57Z] No new events found
+[2026-05-03T02:41:57Z] Snapshot updated
+[2026-05-03T02:42:27Z] === Poll started ===
+[2026-05-03T02:42:27Z] Fetching events from calendar...
+[2026-05-03T02:42:27Z] API response received
+[2026-05-03T02:42:27Z] Latest event IDs count: 2
+[2026-05-03T02:42:27Z] No new events found
+[2026-05-03T02:42:28Z] Snapshot updated
+[2026-05-03T02:42:58Z] === Poll started ===
+[2026-05-03T02:42:58Z] Fetching events from calendar...
+[2026-05-03T02:42:58Z] API response received
+[2026-05-03T02:42:58Z] Latest event IDs count: 2
+[2026-05-03T02:42:58Z] No new events found
+[2026-05-03T02:42:58Z] Snapshot updated
+[2026-05-03T02:43:28Z] === Poll started ===
+[2026-05-03T02:43:28Z] Fetching events from calendar...
+[2026-05-03T02:43:29Z] API response received
+[2026-05-03T02:43:29Z] Latest event IDs count: 2
+[2026-05-03T02:43:29Z] No new events found
+[2026-05-03T02:43:29Z] Snapshot updated
+[2026-05-03T02:43:59Z] === Poll started ===
+[2026-05-03T02:43:59Z] Fetching events from calendar...
+[2026-05-03T02:43:59Z] API response received
+[2026-05-03T02:43:59Z] Latest event IDs count: 2
+[2026-05-03T02:44:00Z] No new events found
+[2026-05-03T02:44:00Z] Snapshot updated
+[2026-05-03T02:44:30Z] === Poll started ===
+[2026-05-03T02:44:30Z] Fetching events from calendar...
+[2026-05-03T02:44:30Z] API response received
+[2026-05-03T02:44:30Z] Latest event IDs count: 2
+[2026-05-03T02:44:30Z] No new events found
+[2026-05-03T02:44:30Z] Snapshot updated
+[2026-05-03T02:45:00Z] === Poll started ===
+[2026-05-03T02:45:00Z] Fetching events from calendar...
+[2026-05-03T02:45:01Z] API response received
+[2026-05-03T02:45:01Z] Latest event IDs count: 2
+[2026-05-03T02:45:01Z] No new events found
+[2026-05-03T02:45:01Z] Snapshot updated
+[2026-05-03T02:45:31Z] === Poll started ===
+[2026-05-03T02:45:31Z] Fetching events from calendar...
+[2026-05-03T02:45:31Z] API response received
+[2026-05-03T02:45:31Z] Latest event IDs count: 2
+[2026-05-03T02:45:31Z] No new events found
+[2026-05-03T02:45:31Z] Snapshot updated
+[2026-05-03T02:46:01Z] === Poll started ===
+[2026-05-03T02:46:01Z] Fetching events from calendar...
+[2026-05-03T02:46:02Z] API response received
+[2026-05-03T02:46:02Z] Latest event IDs count: 2
+[2026-05-03T02:46:02Z] No new events found
+[2026-05-03T02:46:02Z] Snapshot updated
+[2026-05-03T02:46:33Z] === Poll started ===
+[2026-05-03T02:46:33Z] Fetching events from calendar...
+[2026-05-03T02:46:33Z] API response received
+[2026-05-03T02:46:33Z] Latest event IDs count: 2
+[2026-05-03T02:46:33Z] No new events found
+[2026-05-03T02:46:33Z] Snapshot updated
+[2026-05-03T02:47:04Z] === Poll started ===
+[2026-05-03T02:47:04Z] Fetching events from calendar...
+[2026-05-03T02:47:04Z] API response received
+[2026-05-03T02:47:04Z] Latest event IDs count: 2
+[2026-05-03T02:47:04Z] No new events found
+[2026-05-03T02:47:04Z] Snapshot updated
+[2026-05-03T02:47:34Z] === Poll started ===
+[2026-05-03T02:47:34Z] Fetching events from calendar...
+[2026-05-03T02:47:35Z] API response received
+[2026-05-03T02:47:35Z] Latest event IDs count: 2
+[2026-05-03T02:47:35Z] No new events found
+[2026-05-03T02:47:35Z] Snapshot updated
+[2026-05-03T02:48:05Z] === Poll started ===
+[2026-05-03T02:48:05Z] Fetching events from calendar...
+[2026-05-03T02:48:05Z] API response received
+[2026-05-03T02:48:05Z] Latest event IDs count: 2
+[2026-05-03T02:48:05Z] No new events found
+[2026-05-03T02:48:05Z] Snapshot updated
+[2026-05-03T02:48:35Z] === Poll started ===
+[2026-05-03T02:48:35Z] Fetching events from calendar...
+[2026-05-03T02:48:36Z] API response received
+[2026-05-03T02:48:36Z] Latest event IDs count: 2
+[2026-05-03T02:48:36Z] No new events found
+[2026-05-03T02:48:36Z] Snapshot updated
+[2026-05-03T02:49:06Z] === Poll started ===
+[2026-05-03T02:49:06Z] Fetching events from calendar...
+[2026-05-03T02:49:06Z] API response received
+[2026-05-03T02:49:07Z] Latest event IDs count: 2
+[2026-05-03T02:49:07Z] No new events found
+[2026-05-03T02:49:07Z] Snapshot updated
+[2026-05-03T02:49:37Z] === Poll started ===
+[2026-05-03T02:49:37Z] Fetching events from calendar...
+[2026-05-03T02:49:37Z] API response received
+[2026-05-03T02:49:37Z] Latest event IDs count: 2
+[2026-05-03T02:49:37Z] No new events found
+[2026-05-03T02:49:37Z] Snapshot updated
+[2026-05-03T02:50:07Z] === Poll started ===
+[2026-05-03T02:50:07Z] Fetching events from calendar...
+[2026-05-03T02:50:08Z] API response received
+[2026-05-03T02:50:08Z] Latest event IDs count: 2
+[2026-05-03T02:50:08Z] No new events found
+[2026-05-03T02:50:08Z] Snapshot updated
+[2026-05-03T02:50:38Z] === Poll started ===
+[2026-05-03T02:50:38Z] Fetching events from calendar...
+[2026-05-03T02:50:38Z] API response received
+[2026-05-03T02:50:38Z] Latest event IDs count: 3
+[2026-05-03T02:50:38Z] Found new events: 40d4086b-00ea-44f4-9c91-4b2b5923282d_0,
+[2026-05-03T02:50:38Z] Processing new event: 40d4086b-00ea-44f4-9c91-4b2b5923282d_0
+[2026-05-03T02:50:38Z] Payload: {"event_id":"40d4086b-00ea-44f4-9c91-4b2b5923282d_0","title":"智能会议助手","start_time":{"datetime":"2026-05-03T03:00:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-03T03:30:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-03T02:50:38.799Z"}
+[2026-05-03T02:50:38Z] Event logged to new_events.jsonl
+[2026-05-03T02:50:38Z] Snapshot updated. Poll completed.
+[2026-05-03T02:51:08Z] === Poll started ===
+[2026-05-03T02:51:08Z] Fetching events from calendar...
+[2026-05-03T02:51:09Z] API response received
+[2026-05-03T02:51:09Z] Latest event IDs count: 3
+[2026-05-03T02:51:09Z] No new events found
+[2026-05-03T02:51:09Z] Snapshot updated
+[2026-05-03T02:51:39Z] === Poll started ===
+[2026-05-03T02:51:39Z] Fetching events from calendar...
+[2026-05-03T02:51:39Z] API response received
+[2026-05-03T02:51:39Z] Latest event IDs count: 3
+[2026-05-03T02:51:39Z] No new events found
+[2026-05-03T02:51:40Z] Snapshot updated
+[2026-05-03T02:52:10Z] === Poll started ===
+[2026-05-03T02:52:10Z] Fetching events from calendar...
+[2026-05-03T02:52:10Z] API response received
+[2026-05-03T02:52:10Z] Latest event IDs count: 3
+[2026-05-03T02:52:10Z] No new events found
+[2026-05-03T02:52:10Z] Snapshot updated
+[2026-05-03T02:52:40Z] === Poll started ===
+[2026-05-03T02:52:40Z] Fetching events from calendar...
+[2026-05-03T02:52:41Z] API response received
+[2026-05-03T02:52:41Z] Latest event IDs count: 3
+[2026-05-03T02:52:41Z] No new events found
+[2026-05-03T02:52:41Z] Snapshot updated
+[2026-05-03T02:53:11Z] === Poll started ===
+[2026-05-03T02:53:11Z] Fetching events from calendar...
+[2026-05-03T02:53:11Z] API response received
+[2026-05-03T02:53:11Z] Latest event IDs count: 3
+[2026-05-03T02:53:11Z] No new events found
+[2026-05-03T02:53:11Z] Snapshot updated
+[2026-05-03T02:53:41Z] === Poll started ===
+[2026-05-03T02:53:41Z] Fetching events from calendar...
+[2026-05-03T02:53:42Z] API response received
+[2026-05-03T02:53:42Z] Latest event IDs count: 3
+[2026-05-03T02:53:42Z] No new events found
+[2026-05-03T02:53:42Z] Snapshot updated
+[2026-05-03T02:54:12Z] === Poll started ===
+[2026-05-03T02:54:12Z] Fetching events from calendar...
+[2026-05-03T02:54:13Z] API response received
+[2026-05-03T02:54:13Z] Latest event IDs count: 3
+[2026-05-03T02:54:13Z] No new events found
+[2026-05-03T02:54:13Z] Snapshot updated
+[2026-05-03T02:54:43Z] === Poll started ===
+[2026-05-03T02:54:43Z] Fetching events from calendar...
+[2026-05-03T02:54:43Z] API response received
+[2026-05-03T02:54:43Z] Latest event IDs count: 3
+[2026-05-03T02:54:43Z] No new events found
+[2026-05-03T02:54:43Z] Snapshot updated
+[2026-05-03T02:55:13Z] === Poll started ===
+[2026-05-03T02:55:13Z] Fetching events from calendar...
+[2026-05-03T02:55:14Z] API response received
+[2026-05-03T02:55:14Z] Latest event IDs count: 3
+[2026-05-03T02:55:14Z] No new events found
+[2026-05-03T02:55:14Z] Snapshot updated
+[2026-05-03T02:55:44Z] === Poll started ===
+[2026-05-03T02:55:44Z] Fetching events from calendar...
+[2026-05-03T02:55:44Z] API response received
+[2026-05-03T02:55:44Z] Latest event IDs count: 3
+[2026-05-03T02:55:44Z] No new events found
+[2026-05-03T02:55:45Z] Snapshot updated
+[2026-05-03T02:56:15Z] === Poll started ===
+[2026-05-03T02:56:15Z] Fetching events from calendar...
+[2026-05-03T02:56:15Z] API response received
+[2026-05-03T02:56:15Z] Latest event IDs count: 3
+[2026-05-03T02:56:15Z] No new events found
+[2026-05-03T02:56:15Z] Snapshot updated
+[2026-05-03T02:56:45Z] === Poll started ===
+[2026-05-03T02:56:45Z] Fetching events from calendar...
+[2026-05-03T02:56:46Z] API response received
+[2026-05-03T02:56:46Z] Latest event IDs count: 3
+[2026-05-03T02:56:46Z] No new events found
+[2026-05-03T02:56:46Z] Snapshot updated
+[2026-05-03T02:57:16Z] === Poll started ===
+[2026-05-03T02:57:16Z] Fetching events from calendar...
+[2026-05-03T02:57:16Z] API response received
+[2026-05-03T02:57:16Z] Latest event IDs count: 3
+[2026-05-03T02:57:16Z] No new events found
+[2026-05-03T02:57:16Z] Snapshot updated
+[2026-05-03T02:57:46Z] === Poll started ===
+[2026-05-03T02:57:46Z] Fetching events from calendar...
+[2026-05-03T02:57:47Z] API response received
+[2026-05-03T02:57:47Z] Latest event IDs count: 3
+[2026-05-03T02:57:47Z] No new events found
+[2026-05-03T02:57:47Z] Snapshot updated
+[2026-05-03T02:58:17Z] === Poll started ===
+[2026-05-03T02:58:17Z] Fetching events from calendar...
+[2026-05-03T02:58:18Z] API response received
+[2026-05-03T02:58:18Z] Latest event IDs count: 3
+[2026-05-03T02:58:18Z] No new events found
+[2026-05-03T02:58:18Z] Snapshot updated
+[2026-05-03T02:58:48Z] === Poll started ===
+[2026-05-03T02:58:48Z] Fetching events from calendar...
+[2026-05-03T02:58:48Z] API response received
+[2026-05-03T02:58:48Z] Latest event IDs count: 3
+[2026-05-03T02:58:48Z] No new events found
+[2026-05-03T02:58:48Z] Snapshot updated
+[2026-05-03T02:59:18Z] === Poll started ===
+[2026-05-03T02:59:18Z] Fetching events from calendar...
+[2026-05-03T02:59:19Z] API response received
+[2026-05-03T02:59:19Z] Latest event IDs count: 3
+[2026-05-03T02:59:19Z] No new events found
+[2026-05-03T02:59:19Z] Snapshot updated
+[2026-05-03T02:59:49Z] === Poll started ===
+[2026-05-03T02:59:49Z] Fetching events from calendar...
+[2026-05-03T02:59:49Z] API response received
+[2026-05-03T02:59:49Z] Latest event IDs count: 3
+[2026-05-03T02:59:49Z] No new events found
+[2026-05-03T02:59:49Z] Snapshot updated
+[2026-05-03T03:00:19Z] === Poll started ===
+[2026-05-03T03:00:19Z] Fetching events from calendar...
+[2026-05-03T03:00:20Z] API response received
+[2026-05-03T03:00:20Z] Latest event IDs count: 3
+[2026-05-03T03:00:20Z] No new events found
+[2026-05-03T03:00:20Z] Snapshot updated
+[2026-05-03T03:00:50Z] === Poll started ===
+[2026-05-03T03:00:50Z] Fetching events from calendar...
+[2026-05-03T03:00:51Z] API response received
+[2026-05-03T03:00:51Z] Latest event IDs count: 3
+[2026-05-03T03:00:51Z] No new events found
+[2026-05-03T03:00:51Z] Snapshot updated
+[2026-05-03T03:01:21Z] === Poll started ===
+[2026-05-03T03:01:21Z] Fetching events from calendar...
+[2026-05-03T03:01:21Z] API response received
+[2026-05-03T03:01:21Z] Latest event IDs count: 3
+[2026-05-03T03:01:21Z] No new events found
+[2026-05-03T03:01:21Z] Snapshot updated
+[2026-05-03T03:01:51Z] === Poll started ===
+[2026-05-03T03:01:51Z] Fetching events from calendar...
+[2026-05-03T03:01:52Z] API response received
+[2026-05-03T03:01:52Z] Latest event IDs count: 4
+[2026-05-03T03:01:52Z] Found new events: b87639e0-f228-40f5-b3ab-d178b9db5110_0,
+[2026-05-03T03:01:52Z] Processing new event: b87639e0-f228-40f5-b3ab-d178b9db5110_0
+[2026-05-03T03:01:52Z] Payload: {"event_id":"b87639e0-f228-40f5-b3ab-d178b9db5110_0","title":"智能会议助手讨论","start_time":{"datetime":"2026-05-03T03:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-03T04:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-03T03:01:52.648Z"}
+[2026-05-03T03:01:52Z] Event logged to new_events.jsonl
+[2026-05-03T03:01:52Z] Snapshot updated. Poll completed.
+[2026-05-03T03:02:22Z] === Poll started ===
+[2026-05-03T03:02:22Z] Fetching events from calendar...
+[2026-05-03T03:02:23Z] API response received
+[2026-05-03T03:02:23Z] Latest event IDs count: 4
+[2026-05-03T03:02:23Z] No new events found
+[2026-05-03T03:02:23Z] Snapshot updated
+[2026-05-03T03:02:53Z] === Poll started ===
+[2026-05-03T03:02:53Z] Fetching events from calendar...
+[2026-05-03T03:02:53Z] API response received
+[2026-05-03T03:02:53Z] Latest event IDs count: 4
+[2026-05-03T03:02:53Z] No new events found
+[2026-05-03T03:02:53Z] Snapshot updated
+[2026-05-03T03:03:23Z] === Poll started ===
+[2026-05-03T03:03:23Z] Fetching events from calendar...
+[2026-05-03T03:03:24Z] API response received
+[2026-05-03T03:03:24Z] Latest event IDs count: 4
+[2026-05-03T03:03:24Z] No new events found
+[2026-05-03T03:03:24Z] Snapshot updated
+[2026-05-03T03:03:54Z] === Poll started ===
+[2026-05-03T03:03:54Z] Fetching events from calendar...
+[2026-05-03T03:03:55Z] API response received
+[2026-05-03T03:03:55Z] Latest event IDs count: 4
+[2026-05-03T03:03:55Z] No new events found
+[2026-05-03T03:03:55Z] Snapshot updated
+[2026-05-03T03:04:25Z] === Poll started ===
+[2026-05-03T03:04:25Z] Fetching events from calendar...
+[2026-05-03T03:04:25Z] API response received
+[2026-05-03T03:04:25Z] Latest event IDs count: 4
+[2026-05-03T03:04:25Z] No new events found
+[2026-05-03T03:04:25Z] Snapshot updated
+[2026-05-03T03:04:55Z] === Poll started ===
+[2026-05-03T03:04:55Z] Fetching events from calendar...
+[2026-05-03T03:04:56Z] API response received
+[2026-05-03T03:04:56Z] Latest event IDs count: 4
+[2026-05-03T03:04:56Z] No new events found
+[2026-05-03T03:04:56Z] Snapshot updated
+[2026-05-03T03:05:26Z] === Poll started ===
+[2026-05-03T03:05:26Z] Fetching events from calendar...
+[2026-05-03T03:05:26Z] API response received
+[2026-05-03T03:05:26Z] Latest event IDs count: 4
+[2026-05-03T03:05:26Z] No new events found
+[2026-05-03T03:05:26Z] Snapshot updated
+[2026-05-03T03:05:56Z] === Poll started ===
+[2026-05-03T03:05:56Z] Fetching events from calendar...
+[2026-05-03T03:05:57Z] API response received
+[2026-05-03T03:05:57Z] Latest event IDs count: 4
+[2026-05-03T03:05:57Z] No new events found
+[2026-05-03T03:05:57Z] Snapshot updated
+[2026-05-03T03:06:27Z] === Poll started ===
+[2026-05-03T03:06:27Z] Fetching events from calendar...
+[2026-05-03T03:06:27Z] API response received
+[2026-05-03T03:06:27Z] Latest event IDs count: 4
+[2026-05-03T03:06:28Z] No new events found
+[2026-05-03T03:06:28Z] Snapshot updated
+[2026-05-03T03:06:58Z] === Poll started ===
+[2026-05-03T03:06:58Z] Fetching events from calendar...
+[2026-05-03T03:06:58Z] API response received
+[2026-05-03T03:06:58Z] Latest event IDs count: 4
+[2026-05-03T03:06:58Z] No new events found
+[2026-05-03T03:06:58Z] Snapshot updated
+[2026-05-03T03:25:39Z] === Poll started ===
+[2026-05-03T03:25:39Z] Fetching events from calendar...
+[2026-05-03T03:25:40Z] API response received
+[2026-05-03T03:25:40Z] Latest event IDs count: 6
+[2026-05-03T03:25:40Z] Found new events: 91a34531-41c1-4ea8-931a-b9f17216cca7_0,f82f03a7-4003-461b-8a94-1e00311e0e34_0,
+[2026-05-03T03:25:40Z] Processing new event: 91a34531-41c1-4ea8-931a-b9f17216cca7_0
+[2026-05-03T03:25:40Z] Payload: {"event_id":"91a34531-41c1-4ea8-931a-b9f17216cca7_0","title":"智能会议助手","start_time":{"datetime":"2026-05-03T03:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-03T04:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-03T03:25:40.565Z"}
+[2026-05-03T03:25:40Z] Event logged to new_events.jsonl
+[2026-05-03T03:25:40Z] Processing new event: f82f03a7-4003-461b-8a94-1e00311e0e34_0
+[2026-05-03T03:25:40Z] Payload: {"event_id":"f82f03a7-4003-461b-8a94-1e00311e0e34_0","title":"MLA开发Demo","start_time":{"datetime":"2026-05-03T03:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-03T04:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-03T03:25:40.584Z"}
+[2026-05-03T03:25:40Z] Event logged to new_events.jsonl
+[2026-05-03T03:25:40Z] Snapshot updated. Poll completed.
+[2026-05-03T03:26:10Z] === Poll started ===
+[2026-05-03T03:26:10Z] Fetching events from calendar...
+[2026-05-03T03:26:11Z] API response received
+[2026-05-03T03:26:11Z] Latest event IDs count: 6
+[2026-05-03T03:26:11Z] No new events found
+[2026-05-03T03:26:11Z] Snapshot updated
+[2026-05-03T03:26:41Z] === Poll started ===
+[2026-05-03T03:26:41Z] Fetching events from calendar...
+[2026-05-03T03:26:41Z] API response received
+[2026-05-03T03:26:41Z] Latest event IDs count: 6
+[2026-05-03T03:26:41Z] No new events found
+[2026-05-03T03:26:41Z] Snapshot updated
+[2026-05-03T03:27:11Z] === Poll started ===
+[2026-05-03T03:27:11Z] Fetching events from calendar...
+[2026-05-03T03:27:12Z] API response received
+[2026-05-03T03:27:12Z] Latest event IDs count: 6
+[2026-05-03T03:27:12Z] No new events found
+[2026-05-03T03:27:12Z] Snapshot updated
+[2026-05-03T03:27:42Z] === Poll started ===
+[2026-05-03T03:27:42Z] Fetching events from calendar...
+[2026-05-03T03:27:42Z] API response received
+[2026-05-03T03:27:42Z] Latest event IDs count: 6
+[2026-05-03T03:27:42Z] No new events found
+[2026-05-03T03:27:42Z] Snapshot updated
+[2026-05-03T03:28:12Z] === Poll started ===
+[2026-05-03T03:28:12Z] Fetching events from calendar...
+[2026-05-03T03:28:13Z] API response received
+[2026-05-03T03:28:13Z] Latest event IDs count: 6
+[2026-05-03T03:28:13Z] No new events found
+[2026-05-03T03:28:13Z] Snapshot updated
+[2026-05-03T03:28:43Z] === Poll started ===
+[2026-05-03T03:28:43Z] Fetching events from calendar...
+[2026-05-03T03:28:44Z] API response received
+[2026-05-03T03:28:44Z] Latest event IDs count: 6
+[2026-05-03T03:28:44Z] No new events found
+[2026-05-03T03:28:44Z] Snapshot updated
+[2026-05-03T03:29:14Z] === Poll started ===
+[2026-05-03T03:29:14Z] Fetching events from calendar...
+[2026-05-03T03:29:14Z] API response received
+[2026-05-03T03:29:14Z] Latest event IDs count: 6
+[2026-05-03T03:29:14Z] No new events found
+[2026-05-03T03:29:14Z] Snapshot updated
+[2026-05-03T03:29:44Z] === Poll started ===
+[2026-05-03T03:29:44Z] Fetching events from calendar...
+[2026-05-03T03:29:45Z] API response received
+[2026-05-03T03:29:45Z] Latest event IDs count: 6
+[2026-05-03T03:29:45Z] No new events found
+[2026-05-03T03:29:45Z] Snapshot updated
+[2026-05-03T03:30:15Z] === Poll started ===
+[2026-05-03T03:30:15Z] Fetching events from calendar...
+[2026-05-03T03:30:15Z] API response received
+[2026-05-03T03:30:15Z] Latest event IDs count: 3
+[2026-05-03T03:30:15Z] No new events found
+[2026-05-03T03:30:15Z] Snapshot updated
+[2026-05-03T03:30:45Z] === Poll started ===
+[2026-05-03T03:30:45Z] Fetching events from calendar...
+[2026-05-03T03:30:46Z] API response received
+[2026-05-03T03:30:46Z] Latest event IDs count: 3
+[2026-05-03T03:30:46Z] No new events found
+[2026-05-03T03:30:46Z] Snapshot updated
+[2026-05-03T03:31:16Z] === Poll started ===
+[2026-05-03T03:31:16Z] Fetching events from calendar...
+[2026-05-03T03:31:16Z] API response received
+[2026-05-03T03:31:16Z] Latest event IDs count: 3
+[2026-05-03T03:31:16Z] No new events found
+[2026-05-03T03:31:16Z] Snapshot updated
+[2026-05-03T03:31:46Z] === Poll started ===
+[2026-05-03T03:31:46Z] Fetching events from calendar...
+[2026-05-03T03:31:47Z] API response received
+[2026-05-03T03:31:47Z] Latest event IDs count: 3
+[2026-05-03T03:31:47Z] No new events found
+[2026-05-03T03:31:47Z] Snapshot updated
+[2026-05-03T03:32:17Z] === Poll started ===
+[2026-05-03T03:32:17Z] Fetching events from calendar...
+[2026-05-03T03:32:17Z] API response received
+[2026-05-03T03:32:17Z] Latest event IDs count: 3
+[2026-05-03T03:32:17Z] No new events found
+[2026-05-03T03:32:18Z] Snapshot updated
+[2026-05-03T03:32:48Z] === Poll started ===
+[2026-05-03T03:32:48Z] Fetching events from calendar...
+[2026-05-03T03:32:48Z] API response received
+[2026-05-03T03:32:48Z] Latest event IDs count: 3
+[2026-05-03T03:32:48Z] No new events found
+[2026-05-03T03:32:48Z] Snapshot updated
+[2026-05-03T03:33:18Z] === Poll started ===
+[2026-05-03T03:33:18Z] Fetching events from calendar...
+[2026-05-03T03:33:19Z] API response received
+[2026-05-03T03:33:19Z] Latest event IDs count: 3
+[2026-05-03T03:33:19Z] No new events found
+[2026-05-03T03:33:19Z] Snapshot updated
+[2026-05-03T03:33:49Z] === Poll started ===
+[2026-05-03T03:33:49Z] Fetching events from calendar...
+[2026-05-03T03:33:49Z] API response received
+[2026-05-03T03:33:49Z] Latest event IDs count: 3
+[2026-05-03T03:33:49Z] No new events found
+[2026-05-03T03:33:49Z] Snapshot updated
+[2026-05-03T03:34:19Z] === Poll started ===
+[2026-05-03T03:34:19Z] Fetching events from calendar...
+[2026-05-03T03:34:20Z] API response received
+[2026-05-03T03:34:20Z] Latest event IDs count: 3
+[2026-05-03T03:34:20Z] No new events found
+[2026-05-03T03:34:20Z] Snapshot updated
+[2026-05-03T03:34:50Z] === Poll started ===
+[2026-05-03T03:34:50Z] Fetching events from calendar...
+[2026-05-03T03:34:50Z] API response received
+[2026-05-03T03:34:50Z] Latest event IDs count: 3
+[2026-05-03T03:34:50Z] No new events found
+[2026-05-03T03:34:50Z] Snapshot updated
+[2026-05-03T03:35:20Z] === Poll started ===
+[2026-05-03T03:35:20Z] Fetching events from calendar...
+[2026-05-03T03:35:21Z] API response received
+[2026-05-03T03:35:21Z] Latest event IDs count: 3
+[2026-05-03T03:35:21Z] No new events found
+[2026-05-03T03:35:21Z] Snapshot updated
+[2026-05-03T03:35:51Z] === Poll started ===
+[2026-05-03T03:35:51Z] Fetching events from calendar...
+[2026-05-03T03:35:51Z] API response received
+[2026-05-03T03:35:51Z] Latest event IDs count: 3
+[2026-05-03T03:35:52Z] No new events found
+[2026-05-03T03:35:52Z] Snapshot updated
+[2026-05-03T03:36:22Z] === Poll started ===
+[2026-05-03T03:36:22Z] Fetching events from calendar...
+[2026-05-03T03:36:22Z] API response received
+[2026-05-03T03:36:22Z] Latest event IDs count: 3
+[2026-05-03T03:36:22Z] No new events found
+[2026-05-03T03:36:22Z] Snapshot updated
+[2026-05-03T03:36:52Z] === Poll started ===
+[2026-05-03T03:36:52Z] Fetching events from calendar...
+[2026-05-03T03:36:53Z] API response received
+[2026-05-03T03:36:53Z] Latest event IDs count: 3
+[2026-05-03T03:36:53Z] No new events found
+[2026-05-03T03:36:53Z] Snapshot updated
+[2026-05-03T03:37:23Z] === Poll started ===
+[2026-05-03T03:37:23Z] Fetching events from calendar...
+[2026-05-03T03:37:23Z] API response received
+[2026-05-03T03:37:23Z] Latest event IDs count: 3
+[2026-05-03T03:37:23Z] No new events found
+[2026-05-03T03:37:23Z] Snapshot updated
+[2026-05-03T03:37:53Z] === Poll started ===
+[2026-05-03T03:37:53Z] Fetching events from calendar...
+[2026-05-03T03:37:54Z] API response received
+[2026-05-03T03:37:54Z] Latest event IDs count: 3
+[2026-05-03T03:37:54Z] No new events found
+[2026-05-03T03:37:54Z] Snapshot updated
+[2026-05-03T03:38:24Z] === Poll started ===
+[2026-05-03T03:38:24Z] Fetching events from calendar...
+[2026-05-03T03:38:24Z] API response received
+[2026-05-03T03:38:25Z] Latest event IDs count: 3
+[2026-05-03T03:38:25Z] No new events found
+[2026-05-03T03:38:25Z] Snapshot updated
+[2026-05-03T03:38:55Z] === Poll started ===
+[2026-05-03T03:38:55Z] Fetching events from calendar...
+[2026-05-03T03:38:55Z] API response received
+[2026-05-03T03:38:55Z] Latest event IDs count: 3
+[2026-05-03T03:38:55Z] No new events found
+[2026-05-03T03:38:55Z] Snapshot updated
+[2026-05-03T03:39:25Z] === Poll started ===
+[2026-05-03T03:39:25Z] Fetching events from calendar...
+[2026-05-03T03:39:26Z] API response received
+[2026-05-03T03:39:26Z] Latest event IDs count: 3
+[2026-05-03T03:39:26Z] No new events found
+[2026-05-03T03:39:26Z] Snapshot updated
+[2026-05-03T03:39:56Z] === Poll started ===
+[2026-05-03T03:39:56Z] Fetching events from calendar...
+[2026-05-03T03:39:56Z] API response received
+[2026-05-03T03:39:56Z] Latest event IDs count: 3
+[2026-05-03T03:39:56Z] No new events found
+[2026-05-03T03:39:56Z] Snapshot updated
+[2026-05-03T03:40:26Z] === Poll started ===
+[2026-05-03T03:40:26Z] Fetching events from calendar...
+[2026-05-03T03:40:27Z] API response received
+[2026-05-03T03:40:27Z] Latest event IDs count: 3
+[2026-05-03T03:40:27Z] No new events found
+[2026-05-03T03:40:27Z] Snapshot updated
+[2026-05-03T03:40:57Z] === Poll started ===
+[2026-05-03T03:40:57Z] Fetching events from calendar...
+[2026-05-03T03:40:57Z] API response received
+[2026-05-03T03:40:57Z] Latest event IDs count: 3
+[2026-05-03T03:40:57Z] No new events found
+[2026-05-03T03:40:57Z] Snapshot updated
+[2026-05-03T03:41:27Z] === Poll started ===
+[2026-05-03T03:41:27Z] Fetching events from calendar...
+[2026-05-03T03:41:28Z] API response received
+[2026-05-03T03:41:28Z] Latest event IDs count: 3
+[2026-05-03T03:41:28Z] No new events found
+[2026-05-03T03:41:28Z] Snapshot updated
+[2026-05-03T03:41:58Z] === Poll started ===
+[2026-05-03T03:41:58Z] Fetching events from calendar...
+[2026-05-03T03:41:59Z] API response received
+[2026-05-03T03:41:59Z] Latest event IDs count: 3
+[2026-05-03T03:41:59Z] No new events found
+[2026-05-03T03:41:59Z] Snapshot updated
+[2026-05-03T03:42:29Z] === Poll started ===
+[2026-05-03T03:42:29Z] Fetching events from calendar...
+[2026-05-03T03:42:29Z] API response received
+[2026-05-03T03:42:29Z] Latest event IDs count: 3
+[2026-05-03T03:42:29Z] No new events found
+[2026-05-03T03:42:29Z] Snapshot updated
+[2026-05-03T03:42:59Z] === Poll started ===
+[2026-05-03T03:42:59Z] Fetching events from calendar...
+[2026-05-03T03:43:00Z] API response received
+[2026-05-03T03:43:00Z] Latest event IDs count: 3
+[2026-05-03T03:43:00Z] No new events found
+[2026-05-03T03:43:00Z] Snapshot updated
+[2026-05-03T03:43:30Z] === Poll started ===
+[2026-05-03T03:43:30Z] Fetching events from calendar...
+[2026-05-03T03:43:30Z] API response received
+[2026-05-03T03:43:30Z] Latest event IDs count: 3
+[2026-05-03T03:43:30Z] No new events found
+[2026-05-03T03:43:30Z] Snapshot updated
+[2026-05-03T03:44:00Z] === Poll started ===
+[2026-05-03T03:44:00Z] Fetching events from calendar...
+[2026-05-03T03:44:01Z] API response received
+[2026-05-03T03:44:01Z] Latest event IDs count: 3
+[2026-05-03T03:44:01Z] No new events found
+[2026-05-03T03:44:01Z] Snapshot updated
+[2026-05-03T03:44:31Z] === Poll started ===
+[2026-05-03T03:44:31Z] Fetching events from calendar...
+[2026-05-03T03:44:32Z] API response received
+[2026-05-03T03:44:32Z] Latest event IDs count: 3
+[2026-05-03T03:44:32Z] No new events found
+[2026-05-03T03:44:32Z] Snapshot updated
+[2026-05-03T03:45:02Z] === Poll started ===
+[2026-05-03T03:45:02Z] Fetching events from calendar...
+[2026-05-03T03:45:02Z] API response received
+[2026-05-03T03:45:02Z] Latest event IDs count: 3
+[2026-05-03T03:45:02Z] No new events found
+[2026-05-03T03:45:02Z] Snapshot updated
+[2026-05-03T03:45:32Z] === Poll started ===
+[2026-05-03T03:45:32Z] Fetching events from calendar...
+[2026-05-03T03:45:33Z] API response received
+[2026-05-03T03:45:33Z] Latest event IDs count: 3
+[2026-05-03T03:45:33Z] No new events found
+[2026-05-03T03:45:33Z] Snapshot updated
+[2026-05-03T03:46:03Z] === Poll started ===
+[2026-05-03T03:46:03Z] Fetching events from calendar...
+[2026-05-03T03:46:03Z] API response received
+[2026-05-03T03:46:03Z] Latest event IDs count: 3
+[2026-05-03T03:46:03Z] No new events found
+[2026-05-03T03:46:03Z] Snapshot updated
+[2026-05-03T03:46:33Z] === Poll started ===
+[2026-05-03T03:46:33Z] Fetching events from calendar...
+[2026-05-03T03:46:34Z] API response received
+[2026-05-03T03:46:34Z] Latest event IDs count: 3
+[2026-05-03T03:46:34Z] No new events found
+[2026-05-03T03:46:34Z] Snapshot updated
+[2026-05-03T04:18:05Z] === Poll started ===
+[2026-05-03T04:18:05Z] Fetching events from calendar...
+[2026-05-03T04:18:05Z] API response received
+[2026-05-03T04:18:05Z] ERROR: API call failed - {
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "auth",
+    "code": 99991677,
+    "message": "Authentication token expired. Please request a new one.",
+    "hint": "run: lark-cli auth login to re-authorize",
+    "detail": {
+      "log_id": "20260503123300E9C47EB5460D459476A1",
+      "troubleshooter": "排查建议查看(Troubleshooting suggestions): https://open.feishu.cn/search?from=openapi&log_id=20260503123300E9C47EB5460D459476A1&code=99991677&method_id=7315323838266621956"
+    }
+  },
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-03T04:48:19Z] === Poll started ===
+[2026-05-03T04:48:19Z] Fetching events from calendar...
+[2026-05-03T04:48:19Z] API response received
+[2026-05-03T04:48:19Z] Latest event IDs count: 0
+0
+[2026-05-03T04:48:20Z] No new events found
+[2026-05-03T04:48:20Z] Snapshot updated
+[2026-05-03T05:18:34Z] === Poll started ===
+[2026-05-03T05:18:34Z] Fetching events from calendar...
+[2026-05-03T05:18:35Z] API response received
+[2026-05-03T05:18:35Z] Latest event IDs count: 0
+0
+[2026-05-03T05:18:35Z] No new events found
+[2026-05-03T05:18:35Z] Snapshot updated
+[2026-05-03T05:48:43Z] === Poll started ===
+[2026-05-03T05:48:43Z] Fetching events from calendar...
+[2026-05-03T05:48:43Z] API response received
+[2026-05-03T05:48:43Z] Latest event IDs count: 0
+0
+[2026-05-03T05:48:44Z] No new events found
+[2026-05-03T05:48:44Z] Snapshot updated
+[2026-05-03T06:34:04Z] === Poll started ===
+[2026-05-03T06:34:04Z] Fetching events from calendar...
+[2026-05-03T06:34:05Z] API response received
+[2026-05-03T06:34:05Z] Latest event IDs count: 0
+0
+[2026-05-03T06:34:05Z] No new events found
+[2026-05-03T06:34:05Z] Snapshot updated
+[2026-05-03T07:04:21Z] === Poll started ===
+[2026-05-03T07:04:21Z] Fetching events from calendar...
+[2026-05-03T07:04:21Z] API response received
+[2026-05-03T07:04:21Z] Latest event IDs count: 0
+0
+[2026-05-03T07:04:21Z] No new events found
+[2026-05-03T07:04:21Z] Snapshot updated
+[2026-05-03T07:49:40Z] === Poll started ===
+[2026-05-03T07:49:40Z] Fetching events from calendar...
+[2026-05-03T07:49:40Z] API response received
+[2026-05-03T07:49:40Z] Latest event IDs count: 0
+0
+[2026-05-03T07:49:40Z] No new events found
+[2026-05-03T07:49:40Z] Snapshot updated
+[2026-05-03T08:34:59Z] === Poll started ===
+[2026-05-03T08:34:59Z] Fetching events from calendar...
+[2026-05-03T08:35:00Z] API response received
+[2026-05-03T08:35:00Z] Latest event IDs count: 1
+[2026-05-03T08:35:00Z] Found new events: 3e017d58-4a24-4b74-9b67-809188d414bb_0,
+[2026-05-03T08:35:00Z] Processing new event: 3e017d58-4a24-4b74-9b67-809188d414bb_0
+[2026-05-03T08:35:00Z] Payload: {"event_id":"3e017d58-4a24-4b74-9b67-809188d414bb_0","title":"meeting-life-agent 测试4","start_time":{"datetime":"2026-05-03T09:30:00Z","timezone":"Asia/Shanghai"},"end_time":{"datetime":"2026-05-03T10:00:00Z","timezone":"Asia/Shanghai"},"participant_count":0,"discovered_at":"2026-05-03T08:35:00.062Z"}
+[2026-05-03T08:35:00Z] Event logged to new_events.jsonl
+[2026-05-03T08:35:00Z] Snapshot updated. Poll completed.
+[2026-05-03T09:20:14Z] === Poll started ===
+[2026-05-03T09:20:14Z] Fetching events from calendar...
+[2026-05-03T12:21:29Z] API response received
+[2026-05-03T12:21:29Z] ERROR: API call failed - {
+  "ok": false,
+  "identity": "user",
+  "error": {
+    "type": "api_error",
+    "message": "API call failed: Get \"https://open.feishu.cn/open-apis/calendar/v4/calendars/feishu.cn_hPSfMZ4cqYRd4yFZeFWhOc@group.calendar.feishu.cn/events/instance_view?end_time=1777972814&start_time=1777800014\": unexpected EOF"
+  },
+  "_notice": {
+    "update": {
+      "current": "1.0.19",
+      "latest": "1.0.23",
+      "message": "lark-cli 1.0.23 available, current 1.0.19"
+    }
+  }
+}
+[2026-05-03T12:40:35Z] === Poll started ===
+[2026-05-03T12:40:35Z] Fetching events from calendar...
+[2026-05-05T02:30:02Z] === Poll started ===
+[2026-05-05T02:30:02Z] Fetching events from calendar...
+[2026-05-05T02:30:04Z] API response received
+[2026-05-05T02:30:04Z] Latest event IDs count: 0
+0
+[2026-05-05T02:30:04Z] No new events found
+[2026-05-05T02:30:04Z] Snapshot updated
+[2026-05-05T02:30:04Z] Post-meeting scan: fetching agenda 2026-05-02T02:30:04Z .. 2026-05-05T02:30:04Z
+[2026-05-05T02:30:05Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:30:35Z] === Poll started ===
+[2026-05-05T02:30:35Z] Fetching events from calendar...
+[2026-05-05T02:30:36Z] API response received
+[2026-05-05T02:30:36Z] Latest event IDs count: 0
+0
+[2026-05-05T02:30:36Z] No new events found
+[2026-05-05T02:30:36Z] Snapshot updated
+[2026-05-05T02:30:36Z] Post-meeting scan: fetching agenda 2026-05-02T02:30:36Z .. 2026-05-05T02:30:36Z
+[2026-05-05T02:30:39Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:31:09Z] === Poll started ===
+[2026-05-05T02:31:09Z] Fetching events from calendar...
+[2026-05-05T02:31:10Z] API response received
+[2026-05-05T02:31:10Z] Latest event IDs count: 0
+0
+[2026-05-05T02:31:10Z] No new events found
+[2026-05-05T02:31:10Z] Snapshot updated
+[2026-05-05T02:31:10Z] Post-meeting scan: fetching agenda 2026-05-02T02:31:10Z .. 2026-05-05T02:31:10Z
+[2026-05-05T02:31:12Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:31:42Z] === Poll started ===
+[2026-05-05T02:31:42Z] Fetching events from calendar...
+[2026-05-05T02:31:43Z] API response received
+[2026-05-05T02:31:43Z] Latest event IDs count: 0
+0
+[2026-05-05T02:31:43Z] No new events found
+[2026-05-05T02:31:43Z] Snapshot updated
+[2026-05-05T02:31:43Z] Post-meeting scan: fetching agenda 2026-05-02T02:31:43Z .. 2026-05-05T02:31:43Z
+[2026-05-05T02:31:44Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:32:14Z] === Poll started ===
+[2026-05-05T02:32:14Z] Fetching events from calendar...
+[2026-05-05T02:32:15Z] API response received
+[2026-05-05T02:32:15Z] Latest event IDs count: 0
+0
+[2026-05-05T02:32:15Z] No new events found
+[2026-05-05T02:32:15Z] Snapshot updated
+[2026-05-05T02:32:15Z] Post-meeting scan: fetching agenda 2026-05-02T02:32:15Z .. 2026-05-05T02:32:15Z
+[2026-05-05T02:32:17Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:32:47Z] === Poll started ===
+[2026-05-05T02:32:47Z] Fetching events from calendar...
+[2026-05-05T02:32:48Z] API response received
+[2026-05-05T02:32:48Z] Latest event IDs count: 0
+0
+[2026-05-05T02:32:48Z] No new events found
+[2026-05-05T02:32:48Z] Snapshot updated
+[2026-05-05T02:32:48Z] Post-meeting scan: fetching agenda 2026-05-02T02:32:48Z .. 2026-05-05T02:32:48Z
+[2026-05-05T02:32:50Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:33:20Z] === Poll started ===
+[2026-05-05T02:33:20Z] Fetching events from calendar...
+[2026-05-05T02:33:21Z] API response received
+[2026-05-05T02:33:21Z] Latest event IDs count: 0
+0
+[2026-05-05T02:33:21Z] No new events found
+[2026-05-05T02:33:21Z] Snapshot updated
+[2026-05-05T02:33:21Z] Post-meeting scan: fetching agenda 2026-05-02T02:33:21Z .. 2026-05-05T02:33:21Z
+[2026-05-05T02:33:22Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:33:52Z] === Poll started ===
+[2026-05-05T02:33:52Z] Fetching events from calendar...
+[2026-05-05T02:33:53Z] API response received
+[2026-05-05T02:33:53Z] Latest event IDs count: 0
+0
+[2026-05-05T02:33:53Z] No new events found
+[2026-05-05T02:33:53Z] Snapshot updated
+[2026-05-05T02:33:53Z] Post-meeting scan: fetching agenda 2026-05-02T02:33:53Z .. 2026-05-05T02:33:53Z
+[2026-05-05T02:33:55Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:34:25Z] === Poll started ===
+[2026-05-05T02:34:25Z] Fetching events from calendar...
+[2026-05-05T02:34:26Z] API response received
+[2026-05-05T02:34:26Z] Latest event IDs count: 0
+0
+[2026-05-05T02:34:26Z] No new events found
+[2026-05-05T02:34:26Z] Snapshot updated
+[2026-05-05T02:34:26Z] Post-meeting scan: fetching agenda 2026-05-02T02:34:26Z .. 2026-05-05T02:34:26Z
+[2026-05-05T02:34:27Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:34:57Z] === Poll started ===
+[2026-05-05T02:34:57Z] Fetching events from calendar...
+[2026-05-05T02:34:58Z] API response received
+[2026-05-05T02:34:58Z] Latest event IDs count: 0
+0
+[2026-05-05T02:34:58Z] No new events found
+[2026-05-05T02:34:58Z] Snapshot updated
+[2026-05-05T02:34:58Z] Post-meeting scan: fetching agenda 2026-05-02T02:34:58Z .. 2026-05-05T02:34:58Z
+[2026-05-05T02:34:59Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:35:29Z] === Poll started ===
+[2026-05-05T02:35:29Z] Fetching events from calendar...
+[2026-05-05T02:35:31Z] API response received
+[2026-05-05T02:35:31Z] Latest event IDs count: 0
+0
+[2026-05-05T02:35:31Z] No new events found
+[2026-05-05T02:35:31Z] Snapshot updated
+[2026-05-05T02:35:31Z] Post-meeting scan: fetching agenda 2026-05-02T02:35:31Z .. 2026-05-05T02:35:31Z
+[2026-05-05T02:35:32Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:36:02Z] === Poll started ===
+[2026-05-05T02:36:02Z] Fetching events from calendar...
+[2026-05-05T02:36:03Z] API response received
+[2026-05-05T02:36:03Z] Latest event IDs count: 0
+0
+[2026-05-05T02:36:03Z] No new events found
+[2026-05-05T02:36:03Z] Snapshot updated
+[2026-05-05T02:36:03Z] Post-meeting scan: fetching agenda 2026-05-02T02:36:03Z .. 2026-05-05T02:36:03Z
+[2026-05-05T02:36:04Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:36:34Z] === Poll started ===
+[2026-05-05T02:36:34Z] Fetching events from calendar...
+[2026-05-05T02:36:35Z] API response received
+[2026-05-05T02:36:36Z] Latest event IDs count: 0
+0
+[2026-05-05T02:36:36Z] No new events found
+[2026-05-05T02:36:36Z] Snapshot updated
+[2026-05-05T02:36:36Z] Post-meeting scan: fetching agenda 2026-05-02T02:36:36Z .. 2026-05-05T02:36:36Z
+[2026-05-05T02:36:37Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:37:07Z] === Poll started ===
+[2026-05-05T02:37:07Z] Fetching events from calendar...
+[2026-05-05T02:37:08Z] API response received
+[2026-05-05T02:37:08Z] Latest event IDs count: 0
+0
+[2026-05-05T02:37:08Z] No new events found
+[2026-05-05T02:37:08Z] Snapshot updated
+[2026-05-05T02:37:08Z] Post-meeting scan: fetching agenda 2026-05-02T02:37:08Z .. 2026-05-05T02:37:08Z
+[2026-05-05T02:37:09Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:37:39Z] === Poll started ===
+[2026-05-05T02:37:39Z] Fetching events from calendar...
+[2026-05-05T02:37:40Z] API response received
+[2026-05-05T02:37:40Z] Latest event IDs count: 0
+0
+[2026-05-05T02:37:40Z] No new events found
+[2026-05-05T02:37:40Z] Snapshot updated
+[2026-05-05T02:37:40Z] Post-meeting scan: fetching agenda 2026-05-02T02:37:40Z .. 2026-05-05T02:37:40Z
+[2026-05-05T02:37:42Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:38:12Z] === Poll started ===
+[2026-05-05T02:38:12Z] Fetching events from calendar...
+[2026-05-05T02:38:13Z] API response received
+[2026-05-05T02:38:13Z] Latest event IDs count: 0
+0
+[2026-05-05T02:38:13Z] No new events found
+[2026-05-05T02:38:13Z] Snapshot updated
+[2026-05-05T02:38:13Z] Post-meeting scan: fetching agenda 2026-05-02T02:38:13Z .. 2026-05-05T02:38:13Z
+[2026-05-05T02:38:15Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:38:45Z] === Poll started ===
+[2026-05-05T02:38:45Z] Fetching events from calendar...
+[2026-05-05T02:38:46Z] API response received
+[2026-05-05T02:38:46Z] Latest event IDs count: 0
+0
+[2026-05-05T02:38:46Z] No new events found
+[2026-05-05T02:38:46Z] Snapshot updated
+[2026-05-05T02:38:46Z] Post-meeting scan: fetching agenda 2026-05-02T02:38:46Z .. 2026-05-05T02:38:46Z
+[2026-05-05T02:38:48Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:39:18Z] === Poll started ===
+[2026-05-05T02:39:18Z] Fetching events from calendar...
+[2026-05-05T02:39:19Z] API response received
+[2026-05-05T02:39:19Z] Latest event IDs count: 0
+0
+[2026-05-05T02:39:19Z] No new events found
+[2026-05-05T02:39:19Z] Snapshot updated
+[2026-05-05T02:39:19Z] Post-meeting scan: fetching agenda 2026-05-02T02:39:19Z .. 2026-05-05T02:39:19Z
+[2026-05-05T02:39:20Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:39:50Z] === Poll started ===
+[2026-05-05T02:39:50Z] Fetching events from calendar...
+[2026-05-05T02:39:51Z] API response received
+[2026-05-05T02:39:51Z] Latest event IDs count: 0
+0
+[2026-05-05T02:39:51Z] No new events found
+[2026-05-05T02:39:51Z] Snapshot updated
+[2026-05-05T02:39:51Z] Post-meeting scan: fetching agenda 2026-05-02T02:39:51Z .. 2026-05-05T02:39:51Z
+[2026-05-05T02:39:53Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:40:23Z] === Poll started ===
+[2026-05-05T02:40:23Z] Fetching events from calendar...
+[2026-05-05T02:40:24Z] API response received
+[2026-05-05T02:40:24Z] Latest event IDs count: 0
+0
+[2026-05-05T02:40:24Z] No new events found
+[2026-05-05T02:40:24Z] Snapshot updated
+[2026-05-05T02:40:24Z] Post-meeting scan: fetching agenda 2026-05-02T02:40:24Z .. 2026-05-05T02:40:24Z
+[2026-05-05T02:40:29Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:40:59Z] === Poll started ===
+[2026-05-05T02:40:59Z] Fetching events from calendar...
+[2026-05-05T02:41:00Z] API response received
+[2026-05-05T02:41:00Z] Latest event IDs count: 0
+0
+[2026-05-05T02:41:00Z] No new events found
+[2026-05-05T02:41:00Z] Snapshot updated
+[2026-05-05T02:41:00Z] Post-meeting scan: fetching agenda 2026-05-02T02:41:00Z .. 2026-05-05T02:41:00Z
+[2026-05-05T02:41:02Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:41:32Z] === Poll started ===
+[2026-05-05T02:41:32Z] Fetching events from calendar...
+[2026-05-05T02:41:33Z] API response received
+[2026-05-05T02:41:33Z] Latest event IDs count: 0
+0
+[2026-05-05T02:41:33Z] No new events found
+[2026-05-05T02:41:33Z] Snapshot updated
+[2026-05-05T02:41:33Z] Post-meeting scan: fetching agenda 2026-05-02T02:41:33Z .. 2026-05-05T02:41:33Z
+[2026-05-05T02:41:34Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:42:04Z] === Poll started ===
+[2026-05-05T02:42:04Z] Fetching events from calendar...
+[2026-05-05T02:42:05Z] API response received
+[2026-05-05T02:42:05Z] Latest event IDs count: 0
+0
+[2026-05-05T02:42:05Z] No new events found
+[2026-05-05T02:42:05Z] Snapshot updated
+[2026-05-05T02:42:05Z] Post-meeting scan: fetching agenda 2026-05-02T02:42:05Z .. 2026-05-05T02:42:05Z
+[2026-05-05T02:42:08Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:42:38Z] === Poll started ===
+[2026-05-05T02:42:38Z] Fetching events from calendar...
+[2026-05-05T02:42:39Z] API response received
+[2026-05-05T02:42:39Z] Latest event IDs count: 0
+0
+[2026-05-05T02:42:39Z] No new events found
+[2026-05-05T02:42:39Z] Snapshot updated
+[2026-05-05T02:42:39Z] Post-meeting scan: fetching agenda 2026-05-02T02:42:39Z .. 2026-05-05T02:42:39Z
+[2026-05-05T02:42:41Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:43:11Z] === Poll started ===
+[2026-05-05T02:43:11Z] Fetching events from calendar...
+[2026-05-05T02:43:12Z] API response received
+[2026-05-05T02:43:12Z] Latest event IDs count: 0
+0
+[2026-05-05T02:43:12Z] No new events found
+[2026-05-05T02:43:12Z] Snapshot updated
+[2026-05-05T02:43:12Z] Post-meeting scan: fetching agenda 2026-05-02T02:43:12Z .. 2026-05-05T02:43:12Z
+[2026-05-05T02:43:13Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:43:43Z] === Poll started ===
+[2026-05-05T02:43:43Z] Fetching events from calendar...
+[2026-05-05T02:43:45Z] API response received
+[2026-05-05T02:43:45Z] Latest event IDs count: 0
+0
+[2026-05-05T02:43:45Z] No new events found
+[2026-05-05T02:43:45Z] Snapshot updated
+[2026-05-05T02:43:45Z] Post-meeting scan: fetching agenda 2026-05-02T02:43:45Z .. 2026-05-05T02:43:45Z
+[2026-05-05T02:43:46Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:44:16Z] === Poll started ===
+[2026-05-05T02:44:16Z] Fetching events from calendar...
+[2026-05-05T02:44:17Z] API response received
+[2026-05-05T02:44:17Z] Latest event IDs count: 0
+0
+[2026-05-05T02:44:18Z] No new events found
+[2026-05-05T02:44:18Z] Snapshot updated
+[2026-05-05T02:44:18Z] Post-meeting scan: fetching agenda 2026-05-02T02:44:18Z .. 2026-05-05T02:44:18Z
+[2026-05-05T02:44:19Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:44:49Z] === Poll started ===
+[2026-05-05T02:44:49Z] Fetching events from calendar...
+[2026-05-05T02:44:50Z] API response received
+[2026-05-05T02:44:50Z] Latest event IDs count: 0
+0
+[2026-05-05T02:44:50Z] No new events found
+[2026-05-05T02:44:50Z] Snapshot updated
+[2026-05-05T02:44:50Z] Post-meeting scan: fetching agenda 2026-05-02T02:44:50Z .. 2026-05-05T02:44:50Z
+[2026-05-05T02:44:52Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:45:22Z] === Poll started ===
+[2026-05-05T02:45:22Z] Fetching events from calendar...
+[2026-05-05T02:45:23Z] API response received
+[2026-05-05T02:45:23Z] Latest event IDs count: 0
+0
+[2026-05-05T02:45:23Z] No new events found
+[2026-05-05T02:45:23Z] Snapshot updated
+[2026-05-05T02:45:23Z] Post-meeting scan: fetching agenda 2026-05-02T02:45:23Z .. 2026-05-05T02:45:23Z
+[2026-05-05T02:45:24Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:45:54Z] === Poll started ===
+[2026-05-05T02:45:54Z] Fetching events from calendar...
+[2026-05-05T02:45:56Z] API response received
+[2026-05-05T02:45:56Z] Latest event IDs count: 0
+0
+[2026-05-05T02:45:56Z] No new events found
+[2026-05-05T02:45:56Z] Snapshot updated
+[2026-05-05T02:45:56Z] Post-meeting scan: fetching agenda 2026-05-02T02:45:56Z .. 2026-05-05T02:45:56Z
+[2026-05-05T02:45:58Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:46:28Z] === Poll started ===
+[2026-05-05T02:46:28Z] Fetching events from calendar...
+[2026-05-05T02:46:29Z] API response received
+[2026-05-05T02:46:29Z] Latest event IDs count: 0
+0
+[2026-05-05T02:46:29Z] No new events found
+[2026-05-05T02:46:29Z] Snapshot updated
+[2026-05-05T02:46:29Z] Post-meeting scan: fetching agenda 2026-05-02T02:46:29Z .. 2026-05-05T02:46:29Z
+[2026-05-05T02:46:30Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:47:00Z] === Poll started ===
+[2026-05-05T02:47:00Z] Fetching events from calendar...
+[2026-05-05T02:47:01Z] API response received
+[2026-05-05T02:47:02Z] Latest event IDs count: 0
+0
+[2026-05-05T02:47:02Z] No new events found
+[2026-05-05T02:47:02Z] Snapshot updated
+[2026-05-05T02:47:02Z] Post-meeting scan: fetching agenda 2026-05-02T02:47:02Z .. 2026-05-05T02:47:02Z
+[2026-05-05T02:47:03Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:47:33Z] === Poll started ===
+[2026-05-05T02:47:33Z] Fetching events from calendar...
+[2026-05-05T02:47:34Z] API response received
+[2026-05-05T02:47:34Z] Latest event IDs count: 0
+0
+[2026-05-05T02:47:34Z] No new events found
+[2026-05-05T02:47:34Z] Snapshot updated
+[2026-05-05T02:47:34Z] Post-meeting scan: fetching agenda 2026-05-02T02:47:34Z .. 2026-05-05T02:47:34Z
+[2026-05-05T02:47:35Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:48:05Z] === Poll started ===
+[2026-05-05T02:48:05Z] Fetching events from calendar...
+[2026-05-05T02:48:08Z] API response received
+[2026-05-05T02:48:08Z] Latest event IDs count: 0
+0
+[2026-05-05T02:48:08Z] No new events found
+[2026-05-05T02:48:08Z] Snapshot updated
+[2026-05-05T02:48:08Z] Post-meeting scan: fetching agenda 2026-05-02T02:48:08Z .. 2026-05-05T02:48:08Z
+[2026-05-05T02:48:10Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:48:40Z] === Poll started ===
+[2026-05-05T02:48:40Z] Fetching events from calendar...
+[2026-05-05T02:48:41Z] API response received
+[2026-05-05T02:48:41Z] Latest event IDs count: 0
+0
+[2026-05-05T02:48:41Z] No new events found
+[2026-05-05T02:48:41Z] Snapshot updated
+[2026-05-05T02:48:41Z] Post-meeting scan: fetching agenda 2026-05-02T02:48:41Z .. 2026-05-05T02:48:41Z
+[2026-05-05T02:48:42Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl
+[2026-05-05T02:49:12Z] === Poll started ===
+[2026-05-05T02:49:12Z] Fetching events from calendar...
+[2026-05-05T02:49:13Z] API response received
+[2026-05-05T02:49:13Z] Latest event IDs count: 0
+0
+[2026-05-05T02:49:13Z] No new events found
+[2026-05-05T02:49:13Z] Snapshot updated
+[2026-05-05T02:49:13Z] Post-meeting scan: fetching agenda 2026-05-02T02:49:13Z .. 2026-05-05T02:49:13Z
+[2026-05-05T02:49:15Z] Post-meeting scan: enqueued 0 ended event(s) to ended_events.jsonl

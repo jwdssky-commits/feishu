@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-03T03:26:00Z",
+  "meeting": {
+    "title": "MLA 开发 Demo",
+    "scheduled_at": "2026-05-03 11:30–12:00 Asia/Shanghai",
+    "timezone": "Asia/Shanghai",
+    "participants_hint": ["约 0 人（日历计数）"],
+    "objectives_user": null,
+    "related_chat_ids": [],
+    "related_doc_urls_or_tokens": [
+      "https://jcneyh7qlo8i.feishu.cn/wiki/YVBawwzKQimljpk3DY7cOUQYnqc",
+      "https://jcneyh7qlo8i.feishu.cn/wiki/E2w5wH3wpiMnSSk6fNqcpgfsn3e"
+    ]
+  },
+  "sources": {
+    "cloud_documents": [
+      {
+        "title": "Multi Agent —— 会议闭环",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/YVBawwzKQimljpk3DY7cOUQYnqc",
+        "retrieval_mode": "full",
+        "summary": "提出了 Meeting Life Agent (MLA) 的最小多 Agent 架构：4 个业务 Agent (Main/Pre/Post/Card) + 1 个共享规则 Skill (mla-shared)。文档详细定义了各 Agent 的职责边界、CLI 命令集、输入输出结构和禁止事项。",
+        "key_points": [
+          "推荐架构：mla-shared（共享规则）+ mla-main-agent（扫描路由）+ mla-pre-agent（会前检索）+ mla-post-agent（会后纪要）+ mla-card-agent（卡片推送）",
+          "Main Agent 只做四件事：扫描日程/会议/任务、做路由、对比状态、分发任务，禁止直接发送 IM/创建任务/生成文案",
+          "Pre-Meeting Agent 职责：根据会议标题提取关键词、搜索文档/历史会议、读取大纲或关键词片段、生成结构化 pre_brief_json，所有结论必须带来源链接",
+          "Card Agent 是唯一允许发消息的 Agent，必须维护 4 个模板（pre_brief/post_summary/cancel_notice/meeting_changed）",
+          "所有 lark-cli 命令默认加 --format json；读用户资源默认 --as user；任何写操作必须支持 --dry-run；禁止输出 access_token/refresh_token/appSecret"
+        ],
+        "open_questions_from_doc": [
+          "lark-event 仅支持 IM 事件，calendar.* 和 vc.* 返回 unknown EventKey，需使用 cron 轮询替代",
+          "lark-base 的 schema base 不可用，仅 CLI shortcuts 可用，建议第一版 Demo 不要强依赖 Base"
+        ]
+      },
+      {
+        "title": "Meeting Life Agent 飞书 CLI 实测报告",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/E2w5wH3wpiMnSSk6fNqcpgfsn3e",
+        "retrieval_mode": "full",
+        "summary": "杨天智于 2026-04-30 对 lark-cli 各模块进行了全面实测，验证了 calendar/vc/docs/im/task 等核心模块的可用性，并给出了详细的使用注意事项和替代方案。",
+        "key_points": [
+          "lark-calendar +agenda 完美工作，返回完整 JSON 含 description/app_link/attendees，是最有价值的会前触发命令",
+          "lark-vc +notes 一次调用返回 note_doc_token（AI 纪要）+ verbatim_doc_token（逐字稿），是会后流程核心依赖",
+          "lark-docs +search 支持高级布尔语法，+fetch 支持 outline/range/keyword/section 四种局部读取模式",
+          "lark-event 仅支持 11 种 IM 事件，不支持 calendar.* 和 vc.*，需使用定时轮询替代",
+          "token 每 2 小时过期需 refresh，CLI 自动处理；读用户日历/文档/任务必须用 --as user"
+        ],
+        "open_questions_from_doc": [
+          "search_event 的 calendar_id 是路径参数而非 query param，容易出错",
+          "lark-minutes +search 返回空结果（该账号无妙记数据），替代方案是使用 vc +notes"
+        ]
+      }
+    ],
+    "past_meetings": [
+      {
+        "meeting_id": "7634539368300825545",
+        "title": "openclaw 全链路 agent 开发研讨 01",
+        "start_time": "2026-04-30T13:22:00+08:00",
+        "notes_available": false,
+        "summary": "4 月 30 日晚间的 openclaw 全链路 agent 开发研讨，无 AI 纪要可用。",
+        "carry_over_actions": [],
+        "decisions_recalled": []
+      },
+      {
+        "meeting_id": "7634389804159945692",
+        "title": "openclaw 全链路 agent 开发难点交流",
+        "start_time": "2026-04-30T11:34:00+08:00",
+        "notes_available": false,
+        "summary": "4 月 30 日上午的 openclaw 全链路 agent 开发难点交流，无 AI 纪要可用。",
+        "carry_over_actions": [],
+        "decisions_recalled": []
+      },
+      {
+        "meeting_id": "7633424953397185488",
+        "title": "飞书 CLI 开发及后续工作会议",
+        "start_time": "2026-04-27T21:15:00+08:00",
+        "notes_available": true,
+        "summary": "4 月 27 日的飞书 CLI 开发工作会议，明确了开发分工（朱泽奇负责会前、杨天智负责会后）、采用 heartbeat 替代监听方案（每 30 分钟检查一次）、Multi agent 形式（主 agent 分发 + 子 agent 执行）、尽快完成 demo。斯楷扬负责编写三个 prompt（大模型调用、会议分类、纪要提取）。",
+        "carry_over_actions": [
+          "Prompt 调试：从明天开始调试三个 prompt（负责人：斯楷扬）",
+          "监听录制：录制监听内容以便斯楷扬进行 prompt 修改，搭建 demo 过程中与朱泽奇多联系（负责人：杨天智）"
+        ],
+        "decisions_recalled": [
+          "采用 heartbeat 方式替代监听功能，先按每 30 分钟检查一次",
+          "采用 Multi agent 形式：主 agent 分发任务、子 agent 执行任务",
+          "朱泽奇负责会前部分，杨天智负责会后部分，双方在核心技术上保持沟通",
+          "尽快完成初步的 demo，后续再进行功能优化"
+        ]
+      }
+    ],
+    "chats": []
+  },
+  "synthesis": {
+    "background": "MLA (Meeting Life Agent) 是一个基于飞书 CLI 的多 Agent 会议闭环系统，旨在自动化处理会前资料检索、会后纪要提取和任务创建。项目采用 4 个业务 Agent + 1 个共享规则 Skill 的架构，通过 Main Agent 扫描日程并分发任务给 Pre/Post/Card Agent。4 月 27 日的工作会议已明确开发分工和 heartbeat 轮询方案，4 月 30 日进行了两次 openclaw 全链路 agent 开发研讨，本次 Demo 会议旨在展示和验证 MLA 系统的核心功能。",
+    "current_status": [
+      "架构设计完成：mla-shared + mla-main-agent + mla-pre-agent + mla-post-agent + mla-card-agent",
+      "飞书 CLI 实测完成：calendar/vc/docs/im/task 模块验证可用，lark-event 不支持 calendar/vc 事件需用轮询替代",
+      "开发分工明确：朱泽奇负责会前部分，杨天智负责会后部分，斯楷扬负责 prompt 编写",
+      "技术方案确定：采用 heartbeat 轮询（每 30 分钟）替代监听功能，Multi agent 形式（主 agent 分发 + 子 agent 执行）",
+      "核心命令验证通过：+agenda（日程扫描）、+notes（会议纪要）、+search（文档检索）、+fetch（文档读取）、+messages-send（卡片推送）"
+    ],
+    "risks_and_blockers": [
+      "lark-event 不支持 calendar/vc 事件，必须使用 cron 轮询方案，可能影响实时性",
+      "lark-base 的 schema 命令不可用，第一版 Demo 不应强依赖 Base 存储状态",
+      "token 每 2 小时过期，需确保 CLI 自动刷新机制正常工作",
+      "最近两次研讨会议（4 月 30 日）无 AI 纪要可用，可能遗漏重要决策"
+    ],
+    "stakeholder_concerns": [
+      "斯楷扬：需要优化卡片效果，需参考 demo 实际情况调整 prompt",
+      "朱泽奇：关心监听功能是否能打通，以及 BOT 与用户身份的权限差异",
+      "杨天智：关注本地部署与妙搭部署的效果对比，以及 IDE 选择对开发的影响"
+    ],
+    "open_questions_for_chair": [
+      "4 月 30 日两次研讨会议的具体讨论内容和决策是什么？（无 AI 纪要）",
+      "Demo 展示的范围和深度如何界定？是否需要覆盖完整的会前 - 会后闭环？",
+      "卡片模板的优化方向是什么？是否有具体的设计参考？",
+      "heartbeat 轮询间隔是否需要从 30 分钟调整为更频繁（如 5 分钟）以满足 Demo 需求？"
+    ],
+    "proposed_agenda": [
+      {
+        "topic": "MLA 架构回顾与分工确认",
+        "objective": "快速回顾 4+1 Agent 架构，确认各模块负责人和当前进度",
+        "time_budget_min": 5
+      },
+      {
+        "topic": "Demo 演示：会前简报生成流程",
+        "objective": "展示 Main Agent 扫描日程 → Pre Agent 检索文档/历史会议 → 生成结构化简报 → Card Agent 推送卡片的完整流程",
+        "time_budget_min": 10
+      },
+      {
+        "topic": "Demo 演示：会后纪要提取与任务创建",
+        "objective": "展示 Post Agent 获取会议纪要 → 提取待办 → 创建飞书任务 → Card Agent 推送总结卡片的完整流程",
+        "time_budget_min": 10
+      },
+      {
+        "topic": "技术方案讨论：heartbeat 轮询 vs 事件监听",
+        "objective": "讨论当前轮询方案的优缺点，是否需要优化轮询间隔或探索其他实时方案",
+        "time_budget_min": 5
+      },
+      {
+        "topic": "后续优化方向与时间规划",
+        "objective": "确定 Demo 后的优化优先级（卡片模板、prompt 调试、Base 集成等）和里程碑",
+        "time_budget_min": 5
+      }
+    ],
+    "recommended_reads": [
+      {
+        "title": "Multi Agent —— 会议闭环",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/YVBawwzKQimljpk3DY7cOUQYnqc",
+        "reason": "MLA 架构设计文档，定义了各 Agent 的职责、CLI 命令集和禁止事项"
+      },
+      {
+        "title": "Meeting Life Agent 飞书 CLI 实测报告",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/wiki/E2w5wH3wpiMnSSk6fNqcpgfsn3e",
+        "reason": "飞书 CLI 各模块的实测结果和使用注意事项，是技术选型的重要依据"
+      },
+      {
+        "title": "飞书 CLI 开发及后续工作会议纪要",
+        "url_or_token": "https://jcneyh7qlo8i.feishu.cn/docx/ZLcsd90xBohpslxcdLycrHrEnVf",
+        "reason": "4 月 27 日工作会议的完整纪要，包含开发分工、heartbeat 方案、prompt 编写计划等关键决策"
+      }
+    ]
+  },
+  "meta": {
+    "cli_identity": "user",
+    "assumptions": [
+      "会议标题 'MLA 开发 Demo' 指的是 Meeting Life Agent 项目的 Demo 展示",
+      "参会人数为 0 可能是日历未同步参会人信息，实际参会人应包括朱泽奇、杨天智、斯楷扬等核心开发人员",
+      "基于 4 月 27 日会议决策，Demo 应覆盖会前简报和会后纪要两大核心流程"
+    ],
+    "errors": [],
+    "coverage_gaps": [
+      "4 月 30 日两次研讨会议（openclaw 全链路 agent 开发研讨 01、openclaw 全链路 agent 开发难点交流）无 AI 纪要可用，无法获取详细讨论内容",
+      "未搜索到与 'MLA' 直接相关的 IM 群聊记录，可能群名不包含该关键词",
+      "会议锚点未提供参会人列表，无法通过 contact 解析具体参会人信息"
+    ]
+  }
+}
